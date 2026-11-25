@@ -1,0 +1,433 @@
+{
+  "revision": "R05",
+  "geometry_checks": 225,
+  "inherited_R04_checks": 134,
+  "all_pass": true,
+  "counts": {
+    "STL": 38,
+    "STEP": 38,
+    "DWG": 32,
+    "DXF": 32,
+    "PDF": 3
+  },
+  "pdf_pages": 73,
+  "physical_tests_performed": false,
+  "confirmed_post_clearance_checked": true,
+  "post_diameter_mm": 147.5,
+  "nominal_radial_gap_mm": 1.25,
+  "actual_base_fit_verified": false,
+  "checks": [
+    {
+      "name": "Delivered file counts",
+      "pass": true,
+      "counts": {
+        "STL": 38,
+        "STEP": 38,
+        "DWG": 32,
+        "DXF": 32,
+        "PDF": 3
+      }
+    },
+    {
+      "name": "Manufacturing list references 25 actual files",
+      "pass": true
+    },
+    {
+      "name": "Production quantities 20 plywood and 20 printed pieces",
+      "pass": true
+    },
+    {
+      "name": "B1 complete matched kit",
+      "pass": true
+    },
+    {
+      "name": "B2 complete matched kit",
+      "pass": true
+    },
+    {
+      "name": "B3 complete matched kit",
+      "pass": true
+    },
+    {
+      "name": "B4 complete matched kit",
+      "pass": true
+    },
+    {
+      "name": "B1_Assembly.stl final mesh integrity",
+      "pass": true
+    },
+    {
+      "name": "B1_C01.stl final mesh integrity",
+      "pass": true
+    },
+    {
+      "name": "B1_F01.stl final mesh integrity",
+      "pass": true
+    },
+    {
+      "name": "B1_W01.stl final mesh integrity",
+      "pass": true
+    },
+    {
+      "name": "B1_W02.stl final mesh integrity",
+      "pass": true
+    },
+    {
+      "name": "B1_W03.stl final mesh integrity",
+      "pass": true
+    },
+    {
+      "name": "B1_W04.stl final mesh integrity",
+      "pass": true
+    },
+    {
+      "name": "B2_Assembly.stl final mesh integrity",
+      "pass": true
+    },
+    {
+      "name": "B2_C01.stl final mesh integrity",
+      "pass": true
+    },
+    {
+      "name": "B2_F01.stl final mesh integrity",
+      "pass": true
+    },
+    {
+      "name": "B2_W01.stl final mesh integrity",
+      "pass": true
+    },
+    {
+      "name": "B2_W02.stl final mesh integrity",
+      "pass": true
+    },
+    {
+      "name": "B2_W03.stl final mesh integrity",
+      "pass": true
+    },
+    {
+      "name": "B2_W04.stl final mesh integrity",
+      "pass": true
+    },
+    {
+      "name": "B3_Assembly.stl final mesh integrity",
+      "pass": true
+    },
+    {
+      "name": "B3_C01.stl final mesh integrity",
+      "pass": true
+    },
+    {
+      "name": "B3_F01.stl final mesh integrity",
+      "pass": true
+    },
+    {
+      "name": "B3_W01.stl final mesh integrity",
+      "pass": true
+    },
+    {
+      "name": "B3_W02.stl final mesh integrity",
+      "pass": true
+    },
+    {
+      "name": "B3_W03.stl final mesh integrity",
+      "pass": true
+    },
+    {
+      "name": "B3_W04.stl final mesh integrity",
+      "pass": true
+    },
+    {
+      "name": "B4_Assembly.stl final mesh integrity",
+      "pass": true
+    },
+    {
+      "name": "B4_C01.stl final mesh integrity",
+      "pass": true
+    },
+    {
+      "name": "B4_F01.stl final mesh integrity",
+      "pass": true
+    },
+    {
+      "name": "B4_W01.stl final mesh integrity",
+      "pass": true
+    },
+    {
+      "name": "B4_W02.stl final mesh integrity",
+      "pass": true
+    },
+    {
+      "name": "B4_W03.stl final mesh integrity",
+      "pass": true
+    },
+    {
+      "name": "B4_W04.stl final mesh integrity",
+      "pass": true
+    },
+    {
+      "name": "Four_Bin_Layout_R05.stl final mesh integrity",
+      "pass": true
+    },
+    {
+      "name": "M01_magnet_insert.stl final mesh integrity",
+      "pass": true
+    },
+    {
+      "name": "Q01_wall_fit.stl final mesh integrity",
+      "pass": true
+    },
+    {
+      "name": "Q02_floor_fit.stl final mesh integrity",
+      "pass": true
+    },
+    {
+      "name": "Q03_wall_tab.stl final mesh integrity",
+      "pass": true
+    },
+    {
+      "name": "Q04_floor_tab.stl final mesh integrity",
+      "pass": true
+    },
+    {
+      "name": "Q05_curve_joint_sample.stl final mesh integrity",
+      "pass": true
+    },
+    {
+      "name": "Q06_curve_wall_sample.stl final mesh integrity",
+      "pass": true
+    },
+    {
+      "name": "Q07_insert_fit.stl final mesh integrity",
+      "pass": true
+    },
+    {
+      "name": "Q08_floor_wall_tab.stl final mesh integrity",
+      "pass": true
+    },
+    {
+      "name": "STL/M01_magnet_insert.stl unchanged common geometry",
+      "pass": true
+    },
+    {
+      "name": "STL/Q01_wall_fit.stl unchanged common geometry",
+      "pass": true
+    },
+    {
+      "name": "STL/Q02_floor_fit.stl unchanged common geometry",
+      "pass": true
+    },
+    {
+      "name": "STL/Q03_wall_tab.stl unchanged common geometry",
+      "pass": true
+    },
+    {
+      "name": "STL/Q04_floor_tab.stl unchanged common geometry",
+      "pass": true
+    },
+    {
+      "name": "STL/Q05_curve_joint_sample.stl unchanged common geometry",
+      "pass": true
+    },
+    {
+      "name": "STL/Q06_curve_wall_sample.stl unchanged common geometry",
+      "pass": true
+    },
+    {
+      "name": "STL/Q07_insert_fit.stl unchanged common geometry",
+      "pass": true
+    },
+    {
+      "name": "STL/Q08_floor_wall_tab.stl unchanged common geometry",
+      "pass": true
+    },
+    {
+      "name": "STEP/M01_magnet_insert.step unchanged common geometry",
+      "pass": true
+    },
+    {
+      "name": "STEP/Q01_wall_fit.step unchanged common geometry",
+      "pass": true
+    },
+    {
+      "name": "STEP/Q02_floor_fit.step unchanged common geometry",
+      "pass": true
+    },
+    {
+      "name": "STEP/Q03_wall_tab.step unchanged common geometry",
+      "pass": true
+    },
+    {
+      "name": "STEP/Q04_floor_tab.step unchanged common geometry",
+      "pass": true
+    },
+    {
+      "name": "STEP/Q05_curve_joint_sample.step unchanged common geometry",
+      "pass": true
+    },
+    {
+      "name": "STEP/Q06_curve_wall_sample.step unchanged common geometry",
+      "pass": true
+    },
+    {
+      "name": "STEP/Q07_insert_fit.step unchanged common geometry",
+      "pass": true
+    },
+    {
+      "name": "STEP/Q08_floor_wall_tab.step unchanged common geometry",
+      "pass": true
+    },
+    {
+      "name": "DWG/M01_magnet_insert_REFERENCE.dwg common geometry linked to unchanged validated DXF",
+      "pass": true
+    },
+    {
+      "name": "DWG/Q01_wall_fit.dwg common geometry linked to unchanged validated DXF",
+      "pass": true
+    },
+    {
+      "name": "DWG/Q02_floor_fit.dwg common geometry linked to unchanged validated DXF",
+      "pass": true
+    },
+    {
+      "name": "DWG/Q03_wall_tab.dwg common geometry linked to unchanged validated DXF",
+      "pass": true
+    },
+    {
+      "name": "DWG/Q04_floor_tab.dwg common geometry linked to unchanged validated DXF",
+      "pass": true
+    },
+    {
+      "name": "DWG/Q06_curve_wall_sample.dwg common geometry linked to unchanged validated DXF",
+      "pass": true
+    },
+    {
+      "name": "DWG/Q07_insert_fit.dwg common geometry linked to unchanged validated DXF",
+      "pass": true
+    },
+    {
+      "name": "DWG/Q08_floor_wall_tab.dwg common geometry linked to unchanged validated DXF",
+      "pass": true
+    },
+    {
+      "name": "Guide exact file references exist",
+      "pass": true
+    },
+    {
+      "name": "Guide quantities match production list",
+      "pass": true
+    },
+    {
+      "name": "Manufacturing_and_Assembly_Guide_R05.pdf pages and readable text",
+      "pass": true,
+      "pages": 20
+    },
+    {
+      "name": "Manufacturing_and_Assembly_Guide_R05.pdf fonts contain no replacement glyphs",
+      "pass": true
+    },
+    {
+      "name": "Dimensioned_Parts_and_Layouts_R05.pdf pages and readable text",
+      "pass": true,
+      "pages": 26
+    },
+    {
+      "name": "Dimensioned_Parts_and_Layouts_R05.pdf fonts contain no replacement glyphs",
+      "pass": true
+    },
+    {
+      "name": "Full_Scale_Cutting_Profiles_R05.pdf pages and readable text",
+      "pass": true,
+      "pages": 27
+    },
+    {
+      "name": "Full_Scale_Cutting_Profiles_R05.pdf fonts contain no replacement glyphs",
+      "pass": true
+    },
+    {
+      "name": "B1_F01 1:1 page dimensions",
+      "pass": true
+    },
+    {
+      "name": "B1_W01 1:1 page dimensions",
+      "pass": true
+    },
+    {
+      "name": "B1_W02 1:1 page dimensions",
+      "pass": true
+    },
+    {
+      "name": "B1_W03 1:1 page dimensions",
+      "pass": true
+    },
+    {
+      "name": "B1_W04 1:1 page dimensions",
+      "pass": true
+    },
+    {
+      "name": "B2_F01 1:1 page dimensions",
+      "pass": true
+    },
+    {
+      "name": "B2_W01 1:1 page dimensions",
+      "pass": true
+    },
+    {
+      "name": "B2_W02 1:1 page dimensions",
+      "pass": true
+    },
+    {
+      "name": "B2_W03 1:1 page dimensions",
+      "pass": true
+    },
+    {
+      "name": "B2_W04 1:1 page dimensions",
+      "pass": true
+    },
+    {
+      "name": "B3_F01 1:1 page dimensions",
+      "pass": true
+    },
+    {
+      "name": "B3_W01 1:1 page dimensions",
+      "pass": true
+    },
+    {
+      "name": "B3_W02 1:1 page dimensions",
+      "pass": true
+    },
+    {
+      "name": "B3_W03 1:1 page dimensions",
+      "pass": true
+    },
+    {
+      "name": "B3_W04 1:1 page dimensions",
+      "pass": true
+    },
+    {
+      "name": "B4_F01 1:1 page dimensions",
+      "pass": true
+    },
+    {
+      "name": "B4_W01 1:1 page dimensions",
+      "pass": true
+    },
+    {
+      "name": "B4_W02 1:1 page dimensions",
+      "pass": true
+    },
+    {
+      "name": "B4_W03 1:1 page dimensions",
+      "pass": true
+    },
+    {
+      "name": "B4_W04 1:1 page dimensions",
+      "pass": true
+    },
+    {
+      "name": "Rendered page-by-page visual review",
+      "pass": true,
+      "pages": 73,
+      "details": "20 guide + 26 dimensioned + 27 full-scale. Fixed a guide illustration that overlapped the subtitle; inspected the corrected page. Revised printer-spec paragraph also re-rendered."
+    }
+  ]
+}

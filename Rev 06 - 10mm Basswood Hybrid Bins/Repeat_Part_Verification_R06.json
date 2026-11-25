@@ -1,0 +1,322 @@
+{
+  "method": "Complete finished STEP solid comparison, including countersinks and nut pockets. Only rotations about Z and translations permitted; no reflection, scaling or geometry edits.",
+  "comparison_tolerance_mm3": 0.02,
+  "templates": {
+    "B1_W01": 4,
+    "B1_W02": 4,
+    "B1_W03": 4,
+    "B1_W04": 4,
+    "B1_F01": 4,
+    "B1_C01": 2,
+    "B2_C01": 2
+  },
+  "mappings": [
+    {
+      "target": "B1_W01",
+      "order_template": "B1_W01",
+      "rotate_about_global_Z_degrees": 0,
+      "translate_after_rotation_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "symmetric_difference_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "target": "B1_W02",
+      "order_template": "B1_W02",
+      "rotate_about_global_Z_degrees": 0,
+      "translate_after_rotation_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "symmetric_difference_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "target": "B1_W03",
+      "order_template": "B1_W03",
+      "rotate_about_global_Z_degrees": 0,
+      "translate_after_rotation_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "symmetric_difference_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "target": "B1_W04",
+      "order_template": "B1_W04",
+      "rotate_about_global_Z_degrees": 0,
+      "translate_after_rotation_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "symmetric_difference_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "target": "B1_F01",
+      "order_template": "B1_F01",
+      "rotate_about_global_Z_degrees": 0,
+      "translate_after_rotation_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "symmetric_difference_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "target": "B1_C01",
+      "order_template": "B1_C01",
+      "rotate_about_global_Z_degrees": 0,
+      "translate_after_rotation_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "symmetric_difference_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "target": "B2_W01",
+      "order_template": "B1_W01",
+      "rotate_about_global_Z_degrees": 0,
+      "translate_after_rotation_mm": [
+        -352.5,
+        0.0,
+        0.0
+      ],
+      "symmetric_difference_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "target": "B2_W02",
+      "order_template": "B1_W02",
+      "rotate_about_global_Z_degrees": 0,
+      "translate_after_rotation_mm": [
+        -694.0,
+        0.0,
+        0.0
+      ],
+      "symmetric_difference_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "target": "B2_W03",
+      "order_template": "B1_W04",
+      "rotate_about_global_Z_degrees": 90,
+      "translate_after_rotation_mm": [
+        0.0,
+        -1.0658141036401503e-14,
+        0.0
+      ],
+      "symmetric_difference_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "target": "B2_W04",
+      "order_template": "B1_W03",
+      "rotate_about_global_Z_degrees": 90,
+      "translate_after_rotation_mm": [
+        -1.0658141036401503e-14,
+        0.0,
+        0.0
+      ],
+      "symmetric_difference_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "target": "B2_F01",
+      "order_template": "B1_F01",
+      "rotate_about_global_Z_degrees": 90,
+      "translate_after_rotation_mm": [
+        0.0,
+        -1.850963826655061e-12,
+        0.0
+      ],
+      "symmetric_difference_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "target": "B2_C01",
+      "order_template": "B2_C01",
+      "rotate_about_global_Z_degrees": 0,
+      "translate_after_rotation_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "symmetric_difference_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "target": "B3_W01",
+      "order_template": "B1_W01",
+      "rotate_about_global_Z_degrees": 0,
+      "translate_after_rotation_mm": [
+        0.0,
+        -694.0,
+        0.0
+      ],
+      "symmetric_difference_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "target": "B3_W02",
+      "order_template": "B1_W02",
+      "rotate_about_global_Z_degrees": 180,
+      "translate_after_rotation_mm": [
+        694.0,
+        -5.684341886080802e-14,
+        0.0
+      ],
+      "symmetric_difference_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "target": "B3_W03",
+      "order_template": "B1_W04",
+      "rotate_about_global_Z_degrees": 270,
+      "translate_after_rotation_mm": [
+        0.0,
+        7.815970093361102e-14,
+        0.0
+      ],
+      "symmetric_difference_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "target": "B3_W04",
+      "order_template": "B1_W03",
+      "rotate_about_global_Z_degrees": 270,
+      "translate_after_rotation_mm": [
+        7.815970093361102e-14,
+        0.0,
+        0.0
+      ],
+      "symmetric_difference_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "target": "B3_F01",
+      "order_template": "B1_F01",
+      "rotate_about_global_Z_degrees": 270,
+      "translate_after_rotation_mm": [
+        1.8687273950490635e-12,
+        5.684341886080802e-14,
+        0.0
+      ],
+      "symmetric_difference_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "target": "B3_C01",
+      "order_template": "B2_C01",
+      "rotate_about_global_Z_degrees": 180,
+      "translate_after_rotation_mm": [
+        1.3322676295501878e-14,
+        0.0,
+        0.0
+      ],
+      "symmetric_difference_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "target": "B4_W01",
+      "order_template": "B1_W01",
+      "rotate_about_global_Z_degrees": 0,
+      "translate_after_rotation_mm": [
+        -352.5,
+        -694.0,
+        0.0
+      ],
+      "symmetric_difference_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "target": "B4_W02",
+      "order_template": "B1_W02",
+      "rotate_about_global_Z_degrees": 180,
+      "translate_after_rotation_mm": [
+        5.684341886080802e-14,
+        -5.684341886080802e-14,
+        0.0
+      ],
+      "symmetric_difference_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "target": "B4_W03",
+      "order_template": "B1_W03",
+      "rotate_about_global_Z_degrees": 180,
+      "translate_after_rotation_mm": [
+        0.0,
+        -1.0658141036401503e-14,
+        0.0
+      ],
+      "symmetric_difference_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "target": "B4_W04",
+      "order_template": "B1_W04",
+      "rotate_about_global_Z_degrees": 180,
+      "translate_after_rotation_mm": [
+        4.263256414560601e-14,
+        0.0,
+        0.0
+      ],
+      "symmetric_difference_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "target": "B4_F01",
+      "order_template": "B1_F01",
+      "rotate_about_global_Z_degrees": 180,
+      "translate_after_rotation_mm": [
+        5.684341886080802e-14,
+        0.0,
+        0.0
+      ],
+      "symmetric_difference_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "target": "B4_C01",
+      "order_template": "B1_C01",
+      "rotate_about_global_Z_degrees": 180,
+      "translate_after_rotation_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "symmetric_difference_mm3": 0.0,
+      "pass": true
+    }
+  ],
+  "all_curves_from_B1_comparison": [
+    {
+      "angle": 0,
+      "symmetric_difference_mm3": 1285208.3377818046
+    },
+    {
+      "angle": 90,
+      "symmetric_difference_mm3": 65.75528991607166
+    },
+    {
+      "angle": 180,
+      "symmetric_difference_mm3": 1285209.4069917207
+    },
+    {
+      "angle": 270,
+      "symmetric_difference_mm3": 1272353.6868416579
+    }
+  ],
+  "physical_tests_performed": false
+}

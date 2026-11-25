@@ -1,0 +1,28 @@
+{
+  "all_passed": true,
+  "renderer": "Poppler",
+  "layout_inspection": "All85 pages rendered; all contact sheets reviewed; Chinese font embedded; corrected line weights, view dimensions, table header contrast and purchase table pagination. Final exact-envelope drawing revision was re-rendered across62 pages and all four contact sheets reviewed.",
+  "files": [
+    {
+      "file": "PDF/Manufacturing_and_Assembly_Guide_R07.pdf",
+      "pages": 19,
+      "all_pages_rendered": true,
+      "all_pages_visually_reviewed_via_contact_sheets": true,
+      "sha256": "b525a073a837fd4fb31685225a98272b14629a82802997cdbbeda78602b02395"
+    },
+    {
+      "file": "PDF/Dimensioned_Parts_R07.pdf",
+      "pages": 62,
+      "all_pages_rendered": true,
+      "all_pages_visually_reviewed_via_contact_sheets": true,
+      "sha256": "7eb87648b279262c5237917a29b815223ce666b40bf43d240f25e8508b112914"
+    },
+    {
+      "file": "PDF/Manufacturer_Order_CN_R07.pdf",
+      "pages": 4,
+      "all_pages_rendered": true,
+      "all_pages_visually_reviewed_via_contact_sheets": true,
+      "sha256": "76ca5bdd1d97fca50efa1b7647f0c0b1ef962e6c0d88194a91d4d890ccb95e36"
+    }
+  ]
+}

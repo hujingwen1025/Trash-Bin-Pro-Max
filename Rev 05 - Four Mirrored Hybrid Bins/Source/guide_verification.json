@@ -1,0 +1,150 @@
+{
+  "pages": [
+    {
+      "page": 1,
+      "title": "Build the four mirrored bins",
+      "chapter": "Start here"
+    },
+    {
+      "page": 2,
+      "title": "Select a separate kit for each bin",
+      "chapter": "File map"
+    },
+    {
+      "page": 3,
+      "title": "Materials, hardware and tools",
+      "chapter": "Procurement"
+    },
+    {
+      "page": 4,
+      "title": "Manufacture the calibration samples first",
+      "chapter": "Calibration"
+    },
+    {
+      "page": 5,
+      "title": "Select joint clearance and measure kerf",
+      "chapter": "Calibration"
+    },
+    {
+      "page": 6,
+      "title": "Laser-cut the production plywood",
+      "chapter": "Laser cutting"
+    },
+    {
+      "page": 7,
+      "title": "3D-print the PETG parts",
+      "chapter": "3D printing"
+    },
+    {
+      "page": 8,
+      "title": "Clean, inspect and label the parts",
+      "chapter": "Preparation"
+    },
+    {
+      "page": 9,
+      "title": "Countersink the correct outside faces",
+      "chapter": "Secondary operations"
+    },
+    {
+      "page": 10,
+      "title": "Prepare each curve and its captive nuts",
+      "chapter": "Assembly"
+    },
+    {
+      "page": 11,
+      "title": "Dry-fit W03 to its matching curve",
+      "chapter": "Assembly"
+    },
+    {
+      "page": 12,
+      "title": "Dry-fit W04 to the other curve wing",
+      "chapter": "Assembly"
+    },
+    {
+      "page": 13,
+      "title": "Dry-fit W01 / long wall A",
+      "chapter": "Assembly"
+    },
+    {
+      "page": 14,
+      "title": "Close W02 / long wall B",
+      "chapter": "Assembly"
+    },
+    {
+      "page": 15,
+      "title": "Fit F01 into the bottom joints",
+      "chapter": "Assembly"
+    },
+    {
+      "page": 16,
+      "title": "Inspect and record the complete dry fit",
+      "chapter": "Assembly checks"
+    },
+    {
+      "page": 17,
+      "title": "Glue, clamp and fasten in the same order",
+      "chapter": "Permanent assembly"
+    },
+    {
+      "page": 18,
+      "title": "Bond inserts, finish and establish polarity",
+      "chapter": "Finishing"
+    },
+    {
+      "page": 19,
+      "title": "Test every manufactured bin",
+      "chapter": "Physical verification"
+    },
+    {
+      "page": 20,
+      "title": "Troubleshoot and sign off the four-bin set",
+      "chapter": "Handover"
+    }
+  ],
+  "file_references": [
+    "DWG/B1_F01.dwg",
+    "DWG/B1_W01.dwg",
+    "DWG/B1_W02.dwg",
+    "DWG/B1_W03.dwg",
+    "DWG/B1_W04.dwg",
+    "DWG/B2_F01.dwg",
+    "DWG/B2_W01.dwg",
+    "DWG/B2_W02.dwg",
+    "DWG/B2_W03.dwg",
+    "DWG/B2_W04.dwg",
+    "DWG/B3_F01.dwg",
+    "DWG/B3_W01.dwg",
+    "DWG/B3_W02.dwg",
+    "DWG/B3_W03.dwg",
+    "DWG/B3_W04.dwg",
+    "DWG/B4_F01.dwg",
+    "DWG/B4_W01.dwg",
+    "DWG/B4_W02.dwg",
+    "DWG/B4_W03.dwg",
+    "DWG/B4_W04.dwg",
+    "DWG/Q01_wall_fit.dwg",
+    "DWG/Q02_floor_fit.dwg",
+    "DWG/Q03_wall_tab.dwg",
+    "DWG/Q04_floor_tab.dwg",
+    "DWG/Q06_curve_wall_sample.dwg",
+    "DWG/Q07_insert_fit.dwg",
+    "DWG/Q08_floor_wall_tab.dwg",
+    "PDF/Full_Scale_Cutting_Profiles_R05.pdf",
+    "STEP/Four_Bin_Layout_R05.step",
+    "STL/B1_C01.stl",
+    "STL/B2_C01.stl",
+    "STL/B3_C01.stl",
+    "STL/B4_C01.stl",
+    "STL/Four_Bin_Layout_R05.stl",
+    "STL/M01_magnet_insert.stl",
+    "STL/Q05_curve_joint_sample.stl"
+  ],
+  "part_quantities": {
+    "laser_6mm_walls": 16,
+    "laser_9mm_floors": 4,
+    "printed_curves": 4,
+    "printed_inserts": 16
+  },
+  "text_boxes_checked": 551,
+  "notes": "B1 assembly views use the tested sequence; mirrored motion directions supplied for B2-B4. All file references checked against package."
+}

@@ -1,0 +1,122 @@
+{
+  "W01_rear": {
+    "kind": "plywood_wall",
+    "description": "6 mm plywood wall, 4 floor fingers",
+    "quantity_per_bin": 1,
+    "bounds": [
+      2.5,
+      344.0,
+      0.0,
+      350.0,
+      350.0,
+      450.0
+    ],
+    "volume_mm3": 909451.08,
+    "floor_finger_centers": [
+      45.5,
+      132.66666666666669,
+      219.83333333333334,
+      307.0
+    ]
+  },
+  "W02_right": {
+    "kind": "plywood_wall",
+    "description": "6 mm plywood wall, 4 floor fingers",
+    "quantity_per_bin": 1,
+    "bounds": [
+      344.0,
+      2.5,
+      0.0,
+      350.0,
+      350.0,
+      450.0
+    ],
+    "volume_mm3": 909780.48,
+    "floor_finger_centers": [
+      45.5,
+      132.66666666666669,
+      219.83333333333334,
+      307.0
+    ]
+  },
+  "W03_front": {
+    "kind": "plywood_wall",
+    "description": "6 mm plywood wall, 3 floor fingers",
+    "quantity_per_bin": 1,
+    "bounds": [
+      96.5,
+      2.5,
+      0.0,
+      350.0,
+      8.500000000000002,
+      450.0
+    ],
+    "volume_mm3": 651669.3402996308,
+    "floor_finger_centers": [
+      145.5,
+      226.25,
+      307.0
+    ]
+  },
+  "W04_left": {
+    "kind": "plywood_wall",
+    "description": "6 mm plywood wall, 3 floor fingers",
+    "quantity_per_bin": 1,
+    "bounds": [
+      2.5,
+      96.5,
+      0.0,
+      8.5,
+      350.0,
+      450.0
+    ],
+    "volume_mm3": 651669.3402996307,
+    "floor_finger_centers": [
+      145.5,
+      226.25,
+      307.0
+    ]
+  },
+  "C01_curved_corner": {
+    "kind": "printed",
+    "description": "PETG, R75 outside / R81 inside; six fingers per wing and three M4 floor pads",
+    "quantity_per_bin": 1,
+    "bounds": [
+      2.5,
+      2.4999999999999996,
+      0.0,
+      132.5,
+      132.5,
+      450.0
+    ],
+    "volume_mm3": 663984.3092099915
+  },
+  "F01_floor": {
+    "kind": "plywood_floor",
+    "description": "9 mm plywood, four insert holes",
+    "quantity_per_bin": 1,
+    "bounds": [
+      2.5,
+      2.5,
+      0.0,
+      350.0,
+      350.0,
+      9.000000000000002
+    ],
+    "volume_mm3": 998779.0268604921
+  },
+  "M01_magnet_insert": {
+    "kind": "printed",
+    "description": "PETG; pocket \u00d825.2 x 5 underside",
+    "quantity_per_bin": 4,
+    "bounds": [
+      -14.6,
+      -14.6,
+      0.0,
+      14.6,
+      14.6,
+      9.0
+    ],
+    "volume_mm3": 3533.1607619332253
+  }
+}

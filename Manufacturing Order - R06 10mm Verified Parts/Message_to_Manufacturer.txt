@@ -1,0 +1,20 @@
+Please quote one complete four-bin set using Repeat_Part_Order_R06.pdf for the quantities.
+
+LASER CUT:
+- 6 mm basswood plywood: B1_W01.dwg x 4; B1_W02.dwg x 4; B1_W03.dwg x 8.
+- 10 mm basswood plywood: B1_F01.dwg x 4.
+
+FINISH AFTER CUTTING:
+- Split the 8 short-wall blanks into 4 finished B1_W03.step parts and 4 finished B1_W04.step parts. Their countersinks are on opposite broad faces. Use page 2 of the order sheet and the finished STEP solids.
+- Each short wall: 3.4 mm through holes, countersink 6.3 mm x 90 degrees on the specified face.
+- Each floor: three 4.5 mm through holes, countersink 8 mm x 90 degrees from the underside. Leave the large insert holes straight through.
+
+3D PRINT IN PETG:
+- B1_C01.stl x 2.
+- B2_C01.stl x 2.
+- M01_magnet_insert.stl x 16.
+Keep the curves in one piece and print upright at their full 450 mm height on a suitable machine. Print the inserts closed-roof down, pocket up.
+
+Use mm units and 1:1 scale. Cut only the CUT layer. The profiles contain joint clearance but no laser kerf offset, so apply measured kerf compensation once. Please approve the calibration samples before full production, and follow the supplied assembly guide for print settings, supports and fit checks.
+
+Label the finished copies using Assembly_Label_Map.csv and page 2 of the order sheet. These quantities already cover all four bins; do not add a second order of the other B-prefixed instance files. Total: 20 plywood pieces and 20 printed pieces, plus separately approved samples and hardware.

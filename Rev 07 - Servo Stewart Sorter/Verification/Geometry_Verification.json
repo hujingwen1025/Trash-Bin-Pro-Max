@@ -1,0 +1,654 @@
+{
+  "revision": "R07",
+  "physical_tests_performed": false,
+  "tests": [
+    {
+      "name": "M01_Post_Endcap solid and export",
+      "pass": true,
+      "solid_count": 1,
+      "step_volume_mm3": 97210.00826697989,
+      "stl_volume_mm3": 97210.76592212182
+    },
+    {
+      "name": "M02_Post_Core solid and export",
+      "pass": true,
+      "solid_count": 1,
+      "step_volume_mm3": 268874.7780538151,
+      "stl_volume_mm3": 268763.3523053387
+    },
+    {
+      "name": "M03_Base_Backplate solid and export",
+      "pass": true,
+      "solid_count": 1,
+      "step_volume_mm3": 48900.54160839476,
+      "stl_volume_mm3": 48900.79796865684
+    },
+    {
+      "name": "M04_Post_Shroud_Blank solid and export",
+      "pass": true,
+      "solid_count": 1,
+      "step_volume_mm3": 188957.3733354642,
+      "stl_volume_mm3": 188957.37647291084
+    },
+    {
+      "name": "M04_Internal_Splice solid and export",
+      "pass": true,
+      "solid_count": 1,
+      "step_volume_mm3": 5880.0,
+      "stl_volume_mm3": 5880.000087618828
+    },
+    {
+      "name": "M04_INSTALLED_REFERENCE solid and export",
+      "pass": true,
+      "solid_count": 1,
+      "step_volume_mm3": 188957.3733354695,
+      "stl_volume_mm3": 188879.08168611178
+    },
+    {
+      "name": "M05_Bearing_Cheek solid and export",
+      "pass": true,
+      "solid_count": 1,
+      "step_volume_mm3": 63460.70401323367,
+      "stl_volume_mm3": 63463.4735708945
+    },
+    {
+      "name": "M06_Crank_Plate solid and export",
+      "pass": true,
+      "solid_count": 1,
+      "step_volume_mm3": 12839.377732643386,
+      "stl_volume_mm3": 12839.627427612273
+    },
+    {
+      "name": "M07_Servo_Horn_Adapter solid and export",
+      "pass": true,
+      "solid_count": 1,
+      "step_volume_mm3": 5212.933365126499,
+      "stl_volume_mm3": 5210.7283948596505
+    },
+    {
+      "name": "M08_Fixed_Deck solid and export",
+      "pass": true,
+      "solid_count": 1,
+      "step_volume_mm3": 1128771.9057522805,
+      "stl_volume_mm3": 1128627.0199949953
+    },
+    {
+      "name": "M09_Moving_Carrier solid and export",
+      "pass": true,
+      "solid_count": 1,
+      "step_volume_mm3": 67414.56792699643,
+      "stl_volume_mm3": 67415.554131419
+    },
+    {
+      "name": "M10_Tray solid and export",
+      "pass": true,
+      "solid_count": 1,
+      "step_volume_mm3": 128895.78232243651,
+      "stl_volume_mm3": 128895.8914840932
+    },
+    {
+      "name": "M11_Tray_Hat_Brace solid and export",
+      "pass": true,
+      "solid_count": 1,
+      "step_volume_mm3": 7340.524783386751,
+      "stl_volume_mm3": 7340.5473603840355
+    },
+    {
+      "name": "M11_FLAT_BLANK solid and export",
+      "pass": true,
+      "solid_count": 1,
+      "step_volume_mm3": 9065.52478338674,
+      "stl_volume_mm3": 9065.547363597983
+    },
+    {
+      "name": "P01_Servo_Cradle solid and export",
+      "pass": true,
+      "solid_count": 1,
+      "step_volume_mm3": 31972.117705502034,
+      "stl_volume_mm3": 31972.264432843775
+    },
+    {
+      "name": "P02_U_Joint_Cross solid and export",
+      "pass": true,
+      "solid_count": 1,
+      "step_volume_mm3": 2620.3395986857004,
+      "stl_volume_mm3": 2616.9158953311044
+    },
+    {
+      "name": "P03_Lower_Rod_Fork solid and export",
+      "pass": true,
+      "solid_count": 1,
+      "step_volume_mm3": 5460.800792688695,
+      "stl_volume_mm3": 5459.825002971127
+    },
+    {
+      "name": "P04_Ball_Socket_Half solid and export",
+      "pass": true,
+      "solid_count": 1,
+      "step_volume_mm3": 1791.6660373142633,
+      "stl_volume_mm3": 1792.7061397690204
+    },
+    {
+      "name": "M12_Ball_Stud solid and export",
+      "pass": true,
+      "solid_count": 1,
+      "step_volume_mm3": 2472.97377554717,
+      "stl_volume_mm3": 2469.031720284936
+    },
+    {
+      "name": "P05_Upper_Rod_Coupler solid and export",
+      "pass": true,
+      "solid_count": 1,
+      "step_volume_mm3": 3414.3472445803063,
+      "stl_volume_mm3": 3412.9665406429563
+    },
+    {
+      "name": "M13_Link_Tube solid and export",
+      "pass": true,
+      "solid_count": 1,
+      "step_volume_mm3": 5444.44588065024,
+      "stl_volume_mm3": 5442.51530738446
+    },
+    {
+      "name": "P09_Socket_Wedge_L1 solid and export",
+      "pass": true,
+      "solid_count": 1,
+      "step_volume_mm3": 2162.6064267366396,
+      "stl_volume_mm3": 2163.1018757867423
+    },
+    {
+      "name": "P09_Socket_Wedge_L2 solid and export",
+      "pass": true,
+      "solid_count": 1,
+      "step_volume_mm3": 2162.6178150674314,
+      "stl_volume_mm3": 2163.1139429668697
+    },
+    {
+      "name": "P09_Socket_Wedge_L3 solid and export",
+      "pass": true,
+      "solid_count": 1,
+      "step_volume_mm3": 2162.1057845194373,
+      "stl_volume_mm3": 2162.598645566999
+    },
+    {
+      "name": "P09_Socket_Wedge_L4 solid and export",
+      "pass": true,
+      "solid_count": 1,
+      "step_volume_mm3": 2162.1127756157707,
+      "stl_volume_mm3": 2162.606561786817
+    },
+    {
+      "name": "P09_Socket_Wedge_L5 solid and export",
+      "pass": true,
+      "solid_count": 1,
+      "step_volume_mm3": 2162.4282641246305,
+      "stl_volume_mm3": 2162.9232426332233
+    },
+    {
+      "name": "P09_Socket_Wedge_L6 solid and export",
+      "pass": true,
+      "solid_count": 1,
+      "step_volume_mm3": 2162.4075967011904,
+      "stl_volume_mm3": 2162.902818431565
+    },
+    {
+      "name": "P06_Discharge_Guide solid and export",
+      "pass": true,
+      "solid_count": 1,
+      "step_volume_mm3": 425882.24234347383,
+      "stl_volume_mm3": 425882.48787239095
+    },
+    {
+      "name": "P07_Guide_Post_Cap solid and export",
+      "pass": true,
+      "solid_count": 1,
+      "step_volume_mm3": 6590.883411114454,
+      "stl_volume_mm3": 6590.903256623019
+    },
+    {
+      "name": "P08_Rest_Pad solid and export",
+      "pass": true,
+      "solid_count": 1,
+      "step_volume_mm3": 2982.1568264201865,
+      "stl_volume_mm3": 2980.9210239064664
+    },
+    {
+      "name": "M14_Angle_Foot solid and export",
+      "pass": true,
+      "solid_count": 1,
+      "step_volume_mm3": 3194.9004666867,
+      "stl_volume_mm3": 3195.01865552014
+    },
+    {
+      "name": "M17_Front_Output_Cheek solid and export",
+      "pass": true,
+      "solid_count": 1,
+      "step_volume_mm3": 74722.80560024039,
+      "stl_volume_mm3": 74724.22312981247
+    },
+    {
+      "name": "M15_Belt_Tensioner solid and export",
+      "pass": true,
+      "solid_count": 1,
+      "step_volume_mm3": 9061.986753006438,
+      "stl_volume_mm3": 9062.120137766353
+    },
+    {
+      "name": "M16_Smooth_Tip_Pivot solid and export",
+      "pass": true,
+      "solid_count": 1,
+      "step_volume_mm3": 84.82300164692441,
+      "stl_volume_mm3": 84.78785144489899
+    },
+    {
+      "name": "M18_Tray_Perimeter_Frame solid and export",
+      "pass": true,
+      "solid_count": 1,
+      "step_volume_mm3": 39647.60974106942,
+      "stl_volume_mm3": 39647.66342169353
+    },
+    {
+      "name": "P10_Belt_Guard solid and export",
+      "pass": true,
+      "solid_count": 1,
+      "step_volume_mm3": 50938.93135189359,
+      "stl_volume_mm3": 50938.78713725182
+    },
+    {
+      "name": "Q02_Stop_Template_D1 solid and export",
+      "pass": true,
+      "solid_count": 1,
+      "step_volume_mm3": 5821.616833382312,
+      "stl_volume_mm3": 5821.710639534064
+    },
+    {
+      "name": "M05_Bearing_Cheek_D1_FINISHED solid and export",
+      "pass": true,
+      "solid_count": 1,
+      "step_volume_mm3": 62977.652726816945,
+      "stl_volume_mm3": 62980.62244015851
+    },
+    {
+      "name": "M17_Front_Output_Cheek_D1_FINISHED solid and export",
+      "pass": true,
+      "solid_count": 1,
+      "step_volume_mm3": 73993.85841958426,
+      "stl_volume_mm3": 73995.47610188
+    },
+    {
+      "name": "Q02_Stop_Template_D2 solid and export",
+      "pass": true,
+      "solid_count": 1,
+      "step_volume_mm3": 5821.616833382315,
+      "stl_volume_mm3": 5821.710648231147
+    },
+    {
+      "name": "M05_Bearing_Cheek_D2_FINISHED solid and export",
+      "pass": true,
+      "solid_count": 1,
+      "step_volume_mm3": 62977.65272681689,
+      "stl_volume_mm3": 62980.622474946846
+    },
+    {
+      "name": "M17_Front_Output_Cheek_D2_FINISHED solid and export",
+      "pass": true,
+      "solid_count": 1,
+      "step_volume_mm3": 65188.40663031038,
+      "stl_volume_mm3": 65190.02426576748
+    },
+    {
+      "name": "Q02_Stop_Template_D3 solid and export",
+      "pass": true,
+      "solid_count": 1,
+      "step_volume_mm3": 5821.61683338231,
+      "stl_volume_mm3": 5821.710644023197
+    },
+    {
+      "name": "M05_Bearing_Cheek_D3_FINISHED solid and export",
+      "pass": true,
+      "solid_count": 1,
+      "step_volume_mm3": 62977.65272681698,
+      "stl_volume_mm3": 62980.622458115045
+    },
+    {
+      "name": "M17_Front_Output_Cheek_D3_FINISHED solid and export",
+      "pass": true,
+      "solid_count": 1,
+      "step_volume_mm3": 73993.85841958426,
+      "stl_volume_mm3": 73995.47611983653
+    },
+    {
+      "name": "Q02_Stop_Template_D4 solid and export",
+      "pass": true,
+      "solid_count": 1,
+      "step_volume_mm3": 5821.616833382317,
+      "stl_volume_mm3": 5821.710648972221
+    },
+    {
+      "name": "M05_Bearing_Cheek_D4_FINISHED solid and export",
+      "pass": true,
+      "solid_count": 1,
+      "step_volume_mm3": 62977.65272681686,
+      "stl_volume_mm3": 62980.62247791114
+    },
+    {
+      "name": "M17_Front_Output_Cheek_D4_FINISHED solid and export",
+      "pass": true,
+      "solid_count": 1,
+      "step_volume_mm3": 65188.40663031043,
+      "stl_volume_mm3": 65190.02426873177
+    },
+    {
+      "name": "Q02_Stop_Template_D5 solid and export",
+      "pass": true,
+      "solid_count": 1,
+      "step_volume_mm3": 5821.6168333823125,
+      "stl_volume_mm3": 5821.710648758285
+    },
+    {
+      "name": "M05_Bearing_Cheek_D5_FINISHED solid and export",
+      "pass": true,
+      "solid_count": 1,
+      "step_volume_mm3": 62977.65272681694,
+      "stl_volume_mm3": 62980.62247705539
+    },
+    {
+      "name": "M17_Front_Output_Cheek_D5_FINISHED solid and export",
+      "pass": true,
+      "solid_count": 1,
+      "step_volume_mm3": 73993.85841958429,
+      "stl_volume_mm3": 73995.47613877688
+    },
+    {
+      "name": "Q02_Stop_Template_D6 solid and export",
+      "pass": true,
+      "solid_count": 1,
+      "step_volume_mm3": 5821.616833382318,
+      "stl_volume_mm3": 5821.710647099303
+    },
+    {
+      "name": "M05_Bearing_Cheek_D6_FINISHED solid and export",
+      "pass": true,
+      "solid_count": 1,
+      "step_volume_mm3": 62977.652726816836,
+      "stl_volume_mm3": 62980.62247041947
+    },
+    {
+      "name": "M17_Front_Output_Cheek_D6_FINISHED solid and export",
+      "pass": true,
+      "solid_count": 1,
+      "step_volume_mm3": 65188.40663031031,
+      "stl_volume_mm3": 65190.02426124011
+    },
+    {
+      "name": "M19_Double_Crank_Hub solid and export",
+      "pass": true,
+      "solid_count": 1,
+      "step_volume_mm3": 10175.330732903318,
+      "stl_volume_mm3": 10171.041353847619
+    },
+    {
+      "name": "M20_Output_Shaft solid and export",
+      "pass": true,
+      "solid_count": 1,
+      "step_volume_mm3": 5945.752263590863,
+      "stl_volume_mm3": 5943.422675076974
+    },
+    {
+      "name": "M21_Input_Shaft solid and export",
+      "pass": true,
+      "solid_count": 1,
+      "step_volume_mm3": 3931.868432374602,
+      "stl_volume_mm3": 3930.3278980347736
+    },
+    {
+      "name": "M22_Parallel_Key solid and export",
+      "pass": true,
+      "solid_count": 1,
+      "step_volume_mm3": 56.00000000000001,
+      "stl_volume_mm3": 56.000006675720215
+    },
+    {
+      "name": "M23_Frame_Outrigger solid and export",
+      "pass": true,
+      "solid_count": 1,
+      "step_volume_mm3": 28151.264044087846,
+      "stl_volume_mm3": 28151.781511631376
+    },
+    {
+      "name": "M24_Backstop_Panel solid and export",
+      "pass": true,
+      "solid_count": 1,
+      "step_volume_mm3": 215714.90046668678,
+      "stl_volume_mm3": 215715.01861137338
+    },
+    {
+      "name": "M25_Short_Backstop_Bridge solid and export",
+      "pass": true,
+      "solid_count": 1,
+      "step_volume_mm3": 4967.752220072738,
+      "stl_volume_mm3": 4967.811158874008
+    },
+    {
+      "name": "M26_Anti_Rack_Bridge solid and export",
+      "pass": true,
+      "solid_count": 1,
+      "step_volume_mm3": 24696.03141517726,
+      "stl_volume_mm3": 24696.08931722306
+    },
+    {
+      "name": "M28_Radial_Deck_Rib solid and export",
+      "pass": true,
+      "solid_count": 1,
+      "step_volume_mm3": 8400.0,
+      "stl_volume_mm3": 8400.0
+    },
+    {
+      "name": "Q01_Fit_Ladder solid and export",
+      "pass": true,
+      "solid_count": 1,
+      "step_volume_mm3": 16183.497682792062,
+      "stl_volume_mm3": 16185.145418510392
+    },
+    {
+      "name": "Moving hardware mass allowance",
+      "pass": true,
+      "all_moving_CAD_including_full_rods_kg": 1.061202300507326,
+      "unmodelled_fasteners_allowance_kg": 0.2,
+      "total_budgeted_kg": 1.2612023005073258
+    },
+    {
+      "name": "All four complete paths close",
+      "pass": true,
+      "max_closure_error_mm": 5.684341886080802e-14,
+      "sampled_poses": 1284
+    },
+    {
+      "name": "Guarded servo travel",
+      "pass": true,
+      "min_deg": 11.84912867472599,
+      "max_deg": 228.1508790349718
+    },
+    {
+      "name": "Normalized Jacobian conditioning",
+      "pass": true,
+      "minimum_singular_value": 0.30626574252735694,
+      "normalizing_radius_mm": 100
+    },
+    {
+      "name": "Crank transmission away from singularity",
+      "pass": true,
+      "minimum_normalized_transmission": 0.34383879666791173
+    },
+    {
+      "name": "Rod tube centre-line envelope",
+      "pass": true,
+      "minimum_centreline_distance_minus_8mm": 18.25023286979523
+    },
+    {
+      "name": "Neighbouring crank line separation",
+      "pass": true,
+      "minimum_centreline_mm": 40.64785463472552
+    },
+    {
+      "name": "Upper socket demanded cone",
+      "pass": true,
+      "per_joint_max_deg": [
+        37.63417893676141,
+        38.522884055006124,
+        41.36576913766256,
+        41.79003615017907,
+        40.56927482102598,
+        39.153116446273295
+      ],
+      "designed_neck_flare_deg": 55
+    },
+    {
+      "name": "Peak torque below stall with factor",
+      "pass": true,
+      "calculated_factored_peak_Nm": 3.8245941009990005,
+      "static_plus_allowance_Nm": 2.5497294006660005,
+      "manufacturer_stall_Nm": 8.3356525,
+      "continuous_rating": "NOT PUBLISHED; thermal qualification REQUIRED"
+    },
+    {
+      "name": "Link Euler buckling screen",
+      "pass": true,
+      "euler_N": 1060.5470388040908,
+      "factor_against_factored_force": 11.611566453752195,
+      "boundary": "pinned-pinned, no defects; joint proof still required"
+    },
+    {
+      "name": "512 sampled dimensional perturbations",
+      "pass": true,
+      "failures": 0,
+      "anchor_coordinate_tolerance_mm": 0.2,
+      "rod_length_tolerance_mm": 0.2,
+      "crank_tolerance_mm": 0.1,
+      "min_servo_deg": 11.740007729023858,
+      "max_servo_deg": 228.5645284141708,
+      "scope": "sampled closure/travel only, not proof of physical clearance"
+    },
+    {
+      "name": "Keyed shaft torsion screen",
+      "pass": true,
+      "factored_output_torque_Nm": 6.195842443618381,
+      "keyway_stress_multiplier": 2,
+      "equivalent_stress_MPa": 213.4966856654737,
+      "minimum_material_yield_MPa": 500,
+      "screen_factor": 2.3419567308105482,
+      "scope": "torsion only; supplier sample checks bending and key retention"
+    },
+    {
+      "name": "360 HTD5M belt tension adjustment screen",
+      "pass": true,
+      "tangent_path_length_range_mm": [
+        361.58704046535746,
+        358.48446973530554
+      ],
+      "belt_length_mm": 360,
+      "idler": "20T toothed INSIDE, no small backside idler",
+      "scope": "pitch geometry; actual belt tooth engagement/tension approval required"
+    },
+    {
+      "name": "Steel post cantilever screen",
+      "pass": true,
+      "stress_MPa": 5.609941009352181,
+      "tip_deflection_mm": 0.049796347508855934,
+      "force_N": 48.5595,
+      "minimum_yield_MPa": 235,
+      "scope": "tube only; cap welds, bolts and base require physical proof"
+    },
+    {
+      "name": "Deck rib fastener access screen",
+      "pass": true,
+      "minimum_bolt_head_to_rib_gap_mm": 4.2745727986672115,
+      "bolt_head_envelope_radius_mm": 5,
+      "rib_phase_deg": 24.9
+    },
+    {
+      "name": "Upper ball geometric retention overlap",
+      "pass": true,
+      "ball_diameter_mm": 16,
+      "cavity_diameter_mm": 16.3,
+      "minimum_throat_radius_mm": 7.1928258118767205,
+      "radial_retaining_overlap_mm": 0.8071741881232795,
+      "scope": "geometry only, not printed strength;200 N physical joint proof required"
+    },
+    {
+      "name": "One-piece guide nominal print envelope",
+      "pass": true,
+      "yaw_deg": 45,
+      "part_rotated_XY_mm": 297.5830959985696,
+      "height_mm": 287.6173455216275,
+      "assumed_brim_allowance_each_side_mm": 5,
+      "screen_build_volume_mm": [
+        320,
+        320,
+        320
+      ],
+      "scope": "bounding box only; confirm actual printer/slicer supports before printing"
+    },
+    {
+      "name": "Inclined carrier tap metal ligament",
+      "pass": true,
+      "minimum_ligament_mm": 3.2493022717860676,
+      "thread_major_diameter_mm": 3,
+      "scope": "both faces, conservative projected thread radius"
+    },
+    {
+      "name": "Inclined carrier taps do not intersect",
+      "pass": true,
+      "minimum_thread_to_thread_clearance_mm": 4.41805364600983
+    },
+    {
+      "name": "CAD solid interference sweep",
+      "pass": true,
+      "poses": 301,
+      "boolean_pairs": 36240,
+      "collision_count": 0
+    },
+    {
+      "name": "Exact R06 bin reference at five poses",
+      "pass": true,
+      "boolean_pairs": 12,
+      "collisions": [],
+      "scope": "nominal bins only; removal and stock tolerances require samples"
+    },
+    {
+      "name": "Build source/config freshness",
+      "pass": true,
+      "source_sha256": {
+        "Source/build_cad.py": "8113e3a9493d8077ff04d15ca0b8be304596ff374dfd81b6fcad9253f4ffbeb5",
+        "Software/geometry.py": "8ecaa815ba12c5fd4b0d64938a3e753bdcd7503754580534905b5dc5acf767fa",
+        "Software/configuration.json": "cc4691f54e28e5fca81cbdb74a465ff876f8aa0b15d2f9b633fa206c8517afa5"
+      }
+    }
+  ],
+  "collisions": [],
+  "manufacturing_release": "HOLD - physical prototype and supplier interfaces/quotes required",
+  "moving_mass": {
+    "all_moving_CAD_including_full_rods_kg": 1.061202300507326,
+    "unmodelled_fasteners_allowance_kg": 0.2,
+    "total_budgeted_kg": 1.2612023005073258
+  },
+  "loads": {
+    "payload_kg": 2,
+    "payload_CG_radius_mm": 245,
+    "CG_height_above_joint_plane_mm": 83,
+    "dynamic_factor": 1.5,
+    "motor_factored_peak_Nm": 3.8245941009990005,
+    "motor_static_Nm": 2.5497294006660005,
+    "max_factored_link_force_N": 91.33539759929485,
+    "moving_hardware_model_kg": 1.3,
+    "continuous_rating_proven": false
+  },
+  "sampling": {
+    "sweep_points_per_segment": 61,
+    "collision_poses": 301,
+    "collision_scope": "nominal CAD plus purchased envelopes; invariant rigid-pair contacts cached; sampled, not continuous collision proof",
+    "overlap_reporting_threshold_mm3": 0.1,
+    "OBB_separating_axis_rejections": 117848
+  },
+  "digital_tests_passed": true
+}

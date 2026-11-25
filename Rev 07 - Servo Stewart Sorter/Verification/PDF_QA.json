@@ -1,0 +1,30 @@
+{
+  "all_passed": true,
+  "renderer": "Poppler",
+  "layout_inspection": "Visual update A: all 28 guide pages and all 62 dimensioned-parts pages rendered and inspected; 13 embedded assembly illustrations verified against their source pixels; selected assembly pages inspected at readable resolution. Unchanged four-page Chinese order retains its prior verified hash and QA. The overview was enlarged into a balanced two-by-two layout and re-rendered/reviewed; the other61 part pages retain identical drawing commands.",
+  "files": [
+    {
+      "file": "PDF/Manufacturing_and_Assembly_Guide_R07.pdf",
+      "pages": 28,
+      "all_pages_rendered": true,
+      "all_pages_visually_reviewed_via_contact_sheets": true,
+      "sha256": "e6cf0196f2099a6a5c418e422627b94b067c00277060ce8c78d2ee0fbf21d87d",
+      "visual_update": "A: rendered/reviewed after illustration and colour update"
+    },
+    {
+      "file": "PDF/Dimensioned_Parts_R07.pdf",
+      "pages": 62,
+      "all_pages_rendered": true,
+      "all_pages_visually_reviewed_via_contact_sheets": true,
+      "sha256": "d1923036629ca19ffce53189fbbb45fe4f622feb5c74c9693128741289bc5147",
+      "visual_update": "A: rendered/reviewed after illustration and colour update"
+    },
+    {
+      "file": "PDF/Manufacturer_Order_CN_R07.pdf",
+      "pages": 4,
+      "all_pages_rendered": true,
+      "all_pages_visually_reviewed_via_contact_sheets": true,
+      "sha256": "76ca5bdd1d97fca50efa1b7647f0c0b1ef962e6c0d88194a91d4d890ccb95e36"
+    }
+  ]
+}

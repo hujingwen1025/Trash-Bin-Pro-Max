@@ -1,0 +1,6 @@
+# Exact top-level versions used for validation on native arm64 Python 3.11.
+# Prefer requirements.txt if these wheels are unavailable for your Python/macOS.
+torch==2.15.0
+torchvision==0.29.2
+Pillow==13.0.0
+numpy==2.4.6

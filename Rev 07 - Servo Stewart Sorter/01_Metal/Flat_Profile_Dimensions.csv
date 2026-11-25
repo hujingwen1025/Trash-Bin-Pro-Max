@@ -1,0 +1,1518 @@
+part,feature,index,X_mm,Y_mm,finished_diameter_mm,CUT_diameter_mm,thickness_mm
+M01_Post_Endcap,closed outline vertex,1,72.5,0.0,,,6
+M01_Post_Endcap,closed outline vertex,2,72.4006412697066,3.7943568276134276,,,6
+M01_Post_Endcap,closed outline vertex,3,72.10283741419981,7.578313586904875,,,6
+M01_Post_Endcap,closed outline vertex,4,71.60740469314749,11.341498715416739,,,6
+M01_Post_Endcap,closed outline vertex,5,70.9157010532009,15.073597584287551,,,6
+M01_Post_Endcap,closed outline vertex,6,70.02962240595745,18.764380769932753,,,6
+M01_Post_Endcap,closed outline vertex,7,68.95159743139862,22.403732092183684,,,6
+M01_Post_Endcap,closed outline vertex,8,67.68458092104713,25.981676342034266,,,6
+M01_Post_Endcap,closed outline vertex,9,66.23204567908856,29.488406622995512,,,6
+M01_Post_Endcap,closed outline vertex,10,64.59797300365668,32.914311231117146,,,6
+M01_Post_Endcap,closed outline vertex,11,62.78684177437181,36.24999999999999,,,6
+M01_Post_Endcap,closed outline vertex,12,60.80361617604324,39.48633003858946,,,6
+M01_Post_Endcap,closed outline vertex,13,58.65373209218369,42.6144307912043,,,6
+M01_Post_Endcap,closed outline vertex,14,56.34308220563039,45.62572835111321,,,6
+M01_Post_Endcap,closed outline vertex,15,53.87799984711109,48.51196896101722,,,6
+M01_Post_Endcap,closed outline vertex,16,51.2652416360247,51.26524163602469,,,6
+M01_Post_Endcap,closed outline vertex,17,48.511968961017224,53.877999847111084,,,6
+M01_Post_Endcap,closed outline vertex,18,45.62572835111322,56.34308220563038,,,6
+M01_Post_Endcap,closed outline vertex,19,42.6144307912043,58.65373209218369,,,6
+M01_Post_Endcap,closed outline vertex,20,39.486330038589465,60.803616176043235,,,6
+M01_Post_Endcap,closed outline vertex,21,36.25000000000001,62.7868417743718,,,6
+M01_Post_Endcap,closed outline vertex,22,32.914311231117146,64.59797300365668,,,6
+M01_Post_Endcap,closed outline vertex,23,29.488406622995527,66.23204567908856,,,6
+M01_Post_Endcap,closed outline vertex,24,25.981676342034277,67.68458092104713,,,6
+M01_Post_Endcap,closed outline vertex,25,22.40373209218369,68.95159743139862,,,6
+M01_Post_Endcap,closed outline vertex,26,18.76438076993277,70.02962240595744,,,6
+M01_Post_Endcap,closed outline vertex,27,15.07359758428756,70.9157010532009,,,6
+M01_Post_Endcap,closed outline vertex,28,11.341498715416742,71.60740469314749,,,6
+M01_Post_Endcap,closed outline vertex,29,7.578313586904891,72.10283741419981,,,6
+M01_Post_Endcap,closed outline vertex,30,3.7943568276134374,72.4006412697066,,,6
+M01_Post_Endcap,closed outline vertex,31,4.4393446469091554e-15,72.5,,,6
+M01_Post_Endcap,closed outline vertex,32,-3.7943568276134125,72.4006412697066,,,6
+M01_Post_Endcap,closed outline vertex,33,-7.578313586904867,72.10283741419983,,,6
+M01_Post_Endcap,closed outline vertex,34,-11.341498715416733,71.60740469314749,,,6
+M01_Post_Endcap,closed outline vertex,35,-15.073597584287537,70.9157010532009,,,6
+M01_Post_Endcap,closed outline vertex,36,-18.764380769932746,70.02962240595745,,,6
+M01_Post_Endcap,closed outline vertex,37,-22.40373209218368,68.95159743139864,,,6
+M01_Post_Endcap,closed outline vertex,38,-25.981676342034252,67.68458092104713,,,6
+M01_Post_Endcap,closed outline vertex,39,-29.4884066229955,66.23204567908857,,,6
+M01_Post_Endcap,closed outline vertex,40,-32.91431123111714,64.59797300365668,,,6
+M01_Post_Endcap,closed outline vertex,41,-36.249999999999986,62.78684177437181,,,6
+M01_Post_Endcap,closed outline vertex,42,-39.486330038589436,60.803616176043256,,,6
+M01_Post_Endcap,closed outline vertex,43,-42.61443079120429,58.65373209218369,,,6
+M01_Post_Endcap,closed outline vertex,44,-45.6257283511132,56.343082205630395,,,6
+M01_Post_Endcap,closed outline vertex,45,-48.511968961017196,53.8779998471111,,,6
+M01_Post_Endcap,closed outline vertex,46,-51.26524163602469,51.2652416360247,,,6
+M01_Post_Endcap,closed outline vertex,47,-53.87799984711107,48.51196896101724,,,6
+M01_Post_Endcap,closed outline vertex,48,-56.343082205630374,45.62572835111324,,,6
+M01_Post_Endcap,closed outline vertex,49,-58.65373209218368,42.61443079120431,,,6
+M01_Post_Endcap,closed outline vertex,50,-60.803616176043235,39.48633003858948,,,6
+M01_Post_Endcap,closed outline vertex,51,-62.78684177437179,36.25000000000002,,,6
+M01_Post_Endcap,closed outline vertex,52,-64.59797300365666,32.914311231117146,,,6
+M01_Post_Endcap,closed outline vertex,53,-66.23204567908856,29.48840662299553,,,6
+M01_Post_Endcap,closed outline vertex,54,-67.68458092104711,25.981676342034298,,,6
+M01_Post_Endcap,closed outline vertex,55,-68.95159743139862,22.403732092183695,,,6
+M01_Post_Endcap,closed outline vertex,56,-70.02962240595744,18.764380769932774,,,6
+M01_Post_Endcap,closed outline vertex,57,-70.9157010532009,15.073597584287581,,,6
+M01_Post_Endcap,closed outline vertex,58,-71.60740469314749,11.341498715416746,,,6
+M01_Post_Endcap,closed outline vertex,59,-72.10283741419981,7.578313586904896,,,6
+M01_Post_Endcap,closed outline vertex,60,-72.4006412697066,3.7943568276134583,,,6
+M01_Post_Endcap,closed outline vertex,61,-72.5,8.878689293818311e-15,,,6
+M01_Post_Endcap,closed outline vertex,62,-72.4006412697066,-3.7943568276134085,,,6
+M01_Post_Endcap,closed outline vertex,63,-72.10283741419983,-7.578313586904846,,,6
+M01_Post_Endcap,closed outline vertex,64,-71.60740469314749,-11.341498715416728,,,6
+M01_Post_Endcap,closed outline vertex,65,-70.9157010532009,-15.073597584287532,,,6
+M01_Post_Endcap,closed outline vertex,66,-70.02962240595745,-18.764380769932725,,,6
+M01_Post_Endcap,closed outline vertex,67,-68.95159743139864,-22.403732092183677,,,6
+M01_Post_Endcap,closed outline vertex,68,-67.68458092104713,-25.98167634203425,,,6
+M01_Post_Endcap,closed outline vertex,69,-66.23204567908859,-29.488406622995488,,,6
+M01_Post_Endcap,closed outline vertex,70,-64.59797300365668,-32.91431123111713,,,6
+M01_Post_Endcap,closed outline vertex,71,-62.786841774371815,-36.249999999999986,,,6
+M01_Post_Endcap,closed outline vertex,72,-60.803616176043256,-39.486330038589436,,,6
+M01_Post_Endcap,closed outline vertex,73,-58.65373209218369,-42.61443079120429,,,6
+M01_Post_Endcap,closed outline vertex,74,-56.34308220563041,-45.6257283511132,,,6
+M01_Post_Endcap,closed outline vertex,75,-53.877999847111106,-48.511968961017196,,,6
+M01_Post_Endcap,closed outline vertex,76,-51.265241636024705,-51.26524163602469,,,6
+M01_Post_Endcap,closed outline vertex,77,-48.51196896101724,-53.87799984711107,,,6
+M01_Post_Endcap,closed outline vertex,78,-45.625728351113246,-56.34308220563037,,,6
+M01_Post_Endcap,closed outline vertex,79,-42.61443079120431,-58.65373209218368,,,6
+M01_Post_Endcap,closed outline vertex,80,-39.486330038589514,-60.803616176043214,,,6
+M01_Post_Endcap,closed outline vertex,81,-36.250000000000036,-62.78684177437178,,,6
+M01_Post_Endcap,closed outline vertex,82,-32.91431123111715,-64.59797300365666,,,6
+M01_Post_Endcap,closed outline vertex,83,-29.488406622995566,-66.23204567908854,,,6
+M01_Post_Endcap,closed outline vertex,84,-25.9816763420343,-67.68458092104711,,,6
+M01_Post_Endcap,closed outline vertex,85,-22.4037320921837,-68.95159743139862,,,6
+M01_Post_Endcap,closed outline vertex,86,-18.76438076993281,-70.02962240595744,,,6
+M01_Post_Endcap,closed outline vertex,87,-15.073597584287585,-70.9157010532009,,,6
+M01_Post_Endcap,closed outline vertex,88,-11.34149871541675,-71.60740469314749,,,6
+M01_Post_Endcap,closed outline vertex,89,-7.578313586904932,-72.10283741419981,,,6
+M01_Post_Endcap,closed outline vertex,90,-3.7943568276134623,-72.4006412697066,,,6
+M01_Post_Endcap,closed outline vertex,91,-1.3318033940727465e-14,-72.5,,,6
+M01_Post_Endcap,closed outline vertex,92,3.7943568276133717,-72.40064126970661,,,6
+M01_Post_Endcap,closed outline vertex,93,7.578313586904842,-72.10283741419983,,,6
+M01_Post_Endcap,closed outline vertex,94,11.341498715416725,-71.60740469314749,,,6
+M01_Post_Endcap,closed outline vertex,95,15.073597584287496,-70.91570105320092,,,6
+M01_Post_Endcap,closed outline vertex,96,18.76438076993272,-70.02962240595745,,,6
+M01_Post_Endcap,closed outline vertex,97,22.403732092183674,-68.95159743139864,,,6
+M01_Post_Endcap,closed outline vertex,98,25.981676342034216,-67.68458092104716,,,6
+M01_Post_Endcap,closed outline vertex,99,29.488406622995484,-66.23204567908859,,,6
+M01_Post_Endcap,closed outline vertex,100,32.91431123111713,-64.59797300365668,,,6
+M01_Post_Endcap,closed outline vertex,101,36.24999999999995,-62.78684177437183,,,6
+M01_Post_Endcap,closed outline vertex,102,39.48633003858943,-60.803616176043256,,,6
+M01_Post_Endcap,closed outline vertex,103,42.614430791204285,-58.653732092183695,,,6
+M01_Post_Endcap,closed outline vertex,104,45.62572835111317,-56.343082205630424,,,6
+M01_Post_Endcap,closed outline vertex,105,48.51196896101719,-53.877999847111106,,,6
+M01_Post_Endcap,closed outline vertex,106,51.26524163602468,-51.265241636024705,,,6
+M01_Post_Endcap,closed outline vertex,107,53.87799984711104,-48.51196896101726,,,6
+M01_Post_Endcap,closed outline vertex,108,56.34308220563037,-45.625728351113246,,,6
+M01_Post_Endcap,closed outline vertex,109,58.65373209218368,-42.61443079120432,,,6
+M01_Post_Endcap,closed outline vertex,110,60.803616176043214,-39.486330038589514,,,6
+M01_Post_Endcap,closed outline vertex,111,62.78684177437178,-36.250000000000036,,,6
+M01_Post_Endcap,closed outline vertex,112,64.59797300365666,-32.91431123111715,,,6
+M01_Post_Endcap,closed outline vertex,113,66.23204567908854,-29.488406622995573,,,6
+M01_Post_Endcap,closed outline vertex,114,67.68458092104711,-25.981676342034305,,,6
+M01_Post_Endcap,closed outline vertex,115,68.95159743139862,-22.403732092183706,,,6
+M01_Post_Endcap,closed outline vertex,116,70.02962240595744,-18.764380769932814,,,6
+M01_Post_Endcap,closed outline vertex,117,70.9157010532009,-15.07359758428759,,,6
+M01_Post_Endcap,closed outline vertex,118,71.60740469314749,-11.341498715416757,,,6
+M01_Post_Endcap,closed outline vertex,119,72.10283741419981,-7.578313586904937,,,6
+M01_Post_Endcap,closed outline vertex,120,72.4006412697066,-3.7943568276134667,,,6
+M01_Post_Endcap,hole,1,50.0,0.0,6.6,6.6,6
+M01_Post_Endcap,hole,2,25.000000000000007,43.30127018922193,6.6,6.6,6
+M01_Post_Endcap,hole,3,-24.999999999999993,43.30127018922194,6.6,6.6,6
+M01_Post_Endcap,hole,4,-50.0,6.123233995736766e-15,6.6,6.6,6
+M01_Post_Endcap,hole,5,-25.00000000000002,-43.30127018922192,6.6,6.6,6
+M01_Post_Endcap,hole,6,25.000000000000007,-43.30127018922193,6.6,6.6,6
+M01_Post_Endcap,hole,7,20.0,0.0,5.5,5.5,6
+M01_Post_Endcap,hole,8,-9.999999999999996,17.320508075688775,5.5,5.5,6
+M01_Post_Endcap,hole,9,-10.000000000000009,-17.320508075688767,5.5,5.5,6
+M01_Post_Endcap,hole,10,6.000000000000002,10.392304845413264,3.4,3.4,6
+M01_Post_Endcap,hole,11,-12.0,1.4695761589768238e-15,3.4,3.4,6
+M01_Post_Endcap,hole,12,5.999999999999992,-10.392304845413268,3.4,3.4,6
+M03_Base_Backplate,closed outline vertex,1,72.5,0.0,,,3
+M03_Base_Backplate,closed outline vertex,2,72.4006412697066,3.7943568276134276,,,3
+M03_Base_Backplate,closed outline vertex,3,72.10283741419981,7.578313586904875,,,3
+M03_Base_Backplate,closed outline vertex,4,71.60740469314749,11.341498715416739,,,3
+M03_Base_Backplate,closed outline vertex,5,70.9157010532009,15.073597584287551,,,3
+M03_Base_Backplate,closed outline vertex,6,70.02962240595745,18.764380769932753,,,3
+M03_Base_Backplate,closed outline vertex,7,68.95159743139862,22.403732092183684,,,3
+M03_Base_Backplate,closed outline vertex,8,67.68458092104713,25.981676342034266,,,3
+M03_Base_Backplate,closed outline vertex,9,66.23204567908856,29.488406622995512,,,3
+M03_Base_Backplate,closed outline vertex,10,64.59797300365668,32.914311231117146,,,3
+M03_Base_Backplate,closed outline vertex,11,62.78684177437181,36.24999999999999,,,3
+M03_Base_Backplate,closed outline vertex,12,60.80361617604324,39.48633003858946,,,3
+M03_Base_Backplate,closed outline vertex,13,58.65373209218369,42.6144307912043,,,3
+M03_Base_Backplate,closed outline vertex,14,56.34308220563039,45.62572835111321,,,3
+M03_Base_Backplate,closed outline vertex,15,53.87799984711109,48.51196896101722,,,3
+M03_Base_Backplate,closed outline vertex,16,51.2652416360247,51.26524163602469,,,3
+M03_Base_Backplate,closed outline vertex,17,48.511968961017224,53.877999847111084,,,3
+M03_Base_Backplate,closed outline vertex,18,45.62572835111322,56.34308220563038,,,3
+M03_Base_Backplate,closed outline vertex,19,42.6144307912043,58.65373209218369,,,3
+M03_Base_Backplate,closed outline vertex,20,39.486330038589465,60.803616176043235,,,3
+M03_Base_Backplate,closed outline vertex,21,36.25000000000001,62.7868417743718,,,3
+M03_Base_Backplate,closed outline vertex,22,32.914311231117146,64.59797300365668,,,3
+M03_Base_Backplate,closed outline vertex,23,29.488406622995527,66.23204567908856,,,3
+M03_Base_Backplate,closed outline vertex,24,25.981676342034277,67.68458092104713,,,3
+M03_Base_Backplate,closed outline vertex,25,22.40373209218369,68.95159743139862,,,3
+M03_Base_Backplate,closed outline vertex,26,18.76438076993277,70.02962240595744,,,3
+M03_Base_Backplate,closed outline vertex,27,15.07359758428756,70.9157010532009,,,3
+M03_Base_Backplate,closed outline vertex,28,11.341498715416742,71.60740469314749,,,3
+M03_Base_Backplate,closed outline vertex,29,7.578313586904891,72.10283741419981,,,3
+M03_Base_Backplate,closed outline vertex,30,3.7943568276134374,72.4006412697066,,,3
+M03_Base_Backplate,closed outline vertex,31,4.4393446469091554e-15,72.5,,,3
+M03_Base_Backplate,closed outline vertex,32,-3.7943568276134125,72.4006412697066,,,3
+M03_Base_Backplate,closed outline vertex,33,-7.578313586904867,72.10283741419983,,,3
+M03_Base_Backplate,closed outline vertex,34,-11.341498715416733,71.60740469314749,,,3
+M03_Base_Backplate,closed outline vertex,35,-15.073597584287537,70.9157010532009,,,3
+M03_Base_Backplate,closed outline vertex,36,-18.764380769932746,70.02962240595745,,,3
+M03_Base_Backplate,closed outline vertex,37,-22.40373209218368,68.95159743139864,,,3
+M03_Base_Backplate,closed outline vertex,38,-25.981676342034252,67.68458092104713,,,3
+M03_Base_Backplate,closed outline vertex,39,-29.4884066229955,66.23204567908857,,,3
+M03_Base_Backplate,closed outline vertex,40,-32.91431123111714,64.59797300365668,,,3
+M03_Base_Backplate,closed outline vertex,41,-36.249999999999986,62.78684177437181,,,3
+M03_Base_Backplate,closed outline vertex,42,-39.486330038589436,60.803616176043256,,,3
+M03_Base_Backplate,closed outline vertex,43,-42.61443079120429,58.65373209218369,,,3
+M03_Base_Backplate,closed outline vertex,44,-45.6257283511132,56.343082205630395,,,3
+M03_Base_Backplate,closed outline vertex,45,-48.511968961017196,53.8779998471111,,,3
+M03_Base_Backplate,closed outline vertex,46,-51.26524163602469,51.2652416360247,,,3
+M03_Base_Backplate,closed outline vertex,47,-53.87799984711107,48.51196896101724,,,3
+M03_Base_Backplate,closed outline vertex,48,-56.343082205630374,45.62572835111324,,,3
+M03_Base_Backplate,closed outline vertex,49,-58.65373209218368,42.61443079120431,,,3
+M03_Base_Backplate,closed outline vertex,50,-60.803616176043235,39.48633003858948,,,3
+M03_Base_Backplate,closed outline vertex,51,-62.78684177437179,36.25000000000002,,,3
+M03_Base_Backplate,closed outline vertex,52,-64.59797300365666,32.914311231117146,,,3
+M03_Base_Backplate,closed outline vertex,53,-66.23204567908856,29.48840662299553,,,3
+M03_Base_Backplate,closed outline vertex,54,-67.68458092104711,25.981676342034298,,,3
+M03_Base_Backplate,closed outline vertex,55,-68.95159743139862,22.403732092183695,,,3
+M03_Base_Backplate,closed outline vertex,56,-70.02962240595744,18.764380769932774,,,3
+M03_Base_Backplate,closed outline vertex,57,-70.9157010532009,15.073597584287581,,,3
+M03_Base_Backplate,closed outline vertex,58,-71.60740469314749,11.341498715416746,,,3
+M03_Base_Backplate,closed outline vertex,59,-72.10283741419981,7.578313586904896,,,3
+M03_Base_Backplate,closed outline vertex,60,-72.4006412697066,3.7943568276134583,,,3
+M03_Base_Backplate,closed outline vertex,61,-72.5,8.878689293818311e-15,,,3
+M03_Base_Backplate,closed outline vertex,62,-72.4006412697066,-3.7943568276134085,,,3
+M03_Base_Backplate,closed outline vertex,63,-72.10283741419983,-7.578313586904846,,,3
+M03_Base_Backplate,closed outline vertex,64,-71.60740469314749,-11.341498715416728,,,3
+M03_Base_Backplate,closed outline vertex,65,-70.9157010532009,-15.073597584287532,,,3
+M03_Base_Backplate,closed outline vertex,66,-70.02962240595745,-18.764380769932725,,,3
+M03_Base_Backplate,closed outline vertex,67,-68.95159743139864,-22.403732092183677,,,3
+M03_Base_Backplate,closed outline vertex,68,-67.68458092104713,-25.98167634203425,,,3
+M03_Base_Backplate,closed outline vertex,69,-66.23204567908859,-29.488406622995488,,,3
+M03_Base_Backplate,closed outline vertex,70,-64.59797300365668,-32.91431123111713,,,3
+M03_Base_Backplate,closed outline vertex,71,-62.786841774371815,-36.249999999999986,,,3
+M03_Base_Backplate,closed outline vertex,72,-60.803616176043256,-39.486330038589436,,,3
+M03_Base_Backplate,closed outline vertex,73,-58.65373209218369,-42.61443079120429,,,3
+M03_Base_Backplate,closed outline vertex,74,-56.34308220563041,-45.6257283511132,,,3
+M03_Base_Backplate,closed outline vertex,75,-53.877999847111106,-48.511968961017196,,,3
+M03_Base_Backplate,closed outline vertex,76,-51.265241636024705,-51.26524163602469,,,3
+M03_Base_Backplate,closed outline vertex,77,-48.51196896101724,-53.87799984711107,,,3
+M03_Base_Backplate,closed outline vertex,78,-45.625728351113246,-56.34308220563037,,,3
+M03_Base_Backplate,closed outline vertex,79,-42.61443079120431,-58.65373209218368,,,3
+M03_Base_Backplate,closed outline vertex,80,-39.486330038589514,-60.803616176043214,,,3
+M03_Base_Backplate,closed outline vertex,81,-36.250000000000036,-62.78684177437178,,,3
+M03_Base_Backplate,closed outline vertex,82,-32.91431123111715,-64.59797300365666,,,3
+M03_Base_Backplate,closed outline vertex,83,-29.488406622995566,-66.23204567908854,,,3
+M03_Base_Backplate,closed outline vertex,84,-25.9816763420343,-67.68458092104711,,,3
+M03_Base_Backplate,closed outline vertex,85,-22.4037320921837,-68.95159743139862,,,3
+M03_Base_Backplate,closed outline vertex,86,-18.76438076993281,-70.02962240595744,,,3
+M03_Base_Backplate,closed outline vertex,87,-15.073597584287585,-70.9157010532009,,,3
+M03_Base_Backplate,closed outline vertex,88,-11.34149871541675,-71.60740469314749,,,3
+M03_Base_Backplate,closed outline vertex,89,-7.578313586904932,-72.10283741419981,,,3
+M03_Base_Backplate,closed outline vertex,90,-3.7943568276134623,-72.4006412697066,,,3
+M03_Base_Backplate,closed outline vertex,91,-1.3318033940727465e-14,-72.5,,,3
+M03_Base_Backplate,closed outline vertex,92,3.7943568276133717,-72.40064126970661,,,3
+M03_Base_Backplate,closed outline vertex,93,7.578313586904842,-72.10283741419983,,,3
+M03_Base_Backplate,closed outline vertex,94,11.341498715416725,-71.60740469314749,,,3
+M03_Base_Backplate,closed outline vertex,95,15.073597584287496,-70.91570105320092,,,3
+M03_Base_Backplate,closed outline vertex,96,18.76438076993272,-70.02962240595745,,,3
+M03_Base_Backplate,closed outline vertex,97,22.403732092183674,-68.95159743139864,,,3
+M03_Base_Backplate,closed outline vertex,98,25.981676342034216,-67.68458092104716,,,3
+M03_Base_Backplate,closed outline vertex,99,29.488406622995484,-66.23204567908859,,,3
+M03_Base_Backplate,closed outline vertex,100,32.91431123111713,-64.59797300365668,,,3
+M03_Base_Backplate,closed outline vertex,101,36.24999999999995,-62.78684177437183,,,3
+M03_Base_Backplate,closed outline vertex,102,39.48633003858943,-60.803616176043256,,,3
+M03_Base_Backplate,closed outline vertex,103,42.614430791204285,-58.653732092183695,,,3
+M03_Base_Backplate,closed outline vertex,104,45.62572835111317,-56.343082205630424,,,3
+M03_Base_Backplate,closed outline vertex,105,48.51196896101719,-53.877999847111106,,,3
+M03_Base_Backplate,closed outline vertex,106,51.26524163602468,-51.265241636024705,,,3
+M03_Base_Backplate,closed outline vertex,107,53.87799984711104,-48.51196896101726,,,3
+M03_Base_Backplate,closed outline vertex,108,56.34308220563037,-45.625728351113246,,,3
+M03_Base_Backplate,closed outline vertex,109,58.65373209218368,-42.61443079120432,,,3
+M03_Base_Backplate,closed outline vertex,110,60.803616176043214,-39.486330038589514,,,3
+M03_Base_Backplate,closed outline vertex,111,62.78684177437178,-36.250000000000036,,,3
+M03_Base_Backplate,closed outline vertex,112,64.59797300365666,-32.91431123111715,,,3
+M03_Base_Backplate,closed outline vertex,113,66.23204567908854,-29.488406622995573,,,3
+M03_Base_Backplate,closed outline vertex,114,67.68458092104711,-25.981676342034305,,,3
+M03_Base_Backplate,closed outline vertex,115,68.95159743139862,-22.403732092183706,,,3
+M03_Base_Backplate,closed outline vertex,116,70.02962240595744,-18.764380769932814,,,3
+M03_Base_Backplate,closed outline vertex,117,70.9157010532009,-15.07359758428759,,,3
+M03_Base_Backplate,closed outline vertex,118,71.60740469314749,-11.341498715416757,,,3
+M03_Base_Backplate,closed outline vertex,119,72.10283741419981,-7.578313586904937,,,3
+M03_Base_Backplate,closed outline vertex,120,72.4006412697066,-3.7943568276134667,,,3
+M03_Base_Backplate,hole,1,50.0,0.0,6.6,6.6,3
+M03_Base_Backplate,hole,2,25.000000000000007,43.30127018922193,6.6,6.6,3
+M03_Base_Backplate,hole,3,-24.999999999999993,43.30127018922194,6.6,6.6,3
+M03_Base_Backplate,hole,4,-50.0,6.123233995736766e-15,6.6,6.6,3
+M03_Base_Backplate,hole,5,-25.00000000000002,-43.30127018922192,6.6,6.6,3
+M03_Base_Backplate,hole,6,25.000000000000007,-43.30127018922193,6.6,6.6,3
+M04_Post_Shroud_Blank,closed outline vertex,1,0.0,0.0,,,0.8
+M04_Post_Shroud_Blank,closed outline vertex,2,460.8716422816226,0.0,,,0.8
+M04_Post_Shroud_Blank,closed outline vertex,3,460.8716422816226,512.5,,,0.8
+M04_Post_Shroud_Blank,closed outline vertex,4,0.0,512.5,,,0.8
+M04_Internal_Splice,closed outline vertex,1,0.0,0.0,,,0.8
+M04_Internal_Splice,closed outline vertex,2,15.0,0.0,,,0.8
+M04_Internal_Splice,closed outline vertex,3,15.0,490.0,,,0.8
+M04_Internal_Splice,closed outline vertex,4,0.0,490.0,,,0.8
+M05_Bearing_Cheek,closed outline vertex,1,-18.0,-114.0,,,8
+M05_Bearing_Cheek,closed outline vertex,2,-18.0,42.0,,,8
+M05_Bearing_Cheek,closed outline vertex,3,18.0,42.0,,,8
+M05_Bearing_Cheek,closed outline vertex,4,18.0,18.0,,,8
+M05_Bearing_Cheek,closed outline vertex,5,58.0,-80.0,,,8
+M05_Bearing_Cheek,closed outline vertex,6,58.0,-114.0,,,8
+M05_Bearing_Cheek,closed outline vertex,7,22.0,-114.0,,,8
+M05_Bearing_Cheek,closed outline vertex,8,22.0,-82.0,,,8
+M05_Bearing_Cheek,closed outline vertex,9,18.0,-64.0,,,8
+M05_Bearing_Cheek,closed outline vertex,10,18.0,-114.0,,,8
+M05_Bearing_Cheek,hole,1,0,0,22,21.5,8
+M05_Bearing_Cheek,hole,2,40,-96,22,21.5,8
+M05_Bearing_Cheek,hole,3,-8,-104,5.5,5.5,8
+M05_Bearing_Cheek,hole,4,16,-104,5.5,5.5,8
+M05_Bearing_Cheek,hole,5,40,-74,5.5,5.5,8
+M05_Bearing_Cheek,hole,6,-14,36,2.5,2.5,8
+M05_Bearing_Cheek,hole,7,14,36,2.5,2.5,8
+M06_Crank_Plate,closed outline vertex,1,-12.0,-10.0,,,6
+M06_Crank_Plate,closed outline vertex,2,-12.0,-7.207427255868589,,,6
+M06_Crank_Plate,closed outline vertex,3,-12.214944099019156,-6.840697380957374,,,6
+M06_Crank_Plate,closed outline vertex,4,-12.474091338637148,-6.355866996353656,,,6
+M06_Crank_Plate,closed outline vertex,5,-12.714004433551139,-5.861236325523992,,,6
+M06_Crank_Plate,closed outline vertex,6,-12.934313455158014,-5.357568053111258,,,6
+M06_Crank_Plate,closed outline vertex,7,-13.134678702914776,-4.845638799084906,,,6
+M06_Crank_Plate,closed outline vertex,8,-13.31479122813215,-4.326237921249265,,,6
+M06_Crank_Plate,closed outline vertex,9,-13.474373310351062,-3.800166298111038,,,6
+M06_Crank_Plate,closed outline vertex,10,-13.613178885567471,-3.2682350939826774,,,6
+M06_Crank_Plate,closed outline vertex,11,-13.730993925645226,-2.7312645082258005,,,6
+M06_Crank_Plate,closed outline vertex,12,-13.827636768331928,-2.1900825105632338,,,6
+M06_Crank_Plate,closed outline vertex,13,-13.902958397368968,-1.6455235644097257,,,6
+M06_Crank_Plate,closed outline vertex,14,-13.956842672263791,-1.098427340189831,,,6
+M06_Crank_Plate,closed outline vertex,15,-13.98920650737012,-0.5496374206269653,,,6
+M06_Crank_Plate,closed outline vertex,16,-14.0,0.0,,,6
+M06_Crank_Plate,closed outline vertex,17,-13.98920650737012,0.5496374206269619,,,6
+M06_Crank_Plate,closed outline vertex,18,-13.956842672263791,1.0984273401898275,,,6
+M06_Crank_Plate,closed outline vertex,19,-13.902958397368968,1.6455235644097221,,,6
+M06_Crank_Plate,closed outline vertex,20,-13.827636768331928,2.1900825105632302,,,6
+M06_Crank_Plate,closed outline vertex,21,-13.730993925645226,2.731264508225797,,,6
+M06_Crank_Plate,closed outline vertex,22,-13.613178885567473,3.268235093982674,,,6
+M06_Crank_Plate,closed outline vertex,23,-13.474373310351064,3.800166298111035,,,6
+M06_Crank_Plate,closed outline vertex,24,-13.314791228132151,4.326237921249262,,,6
+M06_Crank_Plate,closed outline vertex,25,-13.134678702914776,4.845638799084903,,,6
+M06_Crank_Plate,closed outline vertex,26,-12.934313455158016,5.3575680531112555,,,6
+M06_Crank_Plate,closed outline vertex,27,-12.71400443355114,5.861236325523988,,,6
+M06_Crank_Plate,closed outline vertex,28,-12.47409133863715,6.355866996353654,,,6
+M06_Crank_Plate,closed outline vertex,29,-12.214944099019158,6.84069738095737,,,6
+M06_Crank_Plate,closed outline vertex,30,-12.0,7.2074272558685895,,,6
+M06_Crank_Plate,closed outline vertex,31,-12.0,10.0,,,6
+M06_Crank_Plate,closed outline vertex,32,-9.794963472981689,10.0,,,6
+M06_Crank_Plate,closed outline vertex,33,-9.503210437461183,10.280515132099598,,,6
+M06_Crank_Plate,closed outline vertex,34,-9.092272676622578,10.645683518400428,,,6
+M06_Crank_Plate,closed outline vertex,35,-8.66731529033768,10.994437032330426,,,6
+M06_Crank_Plate,closed outline vertex,36,-8.228993532094625,11.326237921249263,,,6
+M06_Crank_Plate,closed outline vertex,37,-7.7779832622744305,11.640574572235634,,,6
+M06_Crank_Plate,closed outline vertex,38,-7.3149799060232805,11.936962300957294,,,6
+M06_Crank_Plate,closed outline vertex,39,-6.840697380957375,12.214944099019156,,,6
+M06_Crank_Plate,closed outline vertex,40,-6.355866996353658,12.474091338637148,,,6
+M06_Crank_Plate,closed outline vertex,41,-5.8612363255239925,12.714004433551139,,,6
+M06_Crank_Plate,closed outline vertex,42,-5.357568053111264,12.934313455158012,,,6
+M06_Crank_Plate,closed outline vertex,43,-4.845638799084907,13.134678702914776,,,6
+M06_Crank_Plate,closed outline vertex,44,-4.326237921249266,13.31479122813215,,,6
+M06_Crank_Plate,closed outline vertex,45,-3.800166298111039,13.474373310351062,,,6
+M06_Crank_Plate,closed outline vertex,46,-3.268235093982672,13.613178885567473,,,6
+M06_Crank_Plate,closed outline vertex,47,-2.7312645082258014,13.730993925645224,,,6
+M06_Crank_Plate,closed outline vertex,48,-2.1900825105632347,13.827636768331928,,,6
+M06_Crank_Plate,closed outline vertex,49,-1.6455235644097264,13.902958397368968,,,6
+M06_Crank_Plate,closed outline vertex,50,-1.098427340189838,13.956842672263791,,,6
+M06_Crank_Plate,closed outline vertex,51,-0.5496374206269662,13.98920650737012,,,6
+M06_Crank_Plate,closed outline vertex,52,0.0,14.0,,,6
+M06_Crank_Plate,closed outline vertex,53,0.549637420626961,13.98920650737012,,,6
+M06_Crank_Plate,closed outline vertex,54,1.0984273401898328,13.956842672263791,,,6
+M06_Crank_Plate,closed outline vertex,55,1.6455235644097215,13.902958397368968,,,6
+M06_Crank_Plate,closed outline vertex,56,2.1900825105632293,13.827636768331928,,,6
+M06_Crank_Plate,closed outline vertex,57,2.731264508225796,13.730993925645226,,,6
+M06_Crank_Plate,closed outline vertex,58,3.2682350939826668,13.613178885567475,,,6
+M06_Crank_Plate,closed outline vertex,59,3.8001662981110345,13.474373310351064,,,6
+M06_Crank_Plate,closed outline vertex,60,4.326237921249261,13.314791228132151,,,6
+M06_Crank_Plate,closed outline vertex,61,4.845638799084902,13.134678702914778,,,6
+M06_Crank_Plate,closed outline vertex,62,5.35756805311126,12.934313455158012,,,6
+M06_Crank_Plate,closed outline vertex,63,5.861236325523988,12.71400443355114,,,6
+M06_Crank_Plate,closed outline vertex,64,6.355866996353653,12.47409133863715,,,6
+M06_Crank_Plate,closed outline vertex,65,6.840697380957369,12.214944099019158,,,6
+M06_Crank_Plate,closed outline vertex,66,7.314979906023277,11.936962300957296,,,6
+M06_Crank_Plate,closed outline vertex,67,7.777983262274426,11.640574572235636,,,6
+M06_Crank_Plate,closed outline vertex,68,8.22899353209462,11.326237921249266,,,6
+M06_Crank_Plate,closed outline vertex,69,8.667315290337676,10.99443703233043,,,6
+M06_Crank_Plate,closed outline vertex,70,9.092272676622574,10.645683518400432,,,6
+M06_Crank_Plate,closed outline vertex,71,9.503210437461181,10.280515132099602,,,6
+M06_Crank_Plate,closed outline vertex,72,9.794963472981689,10.0,,,6
+M06_Crank_Plate,closed outline vertex,73,80.5,10.0,,,6
+M06_Crank_Plate,closed outline vertex,74,97.5,3.0,,,6
+M06_Crank_Plate,closed outline vertex,75,104.5,3.0,,,6
+M06_Crank_Plate,closed outline vertex,76,104.5,-3.0,,,6
+M06_Crank_Plate,closed outline vertex,77,97.5,-3.0,,,6
+M06_Crank_Plate,closed outline vertex,78,80.5,-10.0,,,6
+M06_Crank_Plate,closed outline vertex,79,9.794963472981687,-10.0,,,6
+M06_Crank_Plate,closed outline vertex,80,9.503210437461185,-10.280515132099596,,,6
+M06_Crank_Plate,closed outline vertex,81,9.09227267662257,-10.645683518400434,,,6
+M06_Crank_Plate,closed outline vertex,82,8.667315290337676,-10.99443703233043,,,6
+M06_Crank_Plate,closed outline vertex,83,8.228993532094623,-11.326237921249264,,,6
+M06_Crank_Plate,closed outline vertex,84,7.777983262274432,-11.640574572235634,,,6
+M06_Crank_Plate,closed outline vertex,85,7.314979906023285,-11.93696230095729,,,6
+M06_Crank_Plate,closed outline vertex,86,6.840697380957369,-12.214944099019158,,,6
+M06_Crank_Plate,closed outline vertex,87,6.355866996353656,-12.47409133863715,,,6
+M06_Crank_Plate,closed outline vertex,88,5.861236325523993,-12.714004433551137,,,6
+M06_Crank_Plate,closed outline vertex,89,5.357568053111258,-12.934313455158014,,,6
+M06_Crank_Plate,closed outline vertex,90,4.845638799084902,-13.134678702914778,,,6
+M06_Crank_Plate,closed outline vertex,91,4.326237921249264,-13.31479122813215,,,6
+M06_Crank_Plate,closed outline vertex,92,3.8001662981110407,-13.474373310351062,,,6
+M06_Crank_Plate,closed outline vertex,93,3.2682350939826765,-13.613178885567471,,,6
+M06_Crank_Plate,closed outline vertex,94,2.7312645082257965,-13.730993925645226,,,6
+M06_Crank_Plate,closed outline vertex,95,2.190082510563233,-13.827636768331928,,,6
+M06_Crank_Plate,closed outline vertex,96,1.6455235644097277,-13.902958397368968,,,6
+M06_Crank_Plate,closed outline vertex,97,1.09842734018983,-13.956842672263791,,,6
+M06_Crank_Plate,closed outline vertex,98,0.5496374206269613,-13.98920650737012,,,6
+M06_Crank_Plate,closed outline vertex,99,0.0,-14.0,,,6
+M06_Crank_Plate,closed outline vertex,100,-0.5496374206269596,-13.98920650737012,,,6
+M06_Crank_Plate,closed outline vertex,101,-1.0984273401898283,-13.956842672263791,,,6
+M06_Crank_Plate,closed outline vertex,102,-1.6455235644097261,-13.902958397368968,,,6
+M06_Crank_Plate,closed outline vertex,103,-2.1900825105632316,-13.827636768331928,,,6
+M06_Crank_Plate,closed outline vertex,104,-2.7312645082257947,-13.730993925645226,,,6
+M06_Crank_Plate,closed outline vertex,105,-3.2682350939826748,-13.613178885567473,,,6
+M06_Crank_Plate,closed outline vertex,106,-3.800166298111039,-13.474373310351062,,,6
+M06_Crank_Plate,closed outline vertex,107,-4.3262379212492625,-13.314791228132151,,,6
+M06_Crank_Plate,closed outline vertex,108,-4.845638799084901,-13.134678702914778,,,6
+M06_Crank_Plate,closed outline vertex,109,-5.357568053111256,-12.934313455158014,,,6
+M06_Crank_Plate,closed outline vertex,110,-5.861236325523989,-12.71400443355114,,,6
+M06_Crank_Plate,closed outline vertex,111,-6.3558669963536545,-12.47409133863715,,,6
+M06_Crank_Plate,closed outline vertex,112,-6.840697380957371,-12.214944099019158,,,6
+M06_Crank_Plate,closed outline vertex,113,-7.314979906023283,-11.936962300957292,,,6
+M06_Crank_Plate,closed outline vertex,114,-7.777983262274427,-11.640574572235636,,,6
+M06_Crank_Plate,closed outline vertex,115,-8.228993532094622,-11.326237921249264,,,6
+M06_Crank_Plate,closed outline vertex,116,-8.667315290337678,-10.994437032330428,,,6
+M06_Crank_Plate,closed outline vertex,117,-9.092272676622569,-10.645683518400435,,,6
+M06_Crank_Plate,closed outline vertex,118,-9.503210437461181,-10.280515132099602,,,6
+M06_Crank_Plate,closed outline vertex,119,-9.794963472981687,-10.0,,,6
+M06_Crank_Plate,hole,1,0,0,8,7.5,6
+M06_Crank_Plate,hole,2,100.5,0,4.2,4.2,6
+M06_Crank_Plate,hole,3,-8,0,3.4,3.4,6
+M06_Crank_Plate,hole,4,8,0,3.4,3.4,6
+M06_Crank_Plate,hole,5,0,-8,3.4,3.4,6
+M06_Crank_Plate,hole,6,0,8,3.4,3.4,6
+M08_Fixed_Deck,closed outline vertex,1,269.83552329515584,-9.422864109675261,,,6
+M08_Fixed_Deck,closed outline vertex,2,269.6299743837349,-14.130708185594836,,,6
+M08_Fixed_Deck,closed outline vertex,3,269.34229357015255,-18.83424791091383,,,6
+M08_Fixed_Deck,closed outline vertex,4,268.9725684847713,-23.532050541867704,,,6
+M08_Fixed_Deck,closed outline vertex,5,268.52091174943376,-28.222685082266437,,,6
+M08_Fixed_Deck,closed outline vertex,6,267.9874609431569,-32.90472271938982,,,6
+M08_Fixed_Deck,closed outline vertex,7,267.372378560224,-37.576737259217666,,,6
+M08_Fixed_Deck,closed outline vertex,8,266.6758519606872,-42.23730556086233,,,6
+M08_Fixed_Deck,closed outline vertex,9,265.89809331329616,-46.885007970071186,,,6
+M08_Fixed_Deck,closed outline vertex,10,265.03933953086926,-51.518428751667095,,,6
+M08_Fixed_Deck,closed outline vertex,11,264.09985219812756,-56.13615652079502,,,6
+M08_Fixed_Deck,closed outline vertex,12,263.0799174920135,-60.73678467284355,,,6
+M08_Fixed_Deck,closed outline vertex,13,262.621061368913,-62.64805797689891,,,6
+M08_Fixed_Deck,closed outline vertex,14,62.64805797689891,-262.62106136891293,,,6
+M08_Fixed_Deck,closed outline vertex,15,60.73678467284353,-263.0799174920135,,,6
+M08_Fixed_Deck,closed outline vertex,16,56.136156520795055,-264.0998521981275,,,6
+M08_Fixed_Deck,closed outline vertex,17,51.51842875166713,-265.03933953086926,,,6
+M08_Fixed_Deck,closed outline vertex,18,46.885007970071214,-265.89809331329616,,,6
+M08_Fixed_Deck,closed outline vertex,19,42.23730556086235,-266.6758519606872,,,6
+M08_Fixed_Deck,closed outline vertex,20,37.57673725921767,-267.372378560224,,,6
+M08_Fixed_Deck,closed outline vertex,21,32.904722719389824,-267.9874609431569,,,6
+M08_Fixed_Deck,closed outline vertex,22,28.222685082266434,-268.52091174943376,,,6
+M08_Fixed_Deck,closed outline vertex,23,23.532050541867697,-268.9725684847713,,,6
+M08_Fixed_Deck,closed outline vertex,24,18.834247910913813,-269.34229357015255,,,6
+M08_Fixed_Deck,closed outline vertex,25,14.130708185594871,-269.6299743837349,,,6
+M08_Fixed_Deck,closed outline vertex,26,9.422864109675292,-269.83552329515584,,,6
+M08_Fixed_Deck,closed outline vertex,27,4.712149738066572,-269.95887769222566,,,6
+M08_Fixed_Deck,closed outline vertex,28,0.0,-270.0,,,6
+M08_Fixed_Deck,closed outline vertex,29,-4.712149738066539,-269.95887769222566,,,6
+M08_Fixed_Deck,closed outline vertex,30,-9.422864109675258,-269.83552329515584,,,6
+M08_Fixed_Deck,closed outline vertex,31,-14.130708185594838,-269.6299743837349,,,6
+M08_Fixed_Deck,closed outline vertex,32,-18.834247910913838,-269.34229357015255,,,6
+M08_Fixed_Deck,closed outline vertex,33,-23.532050541867722,-268.9725684847713,,,6
+M08_Fixed_Deck,closed outline vertex,34,-28.22268508226646,-268.52091174943376,,,6
+M08_Fixed_Deck,closed outline vertex,35,-32.90472271938979,-267.987460943157,,,6
+M08_Fixed_Deck,closed outline vertex,36,-37.576737259217644,-267.372378560224,,,6
+M08_Fixed_Deck,closed outline vertex,37,-42.23730556086232,-266.6758519606872,,,6
+M08_Fixed_Deck,closed outline vertex,38,-46.88500797007118,-265.89809331329616,,,6
+M08_Fixed_Deck,closed outline vertex,39,-51.518428751667095,-265.03933953086926,,,6
+M08_Fixed_Deck,closed outline vertex,40,-56.13615652079502,-264.09985219812756,,,6
+M08_Fixed_Deck,closed outline vertex,41,-60.736784672843555,-263.0799174920135,,,6
+M08_Fixed_Deck,closed outline vertex,42,-62.648057976898905,-262.621061368913,,,6
+M08_Fixed_Deck,closed outline vertex,43,-173.9206715143514,-151.34844783146048,,,6
+M08_Fixed_Deck,closed outline vertex,44,-142.79970548882886,-147.27433521073738,,,6
+M08_Fixed_Deck,closed outline vertex,45,-148.2514979271847,-105.62967217681324,,,6
+M08_Fixed_Deck,closed outline vertex,46,-180.97230459669652,-109.91322337837852,,,6
+M08_Fixed_Deck,closed outline vertex,47,-175.79304690439696,-149.4760724414149,,,6
+M08_Fixed_Deck,closed outline vertex,48,-262.62106136891293,-62.64805797689894,,,6
+M08_Fixed_Deck,closed outline vertex,49,-263.07991749201346,-60.736784672843605,,,6
+M08_Fixed_Deck,closed outline vertex,50,-264.09985219812756,-56.13615652079501,,,6
+M08_Fixed_Deck,closed outline vertex,51,-265.03933953086926,-51.518428751667145,,,6
+M08_Fixed_Deck,closed outline vertex,52,-265.89809331329616,-46.88500797007117,,,6
+M08_Fixed_Deck,closed outline vertex,53,-266.67585196068717,-42.23730556086237,,,6
+M08_Fixed_Deck,closed outline vertex,54,-267.372378560224,-37.57673725921764,,,6
+M08_Fixed_Deck,closed outline vertex,55,-267.9874609431569,-32.90472271938984,,,6
+M08_Fixed_Deck,closed outline vertex,56,-268.52091174943376,-28.22268508226651,,,6
+M08_Fixed_Deck,closed outline vertex,57,-268.9725684847713,-23.53205054186771,,,6
+M08_Fixed_Deck,closed outline vertex,58,-269.34229357015255,-18.83424791091389,,,6
+M08_Fixed_Deck,closed outline vertex,59,-269.6299743837349,-14.130708185594829,,,6
+M08_Fixed_Deck,closed outline vertex,60,-269.83552329515584,-9.42286410967531,,,6
+M08_Fixed_Deck,closed outline vertex,61,-269.95887769222566,-4.712149738066528,,,6
+M08_Fixed_Deck,closed outline vertex,62,-270.0,0.0,,,6
+M08_Fixed_Deck,closed outline vertex,63,-269.95887769222566,4.712149738066582,,,6
+M08_Fixed_Deck,closed outline vertex,64,-269.83552329515584,9.422864109675244,,,6
+M08_Fixed_Deck,closed outline vertex,65,-269.6299743837349,14.130708185594763,,,6
+M08_Fixed_Deck,closed outline vertex,66,-269.34229357015255,18.834247910913824,,,6
+M08_Fixed_Deck,closed outline vertex,67,-268.9725684847713,23.532050541867644,,,6
+M08_Fixed_Deck,closed outline vertex,68,-268.52091174943376,28.222685082266445,,,6
+M08_Fixed_Deck,closed outline vertex,69,-267.987460943157,32.904722719389774,,,6
+M08_Fixed_Deck,closed outline vertex,70,-267.372378560224,37.576737259217694,,,6
+M08_Fixed_Deck,closed outline vertex,71,-266.6758519606872,42.237305560862296,,,6
+M08_Fixed_Deck,closed outline vertex,72,-265.89809331329616,46.88500797007123,,,6
+M08_Fixed_Deck,closed outline vertex,73,-265.03933953086926,51.518428751667074,,,6
+M08_Fixed_Deck,closed outline vertex,74,-264.0998521981275,56.13615652079507,,,6
+M08_Fixed_Deck,closed outline vertex,75,-263.0799174920135,60.73678467284354,,,6
+M08_Fixed_Deck,closed outline vertex,76,-262.62106136891293,62.64805797689892,,,6
+M08_Fixed_Deck,closed outline vertex,77,-62.64805797689894,262.62106136891293,,,6
+M08_Fixed_Deck,closed outline vertex,78,-60.73678467284362,263.07991749201346,,,6
+M08_Fixed_Deck,closed outline vertex,79,-56.13615652079514,264.0998521981275,,,6
+M08_Fixed_Deck,closed outline vertex,80,-51.518428751667045,265.03933953086926,,,6
+M08_Fixed_Deck,closed outline vertex,81,-46.885007970071186,265.89809331329616,,,6
+M08_Fixed_Deck,closed outline vertex,82,-42.23730556086238,266.67585196068717,,,6
+M08_Fixed_Deck,closed outline vertex,83,-37.57673725921777,267.372378560224,,,6
+M08_Fixed_Deck,closed outline vertex,84,-32.90472271938974,267.987460943157,,,6
+M08_Fixed_Deck,closed outline vertex,85,-28.222685082266405,268.5209117494338,,,6
+M08_Fixed_Deck,closed outline vertex,86,-23.532050541867726,268.9725684847713,,,6
+M08_Fixed_Deck,closed outline vertex,87,-18.834247910913906,269.34229357015255,,,6
+M08_Fixed_Deck,closed outline vertex,88,-14.130708185594962,269.6299743837349,,,6
+M08_Fixed_Deck,closed outline vertex,89,-9.422864109675205,269.83552329515584,,,6
+M08_Fixed_Deck,closed outline vertex,90,-4.712149738066544,269.95887769222566,,,6
+M08_Fixed_Deck,closed outline vertex,91,0.0,270.0,,,6
+M08_Fixed_Deck,closed outline vertex,92,4.712149738066445,269.95887769222566,,,6
+M08_Fixed_Deck,closed outline vertex,93,9.422864109675347,269.83552329515584,,,6
+M08_Fixed_Deck,closed outline vertex,94,14.130708185594866,269.6299743837349,,,6
+M08_Fixed_Deck,closed outline vertex,95,18.83424791091381,269.34229357015255,,,6
+M08_Fixed_Deck,closed outline vertex,96,23.53205054186763,268.9725684847713,,,6
+M08_Fixed_Deck,closed outline vertex,97,28.222685082266306,268.5209117494338,,,6
+M08_Fixed_Deck,closed outline vertex,98,32.90472271938987,267.9874609431569,,,6
+M08_Fixed_Deck,closed outline vertex,99,37.57673725921767,267.372378560224,,,6
+M08_Fixed_Deck,closed outline vertex,100,42.23730556086228,266.6758519606872,,,6
+M08_Fixed_Deck,closed outline vertex,101,46.88500797007109,265.8980933132962,,,6
+M08_Fixed_Deck,closed outline vertex,102,51.51842875166718,265.03933953086926,,,6
+M08_Fixed_Deck,closed outline vertex,103,56.136156520795055,264.0998521981275,,,6
+M08_Fixed_Deck,closed outline vertex,104,60.73678467284353,263.0799174920135,,,6
+M08_Fixed_Deck,closed outline vertex,105,62.64805797689892,262.62106136891293,,,6
+M08_Fixed_Deck,closed outline vertex,106,262.62106136891293,62.64805797689893,,,6
+M08_Fixed_Deck,closed outline vertex,107,263.07991749201346,60.73678467284364,,,6
+M08_Fixed_Deck,closed outline vertex,108,264.0998521981275,56.13615652079516,,,6
+M08_Fixed_Deck,closed outline vertex,109,265.03933953086926,51.51842875166706,,,6
+M08_Fixed_Deck,closed outline vertex,110,265.89809331329616,46.88500797007121,,,6
+M08_Fixed_Deck,closed outline vertex,111,266.67585196068717,42.2373055608624,,,6
+M08_Fixed_Deck,closed outline vertex,112,267.372378560224,37.576737259217786,,,6
+M08_Fixed_Deck,closed outline vertex,113,267.987460943157,32.90472271938975,,,6
+M08_Fixed_Deck,closed outline vertex,114,268.52091174943376,28.222685082266423,,,6
+M08_Fixed_Deck,closed outline vertex,115,268.9725684847713,23.532050541867747,,,6
+M08_Fixed_Deck,closed outline vertex,116,269.34229357015255,18.834247910913923,,,6
+M08_Fixed_Deck,closed outline vertex,117,269.6299743837349,14.13070818559498,,,6
+M08_Fixed_Deck,closed outline vertex,118,269.83552329515584,9.422864109675222,,,6
+M08_Fixed_Deck,closed outline vertex,119,269.95887769222566,4.712149738066561,,,6
+M08_Fixed_Deck,closed outline vertex,120,270.0,0.0,,,6
+M08_Fixed_Deck,closed outline vertex,121,269.95887769222566,-4.7121497380665485,,,6
+M08_Fixed_Deck,hole,1,50.0,0.0,6.6,6.6,6
+M08_Fixed_Deck,hole,2,25.000000000000007,43.30127018922193,6.6,6.6,6
+M08_Fixed_Deck,hole,3,-24.999999999999993,43.30127018922194,6.6,6.6,6
+M08_Fixed_Deck,hole,4,-50.0,6.123233995736766e-15,6.6,6.6,6
+M08_Fixed_Deck,hole,5,-25.00000000000002,-43.30127018922192,6.6,6.6,6
+M08_Fixed_Deck,hole,6,25.000000000000007,-43.30127018922193,6.6,6.6,6
+M08_Fixed_Deck,hole,7,0,0,16,16.0,6
+M08_Fixed_Deck,hole,8,124.10116388968439,-65.80041737134343,5.5,5.5,6
+M08_Fixed_Deck,hole,9,143.15227240410906,-51.20400464863595,5.5,5.5,6
+M08_Fixed_Deck,hole,10,137.48120888549957,-83.26393350956602,5.5,5.5,6
+M08_Fixed_Deck,hole,11,156.53231739992424,-68.66752078685855,5.5,5.5,6
+M08_Fixed_Deck,hole,12,55.96097833783763,-52.499473308612664,5.5,5.5,6
+M08_Fixed_Deck,hole,13,75.01208685226227,-37.903060585905195,5.5,5.5,6
+M08_Fixed_Deck,hole,14,98.39160453356253,-55.263882945164795,4.5,4.5,6
+M08_Fixed_Deck,hole,15,67.37422749780916,-14.780277352012412,4.5,4.5,6
+M08_Fixed_Deck,hole,16,162.68909576974573,-6.000990006027084,4.5,4.5,6
+M08_Fixed_Deck,hole,17,158.43180872562272,-0.444416689319894,4.5,4.5,6
+M08_Fixed_Deck,hole,18,111.15421602738013,97.48480386889088,5.5,5.5,6
+M08_Fixed_Deck,hole,19,88.39358451917944,105.09753355986913,5.5,5.5,6
+M08_Fixed_Deck,hole,20,118.13255157744354,118.34871608474151,5.5,5.5,6
+M08_Fixed_Deck,hole,21,95.37192006924285,125.96144577571977,5.5,5.5,6
+M08_Fixed_Deck,hole,22,138.28451208764523,33.579037026747706,5.5,5.5,6
+M08_Fixed_Deck,hole,23,115.52388057944454,41.19176671772596,5.5,5.5,6
+M08_Fixed_Deck,hole,24,116.81852138285228,70.2834133742862,4.5,4.5,6
+M08_Fixed_Deck,hole,25,100.64147078952347,21.917071419359722,4.5,4.5,6
+M08_Fixed_Deck,hole,26,40.00139004267494,95.97637608133783,4.5,4.5,6
+M08_Fixed_Deck,hole,27,37.78101054947295,89.33785855811263,4.5,4.5,6
+M08_Fixed_Deck,hole,28,-5.065748921639875,140.37496925335444,5.5,5.5,6
+M08_Fixed_Deck,hole,29,-27.232167400839256,149.57550683574647,5.5,5.5,6
+M08_Fixed_Deck,hole,30,3.368077195552825,160.69418619262055,5.5,5.5,6
+M08_Fixed_Deck,hole,31,-18.798341283646558,169.89472377501258,5.5,5.5,6
+M08_Fixed_Deck,hole,32,17.48538840164286,74.71336551550439,5.5,5.5,6
+M08_Fixed_Deck,hole,33,-4.6810300775565175,83.91390309789642,5.5,5.5,6
+M08_Fixed_Deck,hole,34,-1.3358757244989388,112.84157051775972,4.5,4.5,6
+M08_Fixed_Deck,hole,35,-20.887018087082016,65.73793124946103,4.5,4.5,6
+M08_Fixed_Deck,hole,36,-76.14753809179685,143.89338485833284,4.5,4.5,6
+M08_Fixed_Deck,hole,37,-78.83102821999452,137.42817946856636,4.5,4.5,6
+M08_Fixed_Deck,hole,38,-140.00142464709307,47.51997288300917,5.5,5.5,6
+M08_Fixed_Deck,hole,39,-135.21392619752396,24.002322945241712,5.5,5.5,6
+M08_Fixed_Deck,hole,40,-161.55927042337993,43.13143263757081,5.5,5.5,6
+M08_Fixed_Deck,hole,41,-156.77177197381081,19.61378269980336,5.5,5.5,6
+M08_Fixed_Deck,hole,42,-98.22255514360441,102.96838190446319,5.5,5.5,6
+M08_Fixed_Deck,hole,43,-93.4350566940353,79.45073196669574,5.5,5.5,6
+M08_Fixed_Deck,hole,44,-119.27648213824095,66.02610046294262,4.5,4.5,6
+M08_Fixed_Deck,hole,45,-69.30147602048513,76.19953466827698,4.5,4.5,6
+M08_Fixed_Deck,hole,46,-103.1186748709452,-13.345968077022517,4.5,4.5,6
+M08_Fixed_Deck,hole,47,-96.25936030576302,-11.94961436256486,4.5,4.5,6
+M08_Fixed_Deck,hole,48,-119.03541496804444,-74.57455188201105,5.5,5.5,6
+M08_Fixed_Deck,hole,49,-115.9201050032697,-98.37150218711055,5.5,5.5,6
+M08_Fixed_Deck,hole,50,-140.84928608105233,-77.43025268305456,5.5,5.5,6
+M08_Fixed_Deck,hole,51,-137.73397611627757,-101.22720298815406,5.5,5.5,6
+M08_Fixed_Deck,hole,52,-73.44636673948044,-22.21389220689174,5.5,5.5,6
+M08_Fixed_Deck,hole,53,-70.3310567747057,-46.01084251199124,5.5,5.5,6
+M08_Fixed_Deck,hole,54,-97.05572880906354,-57.57768757259493,4.5,4.5,6
+M08_Fixed_Deck,hole,55,-46.487209410727104,-50.95765389744861,4.5,4.5,6
+M08_Fixed_Deck,hole,56,-86.54155767794879,-137.89239485230576,4.5,4.5,6
+M08_Fixed_Deck,hole,57,-79.60078050562811,-136.98376277924646,4.5,4.5,6
+M08_Fixed_Deck,hole,58,28.847208619712987,-145.00477675190004,5.5,5.5,6
+M08_Fixed_Deck,hole,59,46.82034167834456,-129.09985650511084,5.5,5.5,6
+M08_Fixed_Deck,hole,60,43.42671884593641,-161.48014872231232,5.5,5.5,6
+M08_Fixed_Deck,hole,61,61.39985190456799,-145.57522847552312,5.5,5.5,6
+M08_Fixed_Deck,hole,62,-40.06195694404078,-136.5474189312109,5.5,5.5,6
+M08_Fixed_Deck,hole,63,-22.0888238854092,-120.6424986844217,5.5,5.5,6
+M08_Fixed_Deck,hole,64,2.4579607553887106,-136.30951383722882,4.5,4.5,6
+M08_Fixed_Deck,hole,65,-31.33999476903832,-98.11660608763673,4.5,4.5,6
+M08_Fixed_Deck,hole,66,63.117284828270286,-82.63040800431529,4.5,4.5,6
+M08_Fixed_Deck,hole,67,58.4783497562901,-77.38824419554774,4.5,4.5,6
+M08_Fixed_Deck,hole,68,251.02290732122435,38.89087296526009,5.5,5.5,6
+M08_Fixed_Deck,hole,69,38.89087296526013,251.02290732122435,5.5,5.5,6
+M08_Fixed_Deck,hole,70,-38.89087296526009,251.02290732122435,5.5,5.5,6
+M08_Fixed_Deck,hole,71,-251.02290732122435,38.89087296526013,5.5,5.5,6
+M08_Fixed_Deck,hole,72,38.89087296526007,-251.02290732122438,5.5,5.5,6
+M08_Fixed_Deck,hole,73,251.02290732122435,-38.89087296526017,5.5,5.5,6
+M08_Fixed_Deck,hole,74,-251.0229073212244,-38.89087296526007,5.5,5.5,6
+M08_Fixed_Deck,hole,75,-38.89087296526016,-251.02290732122435,5.5,5.5,6
+M08_Fixed_Deck,hole,76,20.0,0.0,5.5,5.5,6
+M08_Fixed_Deck,hole,77,-9.999999999999996,17.320508075688775,5.5,5.5,6
+M08_Fixed_Deck,hole,78,-10.000000000000009,-17.320508075688767,5.5,5.5,6
+M08_Fixed_Deck,hole,79,6.000000000000002,10.392304845413264,3.4,3.4,6
+M08_Fixed_Deck,hole,80,-12.0,1.4695761589768238e-15,3.4,3.4,6
+M08_Fixed_Deck,hole,81,5.999999999999992,-10.392304845413268,3.4,3.4,6
+M09_Moving_Carrier,closed outline vertex,1,-90.79702767117242,-24.328990239636976,,,4
+M09_Moving_Carrier,closed outline vertex,2,-91.20779826994367,-22.740658186368766,,,4
+M09_Moving_Carrier,closed outline vertex,3,-91.5907860898121,-21.14539910832333,,,4
+M09_Moving_Carrier,closed outline vertex,4,-91.94587446897773,-19.543698936869376,,,4
+M09_Moving_Carrier,closed outline vertex,5,-92.2729552440804,-17.936045565395226,,,4
+M09_Moving_Carrier,closed outline vertex,6,-92.57192878314756,-16.322928700691445,,,4
+M09_Moving_Carrier,closed outline vertex,7,-92.84270401594294,-14.704839713781713,,,4
+M09_Moving_Carrier,closed outline vertex,8,-93.08519846170762,-13.082271490246141,,,4
+M09_Moving_Carrier,closed outline vertex,9,-93.29933825428427,-11.45571828008387,,,4
+M09_Moving_Carrier,closed outline vertex,10,-93.48505816461768,-9.82567554715945,,,4
+M09_Moving_Carrier,closed outline vertex,11,-93.64230162062408,-8.19263981827987,,,4
+M09_Moving_Carrier,closed outline vertex,12,-93.77102072442348,-6.557108531947799,,,4
+M09_Moving_Carrier,closed outline vertex,13,-93.87117626692994,-4.9195798868367175,,,4
+M09_Moving_Carrier,closed outline vertex,14,-93.942737739795,-3.2805526900351074,,,4
+M09_Moving_Carrier,closed outline vertex,15,-93.98568334470077,-1.6405262051046432,,,4
+M09_Moving_Carrier,closed outline vertex,16,-94.0,0.0,,,4
+M09_Moving_Carrier,closed outline vertex,17,-93.98568334470077,1.6405262051046618,,,4
+M09_Moving_Carrier,closed outline vertex,18,-93.942737739795,3.2805526900350848,,,4
+M09_Moving_Carrier,closed outline vertex,19,-93.87117626692994,4.919579886836695,,,4
+M09_Moving_Carrier,closed outline vertex,20,-93.77102072442348,6.557108531947776,,,4
+M09_Moving_Carrier,closed outline vertex,21,-93.64230162062408,8.192639818279847,,,4
+M09_Moving_Carrier,closed outline vertex,22,-93.48505816461768,9.82567554715943,,,4
+M09_Moving_Carrier,closed outline vertex,23,-93.29933825428428,11.455718280083847,,,4
+M09_Moving_Carrier,closed outline vertex,24,-93.0851984617076,13.082271490246159,,,4
+M09_Moving_Carrier,closed outline vertex,25,-92.84270401594296,14.704839713781688,,,4
+M09_Moving_Carrier,closed outline vertex,26,-92.57192878314756,16.322928700691463,,,4
+M09_Moving_Carrier,closed outline vertex,27,-92.2729552440804,17.936045565395204,,,4
+M09_Moving_Carrier,closed outline vertex,28,-91.94587446897772,19.543698936869394,,,4
+M09_Moving_Carrier,closed outline vertex,29,-91.59078608981211,21.145399108323307,,,4
+M09_Moving_Carrier,closed outline vertex,30,-91.20779826994367,22.740658186368744,,,4
+M09_Moving_Carrier,closed outline vertex,31,-90.79702767117242,24.328990239636955,,,4
+M09_Moving_Carrier,closed outline vertex,32,-90.35859941820198,25.909911446797906,,,4
+M09_Moving_Carrier,closed outline vertex,33,-89.89264706052533,27.482940243937257,,,4
+M09_Moving_Carrier,closed outline vertex,34,-89.39931253174444,29.047597471245044,,,4
+M09_Moving_Carrier,closed outline vertex,35,-88.87874610633577,30.603406518972736,,,4
+M09_Moving_Carrier,closed outline vertex,36,-88.3311063538754,32.14989347261285,,,4
+M09_Moving_Carrier,closed outline vertex,37,-87.75656009073695,33.68658725725824,,,4
+M09_Moving_Carrier,closed outline vertex,38,-87.15528232927802,35.21301978109573,,,4
+M09_Moving_Carrier,closed outline vertex,39,-86.5274562245294,36.728726077991716,,,4
+M09_Moving_Carrier,closed outline vertex,40,-85.87327301840448,38.233244449125216,,,4
+M09_Moving_Carrier,closed outline vertex,41,-85.1929319814451,39.726116603625734,,,4
+M09_Moving_Carrier,closed outline vertex,42,-84.4866403521217,41.206887798173284,,,4
+M09_Moving_Carrier,closed outline vertex,43,-83.75461327370658,42.67510697551739,,,4
+M09_Moving_Carrier,closed outline vertex,44,-82.99707372873912,44.130326901873744,,,4
+M09_Moving_Carrier,closed outline vertex,45,-82.21425247110321,45.572104303155676,,,4
+M09_Moving_Carrier,closed outline vertex,46,-81.40638795573723,47.00000000000001,,,4
+M09_Moving_Carrier,closed outline vertex,47,-80.57372626599856,48.41357904154509,,,4
+M09_Moving_Carrier,closed outline vertex,48,-79.71652103870404,49.81241083792125,,,4
+M09_Moving_Carrier,closed outline vertex,49,-78.83503338686987,51.19606929141255,,,4
+M09_Moving_Carrier,closed outline vertex,50,-77.92953182017393,52.56413292625019,,,4
+M09_Moving_Carrier,closed outline vertex,51,-77.00029216316523,53.91618501699834,,,4
+M09_Moving_Carrier,closed outline vertex,52,-76.04759747124506,55.25181371549247,,,4
+M09_Moving_Carrier,closed outline vertex,53,-75.07173794444553,56.57061217629255,,,4
+M09_Moving_Carrier,closed outline vertex,54,-74.07301083903187,57.87217868061187,,,4
+M09_Moving_Carrier,closed outline vertex,55,-73.05172037695526,59.15611675868474,,,4
+M09_Moving_Carrier,closed outline vertex,56,-72.00817765318394,60.42203531053469,,,4
+M09_Moving_Carrier,closed outline vertex,57,-70.94270054094058,61.66954872510766,,,4
+M09_Moving_Carrier,closed outline vertex,58,-69.85561359487505,62.89827699773267,,,4
+M09_Moving_Carrier,closed outline vertex,59,-68.74724795220203,64.10784584587485,,,4
+M09_Moving_Carrier,closed outline vertex,60,-67.6179412318332,65.29788682314575,,,4
+M09_Moving_Carrier,closed outline vertex,61,-66.46803743153548,66.46803743153546,,,4
+M09_Moving_Carrier,closed outline vertex,62,-65.29788682314575,67.61794123183321,,,4
+M09_Moving_Carrier,closed outline vertex,63,-64.10784584587486,68.74724795220202,,,4
+M09_Moving_Carrier,closed outline vertex,64,-62.898276997732665,69.85561359487507,,,4
+M09_Moving_Carrier,closed outline vertex,65,-61.66954872510768,70.94270054094056,,,4
+M09_Moving_Carrier,closed outline vertex,66,-60.42203531053471,72.00817765318392,,,4
+M09_Moving_Carrier,closed outline vertex,67,-59.15611675868475,73.05172037695523,,,4
+M09_Moving_Carrier,closed outline vertex,68,-57.87217868061186,74.07301083903188,,,4
+M09_Moving_Carrier,closed outline vertex,69,-56.570612176292535,75.07173794444553,,,4
+M09_Moving_Carrier,closed outline vertex,70,-55.25181371549249,76.04759747124506,,,4
+M09_Moving_Carrier,closed outline vertex,71,-53.91618501699836,77.00029216316521,,,4
+M09_Moving_Carrier,closed outline vertex,72,-52.56413292625018,77.92953182017393,,,4
+M09_Moving_Carrier,closed outline vertex,73,-51.196069291412535,78.83503338686987,,,4
+M09_Moving_Carrier,closed outline vertex,74,-49.81241083792127,79.71652103870404,,,4
+M09_Moving_Carrier,closed outline vertex,75,-48.41357904154511,80.57372626599854,,,4
+M09_Moving_Carrier,closed outline vertex,76,-47.00000000000004,81.4063879557372,,,4
+M09_Moving_Carrier,closed outline vertex,77,-45.57210430315566,82.21425247110322,,,4
+M09_Moving_Carrier,closed outline vertex,78,-44.13032690187373,82.99707372873914,,,4
+M09_Moving_Carrier,closed outline vertex,79,-42.675106975517416,83.75461327370657,,,4
+M09_Moving_Carrier,closed outline vertex,80,-41.206887798173305,84.48664035212168,,,4
+M09_Moving_Carrier,closed outline vertex,81,-39.72611660362572,85.1929319814451,,,4
+M09_Moving_Carrier,closed outline vertex,82,-38.23324444912521,85.87327301840449,,,4
+M09_Moving_Carrier,closed outline vertex,83,-36.72872607799174,86.52745622452939,,,4
+M09_Moving_Carrier,closed outline vertex,84,-35.21301978109575,87.15528232927801,,,4
+M09_Moving_Carrier,closed outline vertex,85,-33.68658725725827,87.75656009073694,,,4
+M09_Moving_Carrier,closed outline vertex,86,-32.149893472612845,88.3311063538754,,,4
+M09_Moving_Carrier,closed outline vertex,87,-30.603406518972726,88.87874610633578,,,4
+M09_Moving_Carrier,closed outline vertex,88,-29.04759747124507,89.39931253174443,,,4
+M09_Moving_Carrier,closed outline vertex,89,-27.48294024393729,89.89264706052532,,,4
+M09_Moving_Carrier,closed outline vertex,90,-25.909911446797896,90.35859941820199,,,4
+M09_Moving_Carrier,closed outline vertex,91,-24.32899023963694,90.79702767117242,,,4
+M09_Moving_Carrier,closed outline vertex,92,-22.740658186368773,91.20779826994367,,,4
+M09_Moving_Carrier,closed outline vertex,93,-21.145399108323335,91.5907860898121,,,4
+M09_Moving_Carrier,closed outline vertex,94,-19.54369893686942,91.94587446897772,,,4
+M09_Moving_Carrier,closed outline vertex,95,-17.936045565395194,92.2729552440804,,,4
+M09_Moving_Carrier,closed outline vertex,96,-16.322928700691453,92.57192878314756,,,4
+M09_Moving_Carrier,closed outline vertex,97,-14.704839713781718,92.84270401594294,,,4
+M09_Moving_Carrier,closed outline vertex,98,-13.082271490246187,93.0851984617076,,,4
+M09_Moving_Carrier,closed outline vertex,99,-11.455718280083834,93.29933825428428,,,4
+M09_Moving_Carrier,closed outline vertex,100,-9.825675547159415,93.4850581646177,,,4
+M09_Moving_Carrier,closed outline vertex,101,-8.192639818279876,93.64230162062408,,,4
+M09_Moving_Carrier,closed outline vertex,102,-6.557108531947804,93.77102072442348,,,4
+M09_Moving_Carrier,closed outline vertex,103,-4.919579886836765,93.87117626692994,,,4
+M09_Moving_Carrier,closed outline vertex,104,-3.2805526900350714,93.942737739795,,,4
+M09_Moving_Carrier,closed outline vertex,105,-1.6405262051046487,93.98568334470077,,,4
+M09_Moving_Carrier,closed outline vertex,106,0.0,94.0,,,4
+M09_Moving_Carrier,closed outline vertex,107,1.640526205104614,93.98568334470077,,,4
+M09_Moving_Carrier,closed outline vertex,108,3.2805526900351203,93.942737739795,,,4
+M09_Moving_Carrier,closed outline vertex,109,4.919579886836731,93.87117626692994,,,4
+M09_Moving_Carrier,closed outline vertex,110,5.553993256057084,93.83237388300992,,,4
+M09_Moving_Carrier,closed outline vertex,111,5.553993256057085,93.83237388300992,,,4
+M09_Moving_Carrier,closed outline vertex,112,6.557108531947771,93.77102072442348,,,4
+M09_Moving_Carrier,closed outline vertex,113,8.192639818279842,93.64230162062408,,,4
+M09_Moving_Carrier,closed outline vertex,114,9.825675547159381,93.4850581646177,,,4
+M09_Moving_Carrier,closed outline vertex,115,11.455718280083882,93.29933825428427,,,4
+M09_Moving_Carrier,closed outline vertex,116,13.082271490246153,93.08519846170762,,,4
+M09_Moving_Carrier,closed outline vertex,117,14.704839713781684,92.84270401594296,,,4
+M09_Moving_Carrier,closed outline vertex,118,16.322928700691417,92.57192878314757,,,4
+M09_Moving_Carrier,closed outline vertex,119,17.93604556539524,92.2729552440804,,,4
+M09_Moving_Carrier,closed outline vertex,120,19.54369893686939,91.94587446897772,,,4
+M09_Moving_Carrier,closed outline vertex,121,21.145399108323303,91.59078608981211,,,4
+M09_Moving_Carrier,closed outline vertex,122,22.74065818636874,91.20779826994368,,,4
+M09_Moving_Carrier,closed outline vertex,123,24.32899023963691,90.79702767117243,,,4
+M09_Moving_Carrier,closed outline vertex,124,25.909911446797942,90.35859941820196,,,4
+M09_Moving_Carrier,closed outline vertex,125,27.48294024393725,89.89264706052533,,,4
+M09_Moving_Carrier,closed outline vertex,126,29.04759747124504,89.39931253174444,,,4
+M09_Moving_Carrier,closed outline vertex,127,30.603406518972694,88.8787461063358,,,4
+M09_Moving_Carrier,closed outline vertex,128,32.14989347261289,88.33110635387538,,,4
+M09_Moving_Carrier,closed outline vertex,129,33.68658725725824,87.75656009073697,,,4
+M09_Moving_Carrier,closed outline vertex,130,35.213019781095724,87.15528232927802,,,4
+M09_Moving_Carrier,closed outline vertex,131,36.72872607799171,86.5274562245294,,,4
+M09_Moving_Carrier,closed outline vertex,132,38.23324444912518,85.8732730184045,,,4
+M09_Moving_Carrier,closed outline vertex,133,39.72611660362576,85.19293198144508,,,4
+M09_Moving_Carrier,closed outline vertex,134,41.20688779817328,84.4866403521217,,,4
+M09_Moving_Carrier,closed outline vertex,135,42.174481650319215,84.00421585337615,,,4
+M09_Moving_Carrier,closed outline vertex,136,42.67510697551739,83.75461327370658,,,4
+M09_Moving_Carrier,closed outline vertex,137,44.1303269018737,82.99707372873915,,,4
+M09_Moving_Carrier,closed outline vertex,138,45.572104303155704,82.2142524711032,,,4
+M09_Moving_Carrier,closed outline vertex,139,47.00000000000001,81.40638795573723,,,4
+M09_Moving_Carrier,closed outline vertex,140,48.41357904154509,80.57372626599856,,,4
+M09_Moving_Carrier,closed outline vertex,141,49.81241083792124,79.71652103870406,,,4
+M09_Moving_Carrier,closed outline vertex,142,51.196069291412506,78.83503338686988,,,4
+M09_Moving_Carrier,closed outline vertex,143,52.56413292625022,77.9295318201739,,,4
+M09_Moving_Carrier,closed outline vertex,144,53.91618501699833,77.00029216316523,,,4
+M09_Moving_Carrier,closed outline vertex,145,55.25181371549245,76.04759747124507,,,4
+M09_Moving_Carrier,closed outline vertex,146,56.57061217629251,75.07173794444556,,,4
+M09_Moving_Carrier,closed outline vertex,147,57.413728384236556,74.4247921240876,,,4
+M09_Moving_Carrier,closed outline vertex,148,57.8721786806119,74.07301083903185,,,4
+M09_Moving_Carrier,closed outline vertex,149,59.156116758684725,73.05172037695526,,,4
+M09_Moving_Carrier,closed outline vertex,150,60.42203531053469,72.00817765318395,,,4
+M09_Moving_Carrier,closed outline vertex,151,61.66954872510766,70.94270054094059,,,4
+M09_Moving_Carrier,closed outline vertex,152,62.89827699773263,69.8556135948751,,,4
+M09_Moving_Carrier,closed outline vertex,153,64.10784584587488,68.74724795220202,,,4
+M09_Moving_Carrier,closed outline vertex,154,65.29788682314575,67.61794123183321,,,4
+M09_Moving_Carrier,closed outline vertex,155,66.46803743153545,66.46803743153548,,,4
+M09_Moving_Carrier,closed outline vertex,156,67.61794123183319,65.29788682314577,,,4
+M09_Moving_Carrier,closed outline vertex,157,68.74724795220204,64.10784584587485,,,4
+M09_Moving_Carrier,closed outline vertex,158,69.85561359487507,62.898276997732665,,,4
+M09_Moving_Carrier,closed outline vertex,159,70.94270054094056,61.669548725107695,,,4
+M09_Moving_Carrier,closed outline vertex,160,72.0081776531839,60.422035310534724,,,4
+M09_Moving_Carrier,closed outline vertex,161,73.05172037695523,59.15611675868475,,,4
+M09_Moving_Carrier,closed outline vertex,162,74.07301083903188,57.87217868061187,,,4
+M09_Moving_Carrier,closed outline vertex,163,75.07173794444553,56.570612176292535,,,4
+M09_Moving_Carrier,closed outline vertex,164,76.04759747124506,55.251813715492496,,,4
+M09_Moving_Carrier,closed outline vertex,165,77.00029216316521,53.91618501699837,,,4
+M09_Moving_Carrier,closed outline vertex,166,77.92953182017393,52.56413292625018,,,4
+M09_Moving_Carrier,closed outline vertex,167,78.83503338686987,51.196069291412535,,,4
+M09_Moving_Carrier,closed outline vertex,168,79.71652103870403,49.81241083792127,,,4
+M09_Moving_Carrier,closed outline vertex,169,80.57372626599854,48.41357904154512,,,4
+M09_Moving_Carrier,closed outline vertex,170,81.4063879557372,47.00000000000004,,,4
+M09_Moving_Carrier,closed outline vertex,171,82.21425247110321,45.57210430315567,,,4
+M09_Moving_Carrier,closed outline vertex,172,82.99707372873914,44.13032690187374,,,4
+M09_Moving_Carrier,closed outline vertex,173,83.75461327370657,42.675106975517416,,,4
+M09_Moving_Carrier,closed outline vertex,174,84.48664035212168,41.20688779817331,,,4
+M09_Moving_Carrier,closed outline vertex,175,85.1929319814451,39.72611660362573,,,4
+M09_Moving_Carrier,closed outline vertex,176,85.87327301840448,38.233244449125216,,,4
+M09_Moving_Carrier,closed outline vertex,177,86.52745622452939,36.728726077991745,,,4
+M09_Moving_Carrier,closed outline vertex,178,87.15528232927801,35.21301978109576,,,4
+M09_Moving_Carrier,closed outline vertex,179,87.75656009073694,33.686587257258275,,,4
+M09_Moving_Carrier,closed outline vertex,180,88.3311063538754,32.149893472612845,,,4
+M09_Moving_Carrier,closed outline vertex,181,88.87874610633578,30.60340651897273,,,4
+M09_Moving_Carrier,closed outline vertex,182,89.39931253174443,29.04759747124508,,,4
+M09_Moving_Carrier,closed outline vertex,183,89.89264706052532,27.482940243937293,,,4
+M09_Moving_Carrier,closed outline vertex,184,90.35859941820198,25.9099114467979,,,4
+M09_Moving_Carrier,closed outline vertex,185,90.79702767117242,24.328990239636944,,,4
+M09_Moving_Carrier,closed outline vertex,186,91.20779826994367,22.74065818636878,,,4
+M09_Moving_Carrier,closed outline vertex,187,91.5907860898121,21.145399108323343,,,4
+M09_Moving_Carrier,closed outline vertex,188,91.94587446897772,19.54369893686943,,,4
+M09_Moving_Carrier,closed outline vertex,189,92.2729552440804,17.936045565395197,,,4
+M09_Moving_Carrier,closed outline vertex,190,92.57192878314756,16.322928700691456,,,4
+M09_Moving_Carrier,closed outline vertex,191,92.84270401594294,14.704839713781725,,,4
+M09_Moving_Carrier,closed outline vertex,192,93.0851984617076,13.082271490246193,,,4
+M09_Moving_Carrier,closed outline vertex,193,93.29933825428428,11.45571828008384,,,4
+M09_Moving_Carrier,closed outline vertex,194,93.48505816461768,9.82567554715942,,,4
+M09_Moving_Carrier,closed outline vertex,195,93.64230162062408,8.192639818279883,,,4
+M09_Moving_Carrier,closed outline vertex,196,93.77102072442348,6.55710853194781,,,4
+M09_Moving_Carrier,closed outline vertex,197,93.87117626692994,4.919579886836771,,,4
+M09_Moving_Carrier,closed outline vertex,198,93.942737739795,3.280552690035077,,,4
+M09_Moving_Carrier,closed outline vertex,199,93.98568334470077,1.6405262051046547,,,4
+M09_Moving_Carrier,closed outline vertex,200,94.0,0.0,,,4
+M09_Moving_Carrier,closed outline vertex,201,93.98568334470077,-1.64052620510465,,,4
+M09_Moving_Carrier,closed outline vertex,202,93.942737739795,-3.280552690035091,,,4
+M09_Moving_Carrier,closed outline vertex,203,93.87117626692994,-4.91957988683672,,,4
+M09_Moving_Carrier,closed outline vertex,204,93.77102072442348,-6.557108531947779,,,4
+M09_Moving_Carrier,closed outline vertex,205,93.64230162062408,-8.192639818279867,,,4
+M09_Moving_Carrier,closed outline vertex,206,93.48505816461768,-9.825675547159426,,,4
+M09_Moving_Carrier,closed outline vertex,207,93.29933825428427,-11.455718280083863,,,4
+M09_Moving_Carrier,closed outline vertex,208,93.08519846170762,-13.082271490246152,,,4
+M09_Moving_Carrier,closed outline vertex,209,92.84270401594296,-14.704839713781702,,,4
+M09_Moving_Carrier,closed outline vertex,210,92.57192878314756,-16.322928700691453,,,4
+M09_Moving_Carrier,closed outline vertex,211,92.2729552440804,-17.93604556539521,,,4
+M09_Moving_Carrier,closed outline vertex,212,91.94587446897773,-19.54369893686938,,,4
+M09_Moving_Carrier,closed outline vertex,213,91.59078608981211,-21.14539910832331,,,4
+M09_Moving_Carrier,closed outline vertex,214,91.20779826994367,-22.740658186368766,,,4
+M09_Moving_Carrier,closed outline vertex,215,90.79702767117242,-24.32899023963695,,,4
+M09_Moving_Carrier,closed outline vertex,216,90.35859941820198,-25.90991144679792,,,4
+M09_Moving_Carrier,closed outline vertex,217,89.89264706052533,-27.482940243937257,,,4
+M09_Moving_Carrier,closed outline vertex,218,89.39931253174443,-29.047597471245055,,,4
+M09_Moving_Carrier,closed outline vertex,219,88.87874610633578,-30.60340651897273,,,4
+M09_Moving_Carrier,closed outline vertex,220,88.3311063538754,-32.14989347261286,,,4
+M09_Moving_Carrier,closed outline vertex,221,87.75656009073697,-33.686587257258225,,,4
+M09_Moving_Carrier,closed outline vertex,222,87.15528232927802,-35.21301978109573,,,4
+M09_Moving_Carrier,closed outline vertex,223,86.5274562245294,-36.72872607799174,,,4
+M09_Moving_Carrier,closed outline vertex,224,85.87327301840448,-38.233244449125216,,,4
+M09_Moving_Carrier,closed outline vertex,225,85.1929319814451,-39.72611660362575,,,4
+M09_Moving_Carrier,closed outline vertex,226,84.4866403521217,-41.20688779817328,,,4
+M09_Moving_Carrier,closed outline vertex,227,83.75461327370658,-42.675106975517394,,,4
+M09_Moving_Carrier,closed outline vertex,228,82.99707372873914,-44.13032690187374,,,4
+M09_Moving_Carrier,closed outline vertex,229,82.2142524711032,-45.57210430315568,,,4
+M09_Moving_Carrier,closed outline vertex,230,81.40638795573724,-46.99999999999999,,,4
+M09_Moving_Carrier,closed outline vertex,231,80.57372626599856,-48.41357904154509,,,4
+M09_Moving_Carrier,closed outline vertex,232,79.71652103870404,-49.81241083792126,,,4
+M09_Moving_Carrier,closed outline vertex,233,78.83503338686987,-51.19606929141255,,,4
+M09_Moving_Carrier,closed outline vertex,234,78.48422285205756,-51.726086193697846,,,4
+M09_Moving_Carrier,closed outline vertex,235,77.92953182017392,-52.56413292625021,,,4
+M09_Moving_Carrier,closed outline vertex,236,77.00029216316523,-53.91618501699833,,,4
+M09_Moving_Carrier,closed outline vertex,237,76.04759747124506,-55.251813715492474,,,4
+M09_Moving_Carrier,closed outline vertex,238,75.07173794444553,-56.570612176292535,,,4
+M09_Moving_Carrier,closed outline vertex,239,74.07301083903185,-57.87217868061188,,,4
+M09_Moving_Carrier,closed outline vertex,240,73.05172037695526,-59.15611675868472,,,4
+M09_Moving_Carrier,closed outline vertex,241,72.00817765318394,-60.42203531053469,,,4
+M09_Moving_Carrier,closed outline vertex,242,70.94270054094056,-61.66954872510768,,,4
+M09_Moving_Carrier,closed outline vertex,243,69.85561359487505,-62.89827699773267,,,4
+M09_Moving_Carrier,closed outline vertex,244,68.74724795220202,-64.10784584587486,,,4
+M09_Moving_Carrier,closed outline vertex,245,67.61794123183321,-65.29788682314575,,,4
+M09_Moving_Carrier,closed outline vertex,246,67.18536789207543,-65.7380766516859,,,4
+M09_Moving_Carrier,closed outline vertex,247,66.46803743153548,-66.46803743153546,,,4
+M09_Moving_Carrier,closed outline vertex,248,65.29788682314575,-67.6179412318332,,,4
+M09_Moving_Carrier,closed outline vertex,249,64.10784584587486,-68.74724795220202,,,4
+M09_Moving_Carrier,closed outline vertex,250,62.89827699773267,-69.85561359487505,,,4
+M09_Moving_Carrier,closed outline vertex,251,61.66954872510768,-70.94270054094056,,,4
+M09_Moving_Carrier,closed outline vertex,252,60.4220353105347,-72.00817765318394,,,4
+M09_Moving_Carrier,closed outline vertex,253,59.15611675868472,-73.05172037695526,,,4
+M09_Moving_Carrier,closed outline vertex,254,57.87217868061188,-74.07301083903187,,,4
+M09_Moving_Carrier,closed outline vertex,255,56.570612176292535,-75.07173794444553,,,4
+M09_Moving_Carrier,closed outline vertex,256,55.251813715492474,-76.04759747124506,,,4
+M09_Moving_Carrier,closed outline vertex,257,53.91618501699833,-77.00029216316523,,,4
+M09_Moving_Carrier,closed outline vertex,258,52.564132926250196,-77.92953182017392,,,4
+M09_Moving_Carrier,closed outline vertex,259,51.19606929141255,-78.83503338686987,,,4
+M09_Moving_Carrier,closed outline vertex,260,49.81241083792126,-79.71652103870404,,,4
+M09_Moving_Carrier,closed outline vertex,261,48.41357904154509,-80.57372626599856,,,4
+M09_Moving_Carrier,closed outline vertex,262,47.00000000000001,-81.40638795573723,,,4
+M09_Moving_Carrier,closed outline vertex,263,45.57210430315569,-82.2142524711032,,,4
+M09_Moving_Carrier,closed outline vertex,264,44.130326901873744,-82.99707372873912,,,4
+M09_Moving_Carrier,closed outline vertex,265,42.6751069755174,-83.75461327370658,,,4
+M09_Moving_Carrier,closed outline vertex,266,41.206887798173284,-84.4866403521217,,,4
+M09_Moving_Carrier,closed outline vertex,267,39.72611660362575,-85.1929319814451,,,4
+M09_Moving_Carrier,closed outline vertex,268,38.233244449125216,-85.87327301840448,,,4
+M09_Moving_Carrier,closed outline vertex,269,36.72872607799173,-86.5274562245294,,,4
+M09_Moving_Carrier,closed outline vertex,270,35.746896458717586,-86.93414336877235,,,4
+M09_Moving_Carrier,closed outline vertex,271,35.213019781095724,-87.15528232927802,,,4
+M09_Moving_Carrier,closed outline vertex,272,33.68658725725824,-87.75656009073697,,,4
+M09_Moving_Carrier,closed outline vertex,273,32.14989347261287,-88.33110635387538,,,4
+M09_Moving_Carrier,closed outline vertex,274,30.603406518972736,-88.87874610633577,,,4
+M09_Moving_Carrier,closed outline vertex,275,29.047597471245062,-89.39931253174443,,,4
+M09_Moving_Carrier,closed outline vertex,276,27.482940243937257,-89.89264706052533,,,4
+M09_Moving_Carrier,closed outline vertex,277,25.90991144679792,-90.35859941820198,,,4
+M09_Moving_Carrier,closed outline vertex,278,24.32899023963695,-90.79702767117242,,,4
+M09_Moving_Carrier,closed outline vertex,279,22.740658186368762,-91.20779826994367,,,4
+M09_Moving_Carrier,closed outline vertex,280,21.145399108323303,-91.59078608981211,,,4
+M09_Moving_Carrier,closed outline vertex,281,19.54369893686939,-91.94587446897772,,,4
+M09_Moving_Carrier,closed outline vertex,282,17.936045565395222,-92.2729552440804,,,4
+M09_Moving_Carrier,closed outline vertex,283,16.32292870069146,-92.57192878314756,,,4
+M09_Moving_Carrier,closed outline vertex,284,14.704839713781707,-92.84270401594296,,,4
+M09_Moving_Carrier,closed outline vertex,285,13.082271490246153,-93.08519846170762,,,4
+M09_Moving_Carrier,closed outline vertex,286,11.455718280083865,-93.29933825428427,,,4
+M09_Moving_Carrier,closed outline vertex,287,9.825675547159426,-93.48505816461768,,,4
+M09_Moving_Carrier,closed outline vertex,288,8.192639818279865,-93.64230162062408,,,4
+M09_Moving_Carrier,closed outline vertex,289,6.5571085319477715,-93.77102072442348,,,4
+M09_Moving_Carrier,closed outline vertex,290,4.919579886836733,-93.87117626692994,,,4
+M09_Moving_Carrier,closed outline vertex,291,3.2805526900351016,-93.942737739795,,,4
+M09_Moving_Carrier,closed outline vertex,292,1.6405262051046583,-93.98568334470077,,,4
+M09_Moving_Carrier,closed outline vertex,293,0.0,-94.0,,,4
+M09_Moving_Carrier,closed outline vertex,294,-1.6405262051046468,-93.98568334470077,,,4
+M09_Moving_Carrier,closed outline vertex,295,-3.2805526900350896,-93.942737739795,,,4
+M09_Moving_Carrier,closed outline vertex,296,-4.919579886836721,-93.87117626692994,,,4
+M09_Moving_Carrier,closed outline vertex,297,-6.557108531947781,-93.77102072442348,,,4
+M09_Moving_Carrier,closed outline vertex,298,-8.192639818279874,-93.64230162062408,,,4
+M09_Moving_Carrier,closed outline vertex,299,-9.825675547159435,-93.48505816461768,,,4
+M09_Moving_Carrier,closed outline vertex,300,-11.455718280083852,-93.29933825428428,,,4
+M09_Moving_Carrier,closed outline vertex,301,-13.082271490246143,-93.08519846170762,,,4
+M09_Moving_Carrier,closed outline vertex,302,-14.704839713781697,-92.84270401594296,,,4
+M09_Moving_Carrier,closed outline vertex,303,-16.32292870069145,-92.57192878314756,,,4
+M09_Moving_Carrier,closed outline vertex,304,-17.93604556539521,-92.2729552440804,,,4
+M09_Moving_Carrier,closed outline vertex,305,-19.54369893686938,-91.94587446897773,,,4
+M09_Moving_Carrier,closed outline vertex,306,-21.145399108323314,-91.59078608981211,,,4
+M09_Moving_Carrier,closed outline vertex,307,-22.740658186368773,-91.20779826994367,,,4
+M09_Moving_Carrier,closed outline vertex,308,-24.32899023963696,-90.79702767117242,,,4
+M09_Moving_Carrier,closed outline vertex,309,-25.90991144679791,-90.35859941820198,,,4
+M09_Moving_Carrier,closed outline vertex,310,-27.482940243937247,-89.89264706052535,,,4
+M09_Moving_Carrier,closed outline vertex,311,-29.04759747124505,-89.39931253174444,,,4
+M09_Moving_Carrier,closed outline vertex,312,-30.603406518972726,-88.87874610633578,,,4
+M09_Moving_Carrier,closed outline vertex,313,-32.14989347261286,-88.3311063538754,,,4
+M09_Moving_Carrier,closed outline vertex,314,-33.686587257258225,-87.75656009073697,,,4
+M09_Moving_Carrier,closed outline vertex,315,-35.21301978109573,-87.15528232927802,,,4
+M09_Moving_Carrier,closed outline vertex,316,-36.72872607799174,-86.52745622452939,,,4
+M09_Moving_Carrier,closed outline vertex,317,-38.23324444912522,-85.87327301840448,,,4
+M09_Moving_Carrier,closed outline vertex,318,-39.726116603625734,-85.1929319814451,,,4
+M09_Moving_Carrier,closed outline vertex,319,-41.206887798173284,-84.4866403521217,,,4
+M09_Moving_Carrier,closed outline vertex,320,-42.675106975517394,-83.75461327370658,,,4
+M09_Moving_Carrier,closed outline vertex,321,-44.130326901873744,-82.99707372873912,,,4
+M09_Moving_Carrier,closed outline vertex,322,-45.572104303155676,-82.21425247110321,,,4
+M09_Moving_Carrier,closed outline vertex,323,-46.999999999999986,-81.40638795573724,,,4
+M09_Moving_Carrier,closed outline vertex,324,-48.4135790415451,-80.57372626599856,,,4
+M09_Moving_Carrier,closed outline vertex,325,-49.81241083792125,-79.71652103870404,,,4
+M09_Moving_Carrier,closed outline vertex,326,-51.196069291412556,-78.83503338686987,,,4
+M09_Moving_Carrier,closed outline vertex,327,-52.56413292625019,-77.92953182017392,,,4
+M09_Moving_Carrier,closed outline vertex,328,-53.91618501699834,-77.00029216316521,,,4
+M09_Moving_Carrier,closed outline vertex,329,-55.25181371549247,-76.04759747124506,,,4
+M09_Moving_Carrier,closed outline vertex,330,-56.57061217629255,-75.07173794444552,,,4
+M09_Moving_Carrier,closed outline vertex,331,-57.87217868061188,-74.07301083903187,,,4
+M09_Moving_Carrier,closed outline vertex,332,-59.1561167586847,-73.05172037695527,,,4
+M09_Moving_Carrier,closed outline vertex,333,-60.4220353105347,-72.00817765318394,,,4
+M09_Moving_Carrier,closed outline vertex,334,-61.669548725107674,-70.94270054094058,,,4
+M09_Moving_Carrier,closed outline vertex,335,-62.89827699773267,-69.85561359487505,,,4
+M09_Moving_Carrier,closed outline vertex,336,-64.10784584587485,-68.74724795220203,,,4
+M09_Moving_Carrier,closed outline vertex,337,-65.29788682314575,-67.6179412318332,,,4
+M09_Moving_Carrier,closed outline vertex,338,-66.46803743153546,-66.46803743153548,,,4
+M09_Moving_Carrier,closed outline vertex,339,-67.61794123183323,-65.29788682314573,,,4
+M09_Moving_Carrier,closed outline vertex,340,-68.74724795220202,-64.10784584587486,,,4
+M09_Moving_Carrier,closed outline vertex,341,-69.85561359487504,-62.898276997732694,,,4
+M09_Moving_Carrier,closed outline vertex,342,-70.94270054094056,-61.66954872510768,,,4
+M09_Moving_Carrier,closed outline vertex,343,-72.00817765318392,-60.42203531053471,,,4
+M09_Moving_Carrier,closed outline vertex,344,-73.05172037695526,-59.15611675868472,,,4
+M09_Moving_Carrier,closed outline vertex,345,-74.07301083903185,-57.87217868061189,,,4
+M09_Moving_Carrier,closed outline vertex,346,-75.07173794444553,-56.57061217629253,,,4
+M09_Moving_Carrier,closed outline vertex,347,-76.04759747124506,-55.25181371549249,,,4
+M09_Moving_Carrier,closed outline vertex,348,-77.00029216316524,-53.91618501699832,,,4
+M09_Moving_Carrier,closed outline vertex,349,-77.9295318201739,-52.56413292625021,,,4
+M09_Moving_Carrier,closed outline vertex,350,-78.83503338686985,-51.19606929141257,,,4
+M09_Moving_Carrier,closed outline vertex,351,-79.71652103870404,-49.81241083792127,,,4
+M09_Moving_Carrier,closed outline vertex,352,-80.57372626599854,-48.41357904154511,,,4
+M09_Moving_Carrier,closed outline vertex,353,-81.40638795573724,-46.99999999999999,,,4
+M09_Moving_Carrier,closed outline vertex,354,-82.2142524711032,-45.5721043031557,,,4
+M09_Moving_Carrier,closed outline vertex,355,-82.99707372873914,-44.13032690187372,,,4
+M09_Moving_Carrier,closed outline vertex,356,-83.75461327370657,-42.6751069755174,,,4
+M09_Moving_Carrier,closed outline vertex,357,-84.03821610811461,-42.10628768931209,,,4
+M09_Moving_Carrier,closed outline vertex,358,-84.4866403521217,-41.20688779817326,,,4
+M09_Moving_Carrier,closed outline vertex,359,-85.1929319814451,-39.726116603625755,,,4
+M09_Moving_Carrier,closed outline vertex,360,-85.87327301840448,-38.23324444912524,,,4
+M09_Moving_Carrier,closed outline vertex,361,-86.5274562245294,-36.72872607799174,,,4
+M09_Moving_Carrier,closed outline vertex,362,-87.15528232927801,-35.21301978109575,,,4
+M09_Moving_Carrier,closed outline vertex,363,-87.75656009073697,-33.68658725725822,,,4
+M09_Moving_Carrier,closed outline vertex,364,-88.33110635387538,-32.149893472612874,,,4
+M09_Moving_Carrier,closed outline vertex,365,-88.87874610633578,-30.60340651897272,,,4
+M09_Moving_Carrier,closed outline vertex,366,-89.39931253174443,-29.047597471245066,,,4
+M09_Moving_Carrier,closed outline vertex,367,-89.89264706052535,-27.48294024393724,,,4
+M09_Moving_Carrier,closed outline vertex,368,-90.35859941820198,-25.909911446797928,,,4
+M09_Moving_Carrier,closed outline vertex,369,-90.52352832232637,-25.31519703129776,,,4
+M09_Moving_Carrier,hole,1,0,0,24,24.0,4
+M09_Moving_Carrier,hole,2,24.748737341529164,24.74873734152916,3.4,3.4,4
+M09_Moving_Carrier,hole,3,45.96194077712559,45.961940777125584,3.4,3.4,4
+M09_Moving_Carrier,hole,4,-24.74873734152916,24.748737341529164,3.4,3.4,4
+M09_Moving_Carrier,hole,5,-45.961940777125584,45.96194077712559,3.4,3.4,4
+M09_Moving_Carrier,hole,6,-24.748737341529168,-24.74873734152916,3.4,3.4,4
+M09_Moving_Carrier,hole,7,-45.9619407771256,-45.961940777125584,3.4,3.4,4
+M09_Moving_Carrier,hole,8,24.748737341529157,-24.748737341529168,3.4,3.4,4
+M09_Moving_Carrier,hole,9,45.96194077712558,-45.9619407771256,3.4,3.4,4
+M09_Moving_Carrier,hole,10,12.500000000000004,21.650635094610966,3.4,3.4,4
+M09_Moving_Carrier,hole,11,-25.0,3.061616997868383e-15,3.4,3.4,4
+M09_Moving_Carrier,hole,12,12.499999999999984,-21.650635094610976,3.4,3.4,4
+M09_Moving_Carrier,REFERENCE inclined tap; do not cut,1,34.59684340086587,-34.020508108619154,2.5,DO NOT CUT,4
+M09_Moving_Carrier,REFERENCE inclined tap; do not cut,2,51.237848473084995,-54.57272859066446,2.5,DO NOT CUT,4
+M09_Moving_Carrier,REFERENCE inclined tap; do not cut,3,21.661611674826297,43.40903469144983,2.5,DO NOT CUT,4
+M09_Moving_Carrier,REFERENCE inclined tap; do not cut,4,30.721809703576216,68.25539748605263,2.5,DO NOT CUT,4
+M09_Moving_Carrier,REFERENCE inclined tap; do not cut,5,12.189000925691843,46.96147466310815,2.5,DO NOT CUT,4
+M09_Moving_Carrier,REFERENCE inclined tap; do not cut,6,21.671131940931485,71.64679836432668,2.5,DO NOT CUT,4
+M09_Moving_Carrier,REFERENCE inclined tap; do not cut,7,-48.42166653069724,-2.9726600062705426,2.5,DO NOT CUT,4
+M09_Moving_Carrier,REFERENCE inclined tap; do not cut,8,-74.46689962085664,-7.554000128538386,2.5,DO NOT CUT,4
+M09_Moving_Carrier,REFERENCE inclined tap; do not cut,9,-46.75213993786463,-12.941915323910498,2.5,DO NOT CUT,4
+M09_Moving_Carrier,REFERENCE inclined tap; do not cut,10,-72.87371110599018,-17.077250463150676,2.5,DO NOT CUT,4
+M09_Moving_Carrier,REFERENCE inclined tap; do not cut,11,26.779471037699373,-40.464048499108316,2.5,DO NOT CUT,4
+M09_Moving_Carrier,REFERENCE inclined tap; do not cut,12,43.76730004360069,-60.72909950154474,2.5,DO NOT CUT,4
+M10_Tray,closed outline vertex,1,10.606601717798217,-243.9518395093589,,,1.0
+M10_Tray,closed outline vertex,2,243.9518395093589,-10.606601717798217,,,1.0
+M10_Tray,closed outline vertex,3,243.9518395093589,10.60660171779821,,,1.0
+M10_Tray,closed outline vertex,4,10.60660171779821,243.9518395093589,,,1.0
+M10_Tray,closed outline vertex,5,-10.606601717798217,243.9518395093589,,,1.0
+M10_Tray,closed outline vertex,6,-243.9518395093589,10.606601717798217,,,1.0
+M10_Tray,closed outline vertex,7,-243.9518395093589,-10.60660171779821,,,1.0
+M10_Tray,closed outline vertex,8,-10.60660171779821,-243.9518395093589,,,1.0
+M10_Tray,hole,1,24.748737341529164,24.74873734152916,3.4,3.4,1.0
+M10_Tray,hole,2,45.96194077712559,45.961940777125584,3.4,3.4,1.0
+M10_Tray,hole,3,88.38834764831844,88.38834764831843,3.4,3.4,1.0
+M10_Tray,hole,4,109.60155108391487,109.60155108391486,3.4,3.4,1.0
+M10_Tray,hole,5,-24.74873734152916,24.748737341529164,3.4,3.4,1.0
+M10_Tray,hole,6,-45.961940777125584,45.96194077712559,3.4,3.4,1.0
+M10_Tray,hole,7,-88.38834764831843,88.38834764831844,3.4,3.4,1.0
+M10_Tray,hole,8,-109.60155108391486,109.60155108391487,3.4,3.4,1.0
+M10_Tray,hole,9,-24.748737341529168,-24.74873734152916,3.4,3.4,1.0
+M10_Tray,hole,10,-45.9619407771256,-45.961940777125584,3.4,3.4,1.0
+M10_Tray,hole,11,-88.38834764831846,-88.38834764831843,3.4,3.4,1.0
+M10_Tray,hole,12,-109.60155108391488,-109.60155108391486,3.4,3.4,1.0
+M10_Tray,hole,13,24.748737341529157,-24.748737341529168,3.4,3.4,1.0
+M10_Tray,hole,14,45.96194077712558,-45.9619407771256,3.4,3.4,1.0
+M10_Tray,hole,15,88.38834764831842,-88.38834764831846,3.4,3.4,1.0
+M10_Tray,hole,16,109.60155108391484,-109.60155108391488,3.4,3.4,1.0
+M10_Tray,hole,17,206.47518010647187,36.769552621700456,3.4,3.4,1.0
+M10_Tray,hole,18,121.62236636408618,121.62236636408616,3.4,3.4,1.0
+M10_Tray,hole,19,36.769552621700484,206.47518010647187,3.4,3.4,1.0
+M10_Tray,hole,20,-36.769552621700456,206.47518010647187,3.4,3.4,1.0
+M10_Tray,hole,21,-121.62236636408616,121.62236636408618,3.4,3.4,1.0
+M10_Tray,hole,22,-206.47518010647187,36.769552621700484,3.4,3.4,1.0
+M10_Tray,hole,23,-206.4751801064719,-36.76955262170044,3.4,3.4,1.0
+M10_Tray,hole,24,-121.6223663640862,-121.62236636408616,3.4,3.4,1.0
+M10_Tray,hole,25,-36.76955262170051,-206.4751801064719,3.4,3.4,1.0
+M10_Tray,hole,26,36.76955262170043,-206.4751801064719,3.4,3.4,1.0
+M10_Tray,hole,27,121.62236636408615,-121.6223663640862,3.4,3.4,1.0
+M10_Tray,hole,28,206.47518010647187,-36.76955262170053,3.4,3.4,1.0
+M11_FLAT_BLANK,closed outline vertex,1,0.0,0.0,,,1.5
+M11_FLAT_BLANK,closed outline vertex,2,160.0,0.0,,,1.5
+M11_FLAT_BLANK,closed outline vertex,3,160.0,38.0,,,1.5
+M11_FLAT_BLANK,closed outline vertex,4,0.0,38.0,,,1.5
+M11_FLAT_BLANK,hole,1,35,19,3.4,3.4,1.5
+M11_FLAT_BLANK,hole,2,65,19,3.4,3.4,1.5
+M11_FLAT_BLANK,hole,3,125,19,3.4,3.4,1.5
+M11_FLAT_BLANK,hole,4,155,19,3.4,3.4,1.5
+M17_Front_Output_Cheek,closed outline vertex,1,-64.0,-114.0,,,8
+M17_Front_Output_Cheek,closed outline vertex,2,-24.0,-114.0,,,8
+M17_Front_Output_Cheek,closed outline vertex,3,-24.0,-42.0,,,8
+M17_Front_Output_Cheek,closed outline vertex,4,18.0,-42.0,,,8
+M17_Front_Output_Cheek,closed outline vertex,5,18.0,42.0,,,8
+M17_Front_Output_Cheek,closed outline vertex,6,-64.0,42.0,,,8
+M17_Front_Output_Cheek,hole,1,0,0,22,21.5,8
+M17_Front_Output_Cheek,hole,2,-54,-104,5.5,5.5,8
+M17_Front_Output_Cheek,hole,3,-30,-104,5.5,5.5,8
+M15_Belt_Tensioner,closed outline vertex,1,13,-81,,,4
+M15_Belt_Tensioner,closed outline vertex,2,63,-81,,,4
+M15_Belt_Tensioner,closed outline vertex,3,63,-30,,,4
+M15_Belt_Tensioner,closed outline vertex,4,30,-30,,,4
+M15_Belt_Tensioner,closed outline vertex,5,13,-54,,,4
+M15_Belt_Tensioner,hole,1,40,-74,5.5,5.5,4
+M15_Belt_Tensioner,hole,2,50.3,-44,8.5,8.5,4
+M05_Bearing_Cheek_D1_FINISHED,closed outline vertex,1,-18.0,-114.0,,,8
+M05_Bearing_Cheek_D1_FINISHED,closed outline vertex,2,-18.0,42.0,,,8
+M05_Bearing_Cheek_D1_FINISHED,closed outline vertex,3,18.0,42.0,,,8
+M05_Bearing_Cheek_D1_FINISHED,closed outline vertex,4,18.0,18.0,,,8
+M05_Bearing_Cheek_D1_FINISHED,closed outline vertex,5,58.0,-80.0,,,8
+M05_Bearing_Cheek_D1_FINISHED,closed outline vertex,6,58.0,-114.0,,,8
+M05_Bearing_Cheek_D1_FINISHED,closed outline vertex,7,22.0,-114.0,,,8
+M05_Bearing_Cheek_D1_FINISHED,closed outline vertex,8,22.0,-82.0,,,8
+M05_Bearing_Cheek_D1_FINISHED,closed outline vertex,9,18.0,-64.0,,,8
+M05_Bearing_Cheek_D1_FINISHED,closed outline vertex,10,18.0,-114.0,,,8
+M05_Bearing_Cheek_D1_FINISHED,hole,1,0,0,22,21.5,8
+M05_Bearing_Cheek_D1_FINISHED,hole,2,40,-96,22,21.5,8
+M05_Bearing_Cheek_D1_FINISHED,hole,3,-8,-104,5.5,5.5,8
+M05_Bearing_Cheek_D1_FINISHED,hole,4,16,-104,5.5,5.5,8
+M05_Bearing_Cheek_D1_FINISHED,hole,5,40,-74,5.5,5.5,8
+M05_Bearing_Cheek_D1_FINISHED,hole,6,-14,36,2.5,2.5,8
+M05_Bearing_Cheek_D1_FINISHED,hole,7,14,36,2.5,2.5,8
+M05_Bearing_Cheek_D1_FINISHED,hole,8,9.043748409387582,-29.516277114631166,6.2,6.2,8
+M05_Bearing_Cheek_D1_FINISHED,hole,9,-3.466117464493495,30.675495590492638,6.2,6.2,8
+M17_Front_Output_Cheek_D1_FINISHED,closed outline vertex,1,18.0,-42.0,,,8
+M17_Front_Output_Cheek_D1_FINISHED,closed outline vertex,2,-24.0,-42.0,,,8
+M17_Front_Output_Cheek_D1_FINISHED,closed outline vertex,3,-24.0,-114.0,,,8
+M17_Front_Output_Cheek_D1_FINISHED,closed outline vertex,4,-64.0,-114.0,,,8
+M17_Front_Output_Cheek_D1_FINISHED,closed outline vertex,5,-64.0,42.0,,,8
+M17_Front_Output_Cheek_D1_FINISHED,closed outline vertex,6,12.700267955682147,42.0,,,8
+M17_Front_Output_Cheek_D1_FINISHED,closed outline vertex,7,18.0,30.400550622956786,,,8
+M17_Front_Output_Cheek_D1_FINISHED,hole,1,0,0,22,21.5,8
+M17_Front_Output_Cheek_D1_FINISHED,hole,2,-54,-104,5.5,5.5,8
+M17_Front_Output_Cheek_D1_FINISHED,hole,3,-30,-104,5.5,5.5,8
+M17_Front_Output_Cheek_D1_FINISHED,hole,4,9.043748409387582,-29.516277114631166,6.2,6.2,8
+M17_Front_Output_Cheek_D1_FINISHED,hole,5,-3.466117464493495,30.675495590492638,6.2,6.2,8
+M05_Bearing_Cheek_D2_FINISHED,closed outline vertex,1,-18.0,-114.0,,,8
+M05_Bearing_Cheek_D2_FINISHED,closed outline vertex,2,-18.0,42.0,,,8
+M05_Bearing_Cheek_D2_FINISHED,closed outline vertex,3,18.0,42.0,,,8
+M05_Bearing_Cheek_D2_FINISHED,closed outline vertex,4,18.0,18.0,,,8
+M05_Bearing_Cheek_D2_FINISHED,closed outline vertex,5,58.0,-80.0,,,8
+M05_Bearing_Cheek_D2_FINISHED,closed outline vertex,6,58.0,-114.0,,,8
+M05_Bearing_Cheek_D2_FINISHED,closed outline vertex,7,22.0,-114.0,,,8
+M05_Bearing_Cheek_D2_FINISHED,closed outline vertex,8,22.0,-82.0,,,8
+M05_Bearing_Cheek_D2_FINISHED,closed outline vertex,9,18.0,-64.0,,,8
+M05_Bearing_Cheek_D2_FINISHED,closed outline vertex,10,18.0,-114.0,,,8
+M05_Bearing_Cheek_D2_FINISHED,hole,1,0,0,22,21.5,8
+M05_Bearing_Cheek_D2_FINISHED,hole,2,40,-96,22,21.5,8
+M05_Bearing_Cheek_D2_FINISHED,hole,3,-8,-104,5.5,5.5,8
+M05_Bearing_Cheek_D2_FINISHED,hole,4,16,-104,5.5,5.5,8
+M05_Bearing_Cheek_D2_FINISHED,hole,5,40,-74,5.5,5.5,8
+M05_Bearing_Cheek_D2_FINISHED,hole,6,-14,36,2.5,2.5,8
+M05_Bearing_Cheek_D2_FINISHED,hole,7,14,36,2.5,2.5,8
+M05_Bearing_Cheek_D2_FINISHED,hole,8,-9.043748409387566,-29.516277114631173,6.2,6.2,8
+M05_Bearing_Cheek_D2_FINISHED,hole,9,6.950786111920624,30.078008119327507,6.2,6.2,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,1,18.0,42.0,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,2,18.0,-42.0,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,3,-24.0,-42.0,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,4,-24.0,-114.0,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,5,-64.0,-114.0,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,6,-64.0,42.0,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,7,-58.09285929136495,42.0,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,8,-57.971362584310086,41.42891217804018,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,9,-57.65526706744457,40.304875203107635,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,10,-57.56291000280061,39.850342209955784,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,11,-57.433573888418664,39.474416585014744,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,12,-57.34784427894722,39.05505256693641,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,13,-57.20412951607617,38.638940813981264,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,14,-57.12528278296323,38.25564457616461,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,15,-56.96670177210719,37.798309510817695,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,16,-56.89501083244195,37.452027357379876,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,17,-56.72104622551583,36.952377075925845,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,18,-56.65680285333511,36.64410619673366,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,19,-56.46690528717836,36.10099011954412,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,20,-56.15561735626343,35.01495248947137,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,21,-55.04668330627724,31.700340707435135,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,22,-54.16604235945302,29.275297164173608,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,23,-53.50834468738029,27.567335270347282,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,24,-53.41654805329098,27.392307064076924,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,25,-53.162507216256635,26.70492502866665,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,26,-53.04377956903504,26.479577597231177,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,27,-52.80475756596286,25.836673509089454,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,28,-52.657826077078234,25.55910228776803,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,29,-52.43461868242227,24.962402142465947,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,30,-52.25810919433568,24.6305659711875,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,31,-52.05158024668547,24.08192146438484,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,32,-51.84400649216579,23.693628650750824,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,33,-51.65509534080909,23.19503007345556,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,34,-51.414846665568355,22.747922563472347,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,35,-51.24457666769778,22.301513453027116,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,36,-50.96990399629602,21.793048784904926,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,37,-50.81939224940114,21.401142633469053,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,38,-50.508391979433284,20.828573281804456,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,39,-50.37886051272845,20.493672667438215,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,40,-50.029455953551945,19.854022300034437,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,41,-49.9222446515501,19.578840884696007,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,42,-49.53685852433975,18.880835086045632,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,43,-49.44874613068176,18.656364885685562,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,44,-47.53257797227414,15.156149602675187,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,45,-47.413645210374526,14.997755131696117,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,46,-46.980029195908216,14.200924492247967,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,47,-46.82844544056996,14.000276903012402,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,48,-46.40529315670997,13.236301297358574,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,49,-46.21870929241443,12.990886672863198,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,50,-45.806985243494594,12.261817722948336,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,51,-45.58277267374568,11.968844488757384,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,52,-45.18356844178883,11.276964532076587,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,53,-44.90150503882698,10.910909357625297,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,54,-44.53332856126803,10.28117810553558,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,55,-44.179019044876014,9.824618463771065,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,56,-43.8543439966471,9.273831377459995,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,57,-43.42138252428047,8.720030120458194,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,58,-43.144448466001805,8.254222687507266,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,59,-42.63963992197121,7.619102530634402,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,60,-42.401184617260114,7.221561927498512,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,61,-41.84120732627148,6.537459126571201,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,62,-41.621745599903804,6.17495312721136,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,63,-41.001125999576466,5.437653346869149,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,64,-40.80290053885702,5.113372283481786,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,65,-40.30966283262506,4.502891697192028,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,66,-40.115238575242195,4.31797983961736,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,67,-39.94089811663477,4.035638729097063,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,68,-39.44491543405661,3.4273861831359067,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,69,-38.873783063351645,2.8890760529891963,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,70,-38.23727323773043,2.4299189742315024,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,71,-37.546276816783205,2.057771251782766,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,72,-36.81261694085279,1.7790004363529217,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,73,-36.0488467338253,1.5983763738838483,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,74,-35.26803451570008,1.5189895921628427,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,75,-34.48354020001129,1.5421984210353248,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,76,-33.708786702003295,1.6676057510045839,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,77,-32.95703026882924,1.8930658278853656,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,78,-32.24113366148702,2.2147209672528954,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,79,-31.573346069412285,2.6270675604929448,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,80,-30.96509352345113,3.1230502430711002,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,81,-30.42678339330442,3.6941826137760723,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,82,-29.967626314546727,4.330692439397289,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,83,-29.595478592097987,5.02168886034451,,,8
+M17_Front_Output_Cheek_D2_FINISHED,closed outline vertex,84,-12.700267955682122,42.0,,,8
+M17_Front_Output_Cheek_D2_FINISHED,hole,1,0,0,22,21.5,8
+M17_Front_Output_Cheek_D2_FINISHED,hole,2,-54,-104,5.5,5.5,8
+M17_Front_Output_Cheek_D2_FINISHED,hole,3,-30,-104,5.5,5.5,8
+M17_Front_Output_Cheek_D2_FINISHED,hole,4,-9.043748409387566,-29.516277114631173,6.2,6.2,8
+M17_Front_Output_Cheek_D2_FINISHED,hole,5,6.950786111920624,30.078008119327507,6.2,6.2,8
+M05_Bearing_Cheek_D3_FINISHED,closed outline vertex,1,-18.0,-114.0,,,8
+M05_Bearing_Cheek_D3_FINISHED,closed outline vertex,2,-18.0,42.0,,,8
+M05_Bearing_Cheek_D3_FINISHED,closed outline vertex,3,18.0,42.0,,,8
+M05_Bearing_Cheek_D3_FINISHED,closed outline vertex,4,18.0,18.0,,,8
+M05_Bearing_Cheek_D3_FINISHED,closed outline vertex,5,58.0,-80.0,,,8
+M05_Bearing_Cheek_D3_FINISHED,closed outline vertex,6,58.0,-114.0,,,8
+M05_Bearing_Cheek_D3_FINISHED,closed outline vertex,7,22.0,-114.0,,,8
+M05_Bearing_Cheek_D3_FINISHED,closed outline vertex,8,22.0,-82.0,,,8
+M05_Bearing_Cheek_D3_FINISHED,closed outline vertex,9,18.0,-64.0,,,8
+M05_Bearing_Cheek_D3_FINISHED,closed outline vertex,10,18.0,-114.0,,,8
+M05_Bearing_Cheek_D3_FINISHED,hole,1,0,0,22,21.5,8
+M05_Bearing_Cheek_D3_FINISHED,hole,2,40,-96,22,21.5,8
+M05_Bearing_Cheek_D3_FINISHED,hole,3,-8,-104,5.5,5.5,8
+M05_Bearing_Cheek_D3_FINISHED,hole,4,16,-104,5.5,5.5,8
+M05_Bearing_Cheek_D3_FINISHED,hole,5,40,-74,5.5,5.5,8
+M05_Bearing_Cheek_D3_FINISHED,hole,6,-14,36,2.5,2.5,8
+M05_Bearing_Cheek_D3_FINISHED,hole,7,14,36,2.5,2.5,8
+M05_Bearing_Cheek_D3_FINISHED,hole,8,9.043748409387582,-29.516277114631166,6.2,6.2,8
+M05_Bearing_Cheek_D3_FINISHED,hole,9,-0.4140117222040054,30.867921768299816,6.2,6.2,8
+M17_Front_Output_Cheek_D3_FINISHED,closed outline vertex,1,18.0,-42.0,,,8
+M17_Front_Output_Cheek_D3_FINISHED,closed outline vertex,2,-24.0,-42.0,,,8
+M17_Front_Output_Cheek_D3_FINISHED,closed outline vertex,3,-24.0,-114.0,,,8
+M17_Front_Output_Cheek_D3_FINISHED,closed outline vertex,4,-64.0,-114.0,,,8
+M17_Front_Output_Cheek_D3_FINISHED,closed outline vertex,5,-64.0,42.0,,,8
+M17_Front_Output_Cheek_D3_FINISHED,closed outline vertex,6,12.700267955682131,42.0,,,8
+M17_Front_Output_Cheek_D3_FINISHED,closed outline vertex,7,18.0,30.400550622956747,,,8
+M17_Front_Output_Cheek_D3_FINISHED,hole,1,0,0,22,21.5,8
+M17_Front_Output_Cheek_D3_FINISHED,hole,2,-54,-104,5.5,5.5,8
+M17_Front_Output_Cheek_D3_FINISHED,hole,3,-30,-104,5.5,5.5,8
+M17_Front_Output_Cheek_D3_FINISHED,hole,4,9.043748409387582,-29.516277114631166,6.2,6.2,8
+M17_Front_Output_Cheek_D3_FINISHED,hole,5,-0.4140117222040054,30.867921768299816,6.2,6.2,8
+M05_Bearing_Cheek_D4_FINISHED,closed outline vertex,1,-18.0,-114.0,,,8
+M05_Bearing_Cheek_D4_FINISHED,closed outline vertex,2,-18.0,42.0,,,8
+M05_Bearing_Cheek_D4_FINISHED,closed outline vertex,3,18.0,42.0,,,8
+M05_Bearing_Cheek_D4_FINISHED,closed outline vertex,4,18.0,18.0,,,8
+M05_Bearing_Cheek_D4_FINISHED,closed outline vertex,5,58.0,-80.0,,,8
+M05_Bearing_Cheek_D4_FINISHED,closed outline vertex,6,58.0,-114.0,,,8
+M05_Bearing_Cheek_D4_FINISHED,closed outline vertex,7,22.0,-114.0,,,8
+M05_Bearing_Cheek_D4_FINISHED,closed outline vertex,8,22.0,-82.0,,,8
+M05_Bearing_Cheek_D4_FINISHED,closed outline vertex,9,18.0,-64.0,,,8
+M05_Bearing_Cheek_D4_FINISHED,closed outline vertex,10,18.0,-114.0,,,8
+M05_Bearing_Cheek_D4_FINISHED,hole,1,0,0,22,21.5,8
+M05_Bearing_Cheek_D4_FINISHED,hole,2,40,-96,22,21.5,8
+M05_Bearing_Cheek_D4_FINISHED,hole,3,-8,-104,5.5,5.5,8
+M05_Bearing_Cheek_D4_FINISHED,hole,4,16,-104,5.5,5.5,8
+M05_Bearing_Cheek_D4_FINISHED,hole,5,40,-74,5.5,5.5,8
+M05_Bearing_Cheek_D4_FINISHED,hole,6,-14,36,2.5,2.5,8
+M05_Bearing_Cheek_D4_FINISHED,hole,7,14,36,2.5,2.5,8
+M05_Bearing_Cheek_D4_FINISHED,hole,8,-9.043748409387582,-29.516277114631166,6.2,6.2,8
+M05_Bearing_Cheek_D4_FINISHED,hole,9,3.3822501473696,30.684855938078286,6.2,6.2,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,1,18.0,42.0,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,2,18.0,-42.0,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,3,-24.0,-42.0,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,4,-24.0,-114.0,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,5,-64.0,-114.0,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,6,-64.0,42.0,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,7,-58.0928592913649,42.0,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,8,-57.97136258431002,41.428912178040264,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,9,-57.65526706744446,40.30487520310732,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,10,-57.56291000280057,39.850342209955784,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,11,-57.43357388841851,39.47441658501442,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,12,-57.34784427894715,39.055052566936496,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,13,-57.204129516076044,38.638940813981186,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,14,-57.12528278296315,38.25564457616474,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,15,-56.9667017721071,37.7983095108178,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,16,-56.89501083244186,37.45202735738002,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,17,-56.72104622551599,36.95237707592669,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,18,-56.656802853335094,36.64410619673366,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,19,-56.46690528717822,36.100990119543766,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,20,-56.155617356263434,35.01495248947137,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,21,-55.04668330627722,31.700340707435192,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,22,-54.16604235945302,29.2752971641736,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,23,-53.5083446873803,27.567335270347275,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,24,-53.41654805329114,27.392307064077187,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,25,-53.16250721625668,26.704925028666608,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,26,-53.04377956903471,26.479577597230445,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,27,-52.80475756596284,25.836673509089504,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,28,-52.65782607707816,25.559102287767985,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,29,-52.43461868242223,24.962402142465976,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,30,-52.258109194335276,24.630565971186837,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,31,-52.051580246685376,24.081921464385005,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,32,-51.84400649216633,23.693628650752164,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,33,-51.65509534080911,23.19503007345553,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,34,-51.41484666556832,22.747922563472226,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,35,-51.24457666769779,22.301513453027116,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,36,-50.96990399629589,21.79304878490466,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,37,-50.819392249401126,21.40114263346909,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,38,-50.508391979433256,20.828573281804463,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,39,-50.37886051272844,20.49367266743825,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,40,-50.029455953551924,19.854022300034472,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,41,-49.92224465155008,19.578840884696042,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,42,-49.53685852433973,18.880835086045668,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,43,-49.448746130681734,18.656364885685576,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,44,-47.53257797227409,15.1561496026753,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,45,-47.4136452103747,14.997755131696536,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,46,-46.98002919590822,14.200924492247946,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,47,-46.82844544056977,14.000276903012121,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,48,-46.405293156709945,13.23630129735868,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,49,-46.21870929241443,12.990886672863342,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,50,-45.80698524349458,12.261817722948422,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,51,-45.58277267374557,11.968844488757352,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,52,-45.18356844178879,11.276964532076711,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,53,-44.901505038827665,10.910909357626354,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,54,-44.53332856126806,10.281178105535517,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,55,-44.17901904487594,9.824618463770872,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,56,-43.854343996647124,9.273831377459958,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,57,-43.4213825242798,8.720030120457281,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,58,-43.14444846600176,8.2542226875074,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,59,-42.63963992197142,7.619102530634784,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,60,-42.40118461726012,7.221561927498555,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,61,-41.841207326271466,6.537459126571221,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,62,-41.62174559990379,6.174953127211381,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,63,-41.00112599957652,5.437653346869235,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,64,-40.80290053885703,5.1133722834818,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,65,-40.30966283262507,4.502891697192042,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,66,-40.11523857524197,4.317979839617143,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,67,-39.94089811663474,4.03563872909717,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,68,-39.44491543405659,3.427386183136016,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,69,-38.87378306335162,2.8890760529893047,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,70,-38.2372732377304,2.4299189742316107,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,71,-37.54627681678318,2.0577712517828726,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,72,-36.81261694085276,1.7790004363530283,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,73,-36.04884673382527,1.598376373883955,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,74,-35.26803451570005,1.5189895921629493,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,75,-34.48354020001126,1.5421984210354314,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,76,-33.708786702003266,1.6676057510046904,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,77,-32.95703026882922,1.8930658278854713,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,78,-32.241133661487,2.214720967253001,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,79,-31.573346069412256,2.6270675604930505,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,80,-30.965093523451102,3.123050243071206,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,81,-30.42678339330439,3.694182613776178,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,82,-29.9676263145467,4.330692439397394,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,83,-29.59547859209796,5.021688860344614,,,8
+M17_Front_Output_Cheek_D4_FINISHED,closed outline vertex,84,-12.700267955682133,42.0,,,8
+M17_Front_Output_Cheek_D4_FINISHED,hole,1,0,0,22,21.5,8
+M17_Front_Output_Cheek_D4_FINISHED,hole,2,-54,-104,5.5,5.5,8
+M17_Front_Output_Cheek_D4_FINISHED,hole,3,-30,-104,5.5,5.5,8
+M17_Front_Output_Cheek_D4_FINISHED,hole,4,-9.043748409387582,-29.516277114631166,6.2,6.2,8
+M17_Front_Output_Cheek_D4_FINISHED,hole,5,3.3822501473696,30.684855938078286,6.2,6.2,8
+M05_Bearing_Cheek_D5_FINISHED,closed outline vertex,1,-18.0,-114.0,,,8
+M05_Bearing_Cheek_D5_FINISHED,closed outline vertex,2,-18.0,42.0,,,8
+M05_Bearing_Cheek_D5_FINISHED,closed outline vertex,3,18.0,42.0,,,8
+M05_Bearing_Cheek_D5_FINISHED,closed outline vertex,4,18.0,18.0,,,8
+M05_Bearing_Cheek_D5_FINISHED,closed outline vertex,5,58.0,-80.0,,,8
+M05_Bearing_Cheek_D5_FINISHED,closed outline vertex,6,58.0,-114.0,,,8
+M05_Bearing_Cheek_D5_FINISHED,closed outline vertex,7,22.0,-114.0,,,8
+M05_Bearing_Cheek_D5_FINISHED,closed outline vertex,8,22.0,-82.0,,,8
+M05_Bearing_Cheek_D5_FINISHED,closed outline vertex,9,18.0,-64.0,,,8
+M05_Bearing_Cheek_D5_FINISHED,closed outline vertex,10,18.0,-114.0,,,8
+M05_Bearing_Cheek_D5_FINISHED,hole,1,0,0,22,21.5,8
+M05_Bearing_Cheek_D5_FINISHED,hole,2,40,-96,22,21.5,8
+M05_Bearing_Cheek_D5_FINISHED,hole,3,-8,-104,5.5,5.5,8
+M05_Bearing_Cheek_D5_FINISHED,hole,4,16,-104,5.5,5.5,8
+M05_Bearing_Cheek_D5_FINISHED,hole,5,40,-74,5.5,5.5,8
+M05_Bearing_Cheek_D5_FINISHED,hole,6,-14,36,2.5,2.5,8
+M05_Bearing_Cheek_D5_FINISHED,hole,7,14,36,2.5,2.5,8
+M05_Bearing_Cheek_D5_FINISHED,hole,8,9.043748409387586,-29.516277114631166,6.2,6.2,8
+M05_Bearing_Cheek_D5_FINISHED,hole,9,-6.64406639319765,30.147245011157846,6.2,6.2,8
+M17_Front_Output_Cheek_D5_FINISHED,closed outline vertex,1,18.0,-42.0,,,8
+M17_Front_Output_Cheek_D5_FINISHED,closed outline vertex,2,-24.0,-42.0,,,8
+M17_Front_Output_Cheek_D5_FINISHED,closed outline vertex,3,-24.0,-114.0,,,8
+M17_Front_Output_Cheek_D5_FINISHED,closed outline vertex,4,-64.0,-114.0,,,8
+M17_Front_Output_Cheek_D5_FINISHED,closed outline vertex,5,-64.0,42.0,,,8
+M17_Front_Output_Cheek_D5_FINISHED,closed outline vertex,6,12.700267955682136,42.0,,,8
+M17_Front_Output_Cheek_D5_FINISHED,closed outline vertex,7,18.0,30.40055062295676,,,8
+M17_Front_Output_Cheek_D5_FINISHED,hole,1,0,0,22,21.5,8
+M17_Front_Output_Cheek_D5_FINISHED,hole,2,-54,-104,5.5,5.5,8
+M17_Front_Output_Cheek_D5_FINISHED,hole,3,-30,-104,5.5,5.5,8
+M17_Front_Output_Cheek_D5_FINISHED,hole,4,9.043748409387586,-29.516277114631166,6.2,6.2,8
+M17_Front_Output_Cheek_D5_FINISHED,hole,5,-6.64406639319765,30.147245011157846,6.2,6.2,8
+M05_Bearing_Cheek_D6_FINISHED,closed outline vertex,1,-18.0,-114.0,,,8
+M05_Bearing_Cheek_D6_FINISHED,closed outline vertex,2,-18.0,42.0,,,8
+M05_Bearing_Cheek_D6_FINISHED,closed outline vertex,3,18.0,42.0,,,8
+M05_Bearing_Cheek_D6_FINISHED,closed outline vertex,4,18.0,18.0,,,8
+M05_Bearing_Cheek_D6_FINISHED,closed outline vertex,5,58.0,-80.0,,,8
+M05_Bearing_Cheek_D6_FINISHED,closed outline vertex,6,58.0,-114.0,,,8
+M05_Bearing_Cheek_D6_FINISHED,closed outline vertex,7,22.0,-114.0,,,8
+M05_Bearing_Cheek_D6_FINISHED,closed outline vertex,8,22.0,-82.0,,,8
+M05_Bearing_Cheek_D6_FINISHED,closed outline vertex,9,18.0,-64.0,,,8
+M05_Bearing_Cheek_D6_FINISHED,closed outline vertex,10,18.0,-114.0,,,8
+M05_Bearing_Cheek_D6_FINISHED,hole,1,0,0,22,21.5,8
+M05_Bearing_Cheek_D6_FINISHED,hole,2,40,-96,22,21.5,8
+M05_Bearing_Cheek_D6_FINISHED,hole,3,-8,-104,5.5,5.5,8
+M05_Bearing_Cheek_D6_FINISHED,hole,4,16,-104,5.5,5.5,8
+M05_Bearing_Cheek_D6_FINISHED,hole,5,40,-74,5.5,5.5,8
+M05_Bearing_Cheek_D6_FINISHED,hole,6,-14,36,2.5,2.5,8
+M05_Bearing_Cheek_D6_FINISHED,hole,7,14,36,2.5,2.5,8
+M05_Bearing_Cheek_D6_FINISHED,hole,8,-9.043748409387561,-29.516277114631173,6.2,6.2,8
+M05_Bearing_Cheek_D6_FINISHED,hole,9,-0.8793811137680745,30.8581705364519,6.2,6.2,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,1,18.0,42.0,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,2,18.0,-42.0,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,3,-24.0,-42.0,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,4,-24.0,-114.0,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,5,-64.0,-114.0,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,6,-64.0,42.0,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,7,-58.092859291364995,42.0,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,8,-57.9713625843101,41.42891217804015,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,9,-57.65526706744461,40.304875203107855,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,10,-57.56291000280061,39.85034220995578,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,11,-57.433573888418685,39.47441658501481,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,12,-57.34784427894722,39.05505256693637,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,13,-57.204129516076044,38.63894081398085,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,14,-57.125282782963204,38.255644576164684,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,15,-56.96670177210708,37.79830951081751,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,16,-56.89501083244189,37.45202735737997,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,17,-56.72104622551594,36.95237707592642,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,18,-56.6568028533351,36.64410619673366,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,19,-56.46690528717845,36.10099011954439,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,20,-56.155617356263434,35.014952489471355,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,21,-55.04668330627723,31.700340707435178,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,22,-54.16604235945303,29.275297164173548,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,23,-53.50834468738032,27.567335270347225,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,24,-53.41654805329092,27.39230706407668,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,25,-53.16250721625664,26.7049250286666,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,26,-53.04377956903503,26.479577597231106,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,27,-52.80475756596287,25.836673509089408,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,28,-52.657826077078106,25.559102287767715,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,29,-52.434618682422254,24.962402142465912,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,30,-52.25810919433574,24.630565971187604,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,31,-52.05158024668547,24.081921464384795,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,32,-51.84400649216588,23.693628650750956,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,33,-51.6550953408091,23.195030073455474,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,34,-51.4148466655682,22.74792256347196,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,35,-51.24457666769777,22.30151345302712,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,36,-50.96990399629611,21.79304878490511,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,37,-50.81939224940115,21.401142633469025,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,38,-50.508391979433284,20.828573281804427,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,39,-50.37886051272845,20.493672667438172,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,40,-50.029455953552166,19.85402230003481,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,41,-49.922244651550145,19.57884088469592,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,42,-49.53685852433965,18.88083508604536,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,43,-49.44874613068177,18.656364885685548,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,44,-47.532577972274154,15.156149602675143,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,45,-47.41364521037453,14.997755131696065,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,46,-46.98002919590822,14.200924492247896,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,47,-46.828445440569936,14.00027690301229,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,48,-46.405293156709995,13.236301297358567,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,49,-46.218709292414424,12.990886672863157,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,50,-45.8069852434946,12.26181772294833,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,51,-45.58277267374576,11.968844488757473,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,52,-45.18356844178885,11.276964532076537,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,53,-44.90150503882671,10.910909357624861,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,54,-44.53332856126801,10.281178105535574,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,55,-44.17901904487632,9.824618463771477,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,56,-43.85434399664711,9.273831377459901,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,57,-43.42138252428035,8.72003012045794,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,58,-43.144448466001805,8.254222687507216,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,59,-42.63963992197126,7.619102530634396,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,60,-42.40118461726013,7.221561927498455,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,61,-41.84120732627141,6.537459126571059,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,62,-41.6217455999038,6.174953127211322,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,63,-41.001125999576615,5.437653346869263,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,64,-40.80290053885703,5.1133722834816835,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,65,-40.30966283262507,4.502891697191924,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,66,-40.115238575241904,4.317979839616965,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,67,-39.94089811663474,4.035638729097089,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,68,-39.44491543405658,3.4273861831359334,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,69,-38.87378306335161,2.889076052989223,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,70,-38.2372732377304,2.429918974231531,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,71,-37.54627681678318,2.0577712517827935,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,72,-36.81261694085276,1.7790004363529501,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,73,-36.04884673382527,1.5983763738838768,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,74,-35.268034515700045,1.518989592162871,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,75,-34.48354020001126,1.5421984210353532,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,76,-33.70878670200326,1.6676057510046132,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,77,-32.957030268829214,1.893065827885394,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,78,-32.24113366148699,2.2147209672529247,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,79,-31.573346069412256,2.627067560492974,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,80,-30.965093523451102,3.1230502430711296,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,81,-30.42678339330439,3.6941826137761016,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,82,-29.9676263145467,4.330692439397319,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,83,-29.59547859209796,5.02168886034454,,,8
+M17_Front_Output_Cheek_D6_FINISHED,closed outline vertex,84,-12.700267955682119,42.0,,,8
+M17_Front_Output_Cheek_D6_FINISHED,hole,1,0,0,22,21.5,8
+M17_Front_Output_Cheek_D6_FINISHED,hole,2,-54,-104,5.5,5.5,8
+M17_Front_Output_Cheek_D6_FINISHED,hole,3,-30,-104,5.5,5.5,8
+M17_Front_Output_Cheek_D6_FINISHED,hole,4,-9.043748409387561,-29.516277114631173,6.2,6.2,8
+M17_Front_Output_Cheek_D6_FINISHED,hole,5,-0.8793811137680745,30.8581705364519,6.2,6.2,8
+M23_Frame_Outrigger,closed outline vertex,1,0.0,0.0,,,6
+M23_Frame_Outrigger,closed outline vertex,2,70.0,0.0,,,6
+M23_Frame_Outrigger,closed outline vertex,3,70.0,70.0,,,6
+M23_Frame_Outrigger,closed outline vertex,4,0.0,70.0,,,6
+M23_Frame_Outrigger,hole,1,15,15,6.6,6.6,6
+M23_Frame_Outrigger,hole,2,15,35,6.6,6.6,6
+M23_Frame_Outrigger,hole,3,35,15,6.6,6.6,6
+M23_Frame_Outrigger,hole,4,35,35,6.6,6.6,6
+M23_Frame_Outrigger,hole,5,60,60,5.5,5.5,6
+M23_Frame_Outrigger,hole,6,45,60,5.5,5.5,6
+M23_Frame_Outrigger,hole,7,60,45,5.5,5.5,6
+M24_Backstop_Panel,closed outline vertex,1,-180.0,0.0,,,2
+M24_Backstop_Panel,closed outline vertex,2,180.0,0.0,,,2
+M24_Backstop_Panel,closed outline vertex,3,180.0,300.0,,,2
+M24_Backstop_Panel,closed outline vertex,4,-180.0,300.0,,,2
+M24_Backstop_Panel,hole,1,-155,30,5.5,5.5,2
+M24_Backstop_Panel,hole,2,-155,140,5.5,5.5,2
+M24_Backstop_Panel,hole,3,-155,250,5.5,5.5,2
+M24_Backstop_Panel,hole,4,155,30,5.5,5.5,2
+M24_Backstop_Panel,hole,5,155,140,5.5,5.5,2
+M24_Backstop_Panel,hole,6,155,250,5.5,5.5,2
+M25_Short_Backstop_Bridge,closed outline vertex,1,-12.0,-15.0,,,3
+M25_Short_Backstop_Bridge,closed outline vertex,2,44.78113318588231,-15.0,,,3
+M25_Short_Backstop_Bridge,closed outline vertex,3,44.78113318588231,15.0,,,3
+M25_Short_Backstop_Bridge,closed outline vertex,4,-12.0,15.0,,,3
+M25_Short_Backstop_Bridge,hole,1,0,0,5.5,5.5,3
+M25_Short_Backstop_Bridge,hole,2,34.78113318588231,0,5.5,5.5,3
+M26_Anti_Rack_Bridge,closed outline vertex,1,-12.0,-15.0,,,3
+M26_Anti_Rack_Bridge,closed outline vertex,2,263.98423535371205,-15.0,,,3
+M26_Anti_Rack_Bridge,closed outline vertex,3,263.98423535371205,15.0,,,3
+M26_Anti_Rack_Bridge,closed outline vertex,4,-12.0,15.0,,,3
+M26_Anti_Rack_Bridge,hole,1,0,0,5.5,5.5,3
+M26_Anti_Rack_Bridge,hole,2,253.98423535371205,0,5.5,5.5,3
+M28_Radial_Deck_Rib,closed outline vertex,1,0.0,0.0,,,3
+M28_Radial_Deck_Rib,closed outline vertex,2,140.0,0.0,,,3
+M28_Radial_Deck_Rib,closed outline vertex,3,140.0,20.0,,,3
+M28_Radial_Deck_Rib,closed outline vertex,4,0.0,20.0,,,3

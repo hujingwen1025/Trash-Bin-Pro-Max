@@ -1,0 +1,26 @@
+{
+  "revision": "R04",
+  "units": "mm",
+  "sheet_wall": 6.0,
+  "sheet_floor": 9.0,
+  "wood_joint_gap": 0.2,
+  "printed_joint_gap": 0.3,
+  "kerf_wall": null,
+  "kerf_floor": null,
+  "joint_centers_z": [
+    45,
+    117,
+    189,
+    261,
+    333,
+    405
+  ],
+  "vertical_finger_height": 36.0,
+  "floor_finger_width": 30.0,
+  "curve_split_station": 102.5,
+  "magnet_insert_diameter": 29.2,
+  "magnet_insert_radial_gap": 0.2,
+  "working_load_kg": 10.0,
+  "proof_load_kg": 15.0,
+  "status": "NOMINAL STOCK - CALIBRATE BEFORE FULL CUT"
+}

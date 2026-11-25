@@ -1,0 +1,390 @@
+{
+  "all_passed": true,
+  "tests": [
+    {
+      "part": "M01_Post_Endcap",
+      "pass": true,
+      "step_volume_mm3": 97210.00826697989,
+      "mesh_watertight": true
+    },
+    {
+      "part": "M02_Post_Core",
+      "pass": true,
+      "step_volume_mm3": 268874.7780538151,
+      "mesh_watertight": true
+    },
+    {
+      "part": "M03_Base_Backplate",
+      "pass": true,
+      "step_volume_mm3": 48900.54160839476,
+      "mesh_watertight": true
+    },
+    {
+      "part": "M04_Post_Shroud_Blank",
+      "pass": true,
+      "step_volume_mm3": 188957.3733354642,
+      "mesh_watertight": true
+    },
+    {
+      "part": "M04_Internal_Splice",
+      "pass": true,
+      "step_volume_mm3": 5880.0,
+      "mesh_watertight": true
+    },
+    {
+      "part": "M04_INSTALLED_REFERENCE",
+      "pass": true,
+      "step_volume_mm3": 188957.3733354695,
+      "mesh_watertight": true
+    },
+    {
+      "part": "M05_Bearing_Cheek",
+      "pass": true,
+      "step_volume_mm3": 63460.70401323367,
+      "mesh_watertight": true
+    },
+    {
+      "part": "M06_Crank_Plate",
+      "pass": true,
+      "step_volume_mm3": 12839.377732643386,
+      "mesh_watertight": true
+    },
+    {
+      "part": "M07_Servo_Horn_Adapter",
+      "pass": true,
+      "step_volume_mm3": 5212.933365126499,
+      "mesh_watertight": true
+    },
+    {
+      "part": "M08_Fixed_Deck",
+      "pass": true,
+      "step_volume_mm3": 1128771.9057522805,
+      "mesh_watertight": true
+    },
+    {
+      "part": "M09_Moving_Carrier",
+      "pass": true,
+      "step_volume_mm3": 67414.56792699643,
+      "mesh_watertight": true
+    },
+    {
+      "part": "M10_Tray",
+      "pass": true,
+      "step_volume_mm3": 128895.78232243651,
+      "mesh_watertight": true
+    },
+    {
+      "part": "M11_Tray_Hat_Brace",
+      "pass": true,
+      "step_volume_mm3": 7340.524783386751,
+      "mesh_watertight": true
+    },
+    {
+      "part": "M11_FLAT_BLANK",
+      "pass": true,
+      "step_volume_mm3": 9065.52478338674,
+      "mesh_watertight": true
+    },
+    {
+      "part": "P01_Servo_Cradle",
+      "pass": true,
+      "step_volume_mm3": 31972.117705502034,
+      "mesh_watertight": true
+    },
+    {
+      "part": "P02_U_Joint_Cross",
+      "pass": true,
+      "step_volume_mm3": 2620.3395986857004,
+      "mesh_watertight": true
+    },
+    {
+      "part": "P03_Lower_Rod_Fork",
+      "pass": true,
+      "step_volume_mm3": 5460.800792688695,
+      "mesh_watertight": true
+    },
+    {
+      "part": "P04_Ball_Socket_Half",
+      "pass": true,
+      "step_volume_mm3": 1791.6660373142633,
+      "mesh_watertight": true
+    },
+    {
+      "part": "M12_Ball_Stud",
+      "pass": true,
+      "step_volume_mm3": 2472.97377554717,
+      "mesh_watertight": true
+    },
+    {
+      "part": "P05_Upper_Rod_Coupler",
+      "pass": true,
+      "step_volume_mm3": 3414.3472445803063,
+      "mesh_watertight": true
+    },
+    {
+      "part": "M13_Link_Tube",
+      "pass": true,
+      "step_volume_mm3": 5444.44588065024,
+      "mesh_watertight": true
+    },
+    {
+      "part": "P09_Socket_Wedge_L1",
+      "pass": true,
+      "step_volume_mm3": 2162.6064267366396,
+      "mesh_watertight": true
+    },
+    {
+      "part": "P09_Socket_Wedge_L2",
+      "pass": true,
+      "step_volume_mm3": 2162.6178150674314,
+      "mesh_watertight": true
+    },
+    {
+      "part": "P09_Socket_Wedge_L3",
+      "pass": true,
+      "step_volume_mm3": 2162.1057845194373,
+      "mesh_watertight": true
+    },
+    {
+      "part": "P09_Socket_Wedge_L4",
+      "pass": true,
+      "step_volume_mm3": 2162.1127756157707,
+      "mesh_watertight": true
+    },
+    {
+      "part": "P09_Socket_Wedge_L5",
+      "pass": true,
+      "step_volume_mm3": 2162.4282641246305,
+      "mesh_watertight": true
+    },
+    {
+      "part": "P09_Socket_Wedge_L6",
+      "pass": true,
+      "step_volume_mm3": 2162.4075967011904,
+      "mesh_watertight": true
+    },
+    {
+      "part": "P06_Discharge_Guide",
+      "pass": true,
+      "step_volume_mm3": 425882.24234347383,
+      "mesh_watertight": true
+    },
+    {
+      "part": "P07_Guide_Post_Cap",
+      "pass": true,
+      "step_volume_mm3": 6590.883411114454,
+      "mesh_watertight": true
+    },
+    {
+      "part": "P08_Rest_Pad",
+      "pass": true,
+      "step_volume_mm3": 2982.1568264201865,
+      "mesh_watertight": true
+    },
+    {
+      "part": "M14_Angle_Foot",
+      "pass": true,
+      "step_volume_mm3": 3194.9004666867,
+      "mesh_watertight": true
+    },
+    {
+      "part": "M17_Front_Output_Cheek",
+      "pass": true,
+      "step_volume_mm3": 74722.80560024039,
+      "mesh_watertight": true
+    },
+    {
+      "part": "M15_Belt_Tensioner",
+      "pass": true,
+      "step_volume_mm3": 9061.986753006438,
+      "mesh_watertight": true
+    },
+    {
+      "part": "M16_Smooth_Tip_Pivot",
+      "pass": true,
+      "step_volume_mm3": 84.82300164692441,
+      "mesh_watertight": true
+    },
+    {
+      "part": "M18_Tray_Perimeter_Frame",
+      "pass": true,
+      "step_volume_mm3": 39647.60974106942,
+      "mesh_watertight": true
+    },
+    {
+      "part": "P10_Belt_Guard",
+      "pass": true,
+      "step_volume_mm3": 50938.93135189359,
+      "mesh_watertight": true
+    },
+    {
+      "part": "Q02_Stop_Template_D1",
+      "pass": true,
+      "step_volume_mm3": 5821.616833382312,
+      "mesh_watertight": true
+    },
+    {
+      "part": "M05_Bearing_Cheek_D1_FINISHED",
+      "pass": true,
+      "step_volume_mm3": 62977.652726816945,
+      "mesh_watertight": true
+    },
+    {
+      "part": "M17_Front_Output_Cheek_D1_FINISHED",
+      "pass": true,
+      "step_volume_mm3": 73993.85841958426,
+      "mesh_watertight": true
+    },
+    {
+      "part": "Q02_Stop_Template_D2",
+      "pass": true,
+      "step_volume_mm3": 5821.616833382315,
+      "mesh_watertight": true
+    },
+    {
+      "part": "M05_Bearing_Cheek_D2_FINISHED",
+      "pass": true,
+      "step_volume_mm3": 62977.65272681689,
+      "mesh_watertight": true
+    },
+    {
+      "part": "M17_Front_Output_Cheek_D2_FINISHED",
+      "pass": true,
+      "step_volume_mm3": 65188.40663031038,
+      "mesh_watertight": true
+    },
+    {
+      "part": "Q02_Stop_Template_D3",
+      "pass": true,
+      "step_volume_mm3": 5821.61683338231,
+      "mesh_watertight": true
+    },
+    {
+      "part": "M05_Bearing_Cheek_D3_FINISHED",
+      "pass": true,
+      "step_volume_mm3": 62977.65272681698,
+      "mesh_watertight": true
+    },
+    {
+      "part": "M17_Front_Output_Cheek_D3_FINISHED",
+      "pass": true,
+      "step_volume_mm3": 73993.85841958426,
+      "mesh_watertight": true
+    },
+    {
+      "part": "Q02_Stop_Template_D4",
+      "pass": true,
+      "step_volume_mm3": 5821.616833382317,
+      "mesh_watertight": true
+    },
+    {
+      "part": "M05_Bearing_Cheek_D4_FINISHED",
+      "pass": true,
+      "step_volume_mm3": 62977.65272681686,
+      "mesh_watertight": true
+    },
+    {
+      "part": "M17_Front_Output_Cheek_D4_FINISHED",
+      "pass": true,
+      "step_volume_mm3": 65188.40663031043,
+      "mesh_watertight": true
+    },
+    {
+      "part": "Q02_Stop_Template_D5",
+      "pass": true,
+      "step_volume_mm3": 5821.6168333823125,
+      "mesh_watertight": true
+    },
+    {
+      "part": "M05_Bearing_Cheek_D5_FINISHED",
+      "pass": true,
+      "step_volume_mm3": 62977.65272681694,
+      "mesh_watertight": true
+    },
+    {
+      "part": "M17_Front_Output_Cheek_D5_FINISHED",
+      "pass": true,
+      "step_volume_mm3": 73993.85841958429,
+      "mesh_watertight": true
+    },
+    {
+      "part": "Q02_Stop_Template_D6",
+      "pass": true,
+      "step_volume_mm3": 5821.616833382318,
+      "mesh_watertight": true
+    },
+    {
+      "part": "M05_Bearing_Cheek_D6_FINISHED",
+      "pass": true,
+      "step_volume_mm3": 62977.652726816836,
+      "mesh_watertight": true
+    },
+    {
+      "part": "M17_Front_Output_Cheek_D6_FINISHED",
+      "pass": true,
+      "step_volume_mm3": 65188.40663031031,
+      "mesh_watertight": true
+    },
+    {
+      "part": "M19_Double_Crank_Hub",
+      "pass": true,
+      "step_volume_mm3": 10175.330732903318,
+      "mesh_watertight": true
+    },
+    {
+      "part": "M20_Output_Shaft",
+      "pass": true,
+      "step_volume_mm3": 5945.752263590863,
+      "mesh_watertight": true
+    },
+    {
+      "part": "M21_Input_Shaft",
+      "pass": true,
+      "step_volume_mm3": 3931.868432374602,
+      "mesh_watertight": true
+    },
+    {
+      "part": "M22_Parallel_Key",
+      "pass": true,
+      "step_volume_mm3": 56.00000000000001,
+      "mesh_watertight": true
+    },
+    {
+      "part": "M23_Frame_Outrigger",
+      "pass": true,
+      "step_volume_mm3": 28151.264044087846,
+      "mesh_watertight": true
+    },
+    {
+      "part": "M24_Backstop_Panel",
+      "pass": true,
+      "step_volume_mm3": 215714.90046668678,
+      "mesh_watertight": true
+    },
+    {
+      "part": "M25_Short_Backstop_Bridge",
+      "pass": true,
+      "step_volume_mm3": 4967.752220072738,
+      "mesh_watertight": true
+    },
+    {
+      "part": "M26_Anti_Rack_Bridge",
+      "pass": true,
+      "step_volume_mm3": 24696.03141517726,
+      "mesh_watertight": true
+    },
+    {
+      "part": "M28_Radial_Deck_Rib",
+      "pass": true,
+      "step_volume_mm3": 8400.0,
+      "mesh_watertight": true
+    },
+    {
+      "part": "Q01_Fit_Ladder",
+      "pass": true,
+      "step_volume_mm3": 16183.497682792062,
+      "mesh_watertight": true
+    }
+  ],
+  "scope": "final individual exports only; assembly meshes are viewing compounds, not fused printable objects"
+}

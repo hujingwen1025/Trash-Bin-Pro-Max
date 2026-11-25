@@ -1,0 +1,8 @@
+{
+  "cap_CNY": 3000,
+  "allocated_CNY": 3000,
+  "accepted_quotes": 0,
+  "purchase_release": false,
+  "reason": "No accepted regional supplier quotes; external frame and machined interfaces may exceed allocations. Do not buy full set. All quote fields are unaccepted; currency conversions are not local supplier quotes.",
+  "source": "https://www.hiwonder.com/products/htd-85h"
+}

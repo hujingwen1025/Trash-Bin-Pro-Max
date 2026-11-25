@@ -1,0 +1,833 @@
+{
+  "parameters": {
+    "revision": "R06",
+    "units": "mm",
+    "sheet_wall": 6.0,
+    "sheet_floor": 10.0,
+    "wood_joint_gap": 0.2,
+    "printed_joint_gap": 0.3,
+    "kerf_wall": null,
+    "kerf_floor": null,
+    "joint_centers_z": [
+      45,
+      117,
+      189,
+      261,
+      333,
+      405
+    ],
+    "vertical_finger_height": 36.0,
+    "floor_finger_width": 30.0,
+    "curve_split_station": 102.5,
+    "magnet_insert_diameter": 29.2,
+    "magnet_insert_radial_gap": 0.2,
+    "working_load_kg": 10.0,
+    "proof_load_kg": 15.0,
+    "status": "NOMINAL STOCK - CALIBRATE BEFORE FULL CUT",
+    "post_diameter": 147.5,
+    "change": "10 mm floor, 10 mm wall bottom tabs, raised curve pads and 10 mm magnet inserts; all original exterior datums preserved."
+  },
+  "tests": [
+    {
+      "name": "W01_rear planar profile",
+      "pass": true
+    },
+    {
+      "name": "W02_right planar profile",
+      "pass": true
+    },
+    {
+      "name": "W03_front planar profile",
+      "pass": true
+    },
+    {
+      "name": "W04_left planar profile",
+      "pass": true
+    },
+    {
+      "name": "W01_rear valid single solid",
+      "pass": true
+    },
+    {
+      "name": "W01_rear watertight mesh",
+      "pass": true
+    },
+    {
+      "name": "W02_right valid single solid",
+      "pass": true
+    },
+    {
+      "name": "W02_right watertight mesh",
+      "pass": true
+    },
+    {
+      "name": "W03_front valid single solid",
+      "pass": true
+    },
+    {
+      "name": "W03_front watertight mesh",
+      "pass": true
+    },
+    {
+      "name": "W04_left valid single solid",
+      "pass": true
+    },
+    {
+      "name": "W04_left watertight mesh",
+      "pass": true
+    },
+    {
+      "name": "C01_curved_corner valid single solid",
+      "pass": true
+    },
+    {
+      "name": "C01_curved_corner watertight mesh",
+      "pass": true
+    },
+    {
+      "name": "F01_floor valid single solid",
+      "pass": true
+    },
+    {
+      "name": "F01_floor watertight mesh",
+      "pass": true
+    },
+    {
+      "name": "M01_magnet_insert valid single solid",
+      "pass": true
+    },
+    {
+      "name": "M01_magnet_insert watertight mesh",
+      "pass": true
+    },
+    {
+      "name": "Assembly viewing STL watertight",
+      "pass": true
+    },
+    {
+      "name": "W01_rear STEP round-trip",
+      "pass": true,
+      "relative_volume_error": 1.2818822027225756e-16
+    },
+    {
+      "name": "W02_right STEP round-trip",
+      "pass": true,
+      "relative_volume_error": 5.12587617508388e-16
+    },
+    {
+      "name": "W03_front STEP round-trip",
+      "pass": true,
+      "relative_volume_error": 5.367330930195902e-16
+    },
+    {
+      "name": "W04_left STEP round-trip",
+      "pass": true,
+      "relative_volume_error": 5.367330930195902e-16
+    },
+    {
+      "name": "C01_curved_corner STEP round-trip",
+      "pass": true,
+      "relative_volume_error": 1.756243487377856e-15
+    },
+    {
+      "name": "F01_floor STEP round-trip",
+      "pass": true,
+      "relative_volume_error": 1.2797923596663981e-14
+    },
+    {
+      "name": "M01_magnet_insert STEP round-trip",
+      "pass": true,
+      "relative_volume_error": 2.5968110779438016e-15
+    },
+    {
+      "name": "W01_rear / W02_right interference",
+      "pass": true,
+      "overlap_mm3": 0.0
+    },
+    {
+      "name": "W01_rear / W03_front interference",
+      "pass": true,
+      "overlap_mm3": 0.0
+    },
+    {
+      "name": "W01_rear / W04_left interference",
+      "pass": true,
+      "overlap_mm3": 0.0
+    },
+    {
+      "name": "W01_rear / C01_curved_corner interference",
+      "pass": true,
+      "overlap_mm3": 0.0
+    },
+    {
+      "name": "W01_rear / F01_floor interference",
+      "pass": true,
+      "overlap_mm3": 0.0
+    },
+    {
+      "name": "W02_right / W03_front interference",
+      "pass": true,
+      "overlap_mm3": 0.0
+    },
+    {
+      "name": "W02_right / W04_left interference",
+      "pass": true,
+      "overlap_mm3": 0.0
+    },
+    {
+      "name": "W02_right / C01_curved_corner interference",
+      "pass": true,
+      "overlap_mm3": 0.0
+    },
+    {
+      "name": "W02_right / F01_floor interference",
+      "pass": true,
+      "overlap_mm3": 0.0
+    },
+    {
+      "name": "W03_front / W04_left interference",
+      "pass": true,
+      "overlap_mm3": 0.0
+    },
+    {
+      "name": "W03_front / C01_curved_corner interference",
+      "pass": true,
+      "overlap_mm3": 0.0
+    },
+    {
+      "name": "W03_front / F01_floor interference",
+      "pass": true,
+      "overlap_mm3": 0.0
+    },
+    {
+      "name": "W04_left / C01_curved_corner interference",
+      "pass": true,
+      "overlap_mm3": 0.0
+    },
+    {
+      "name": "W04_left / F01_floor interference",
+      "pass": true,
+      "overlap_mm3": 0.0
+    },
+    {
+      "name": "C01_curved_corner / F01_floor interference",
+      "pass": true,
+      "overlap_mm3": 0.0
+    },
+    {
+      "name": "Insert (102.5,102.5) clearance",
+      "pass": true,
+      "radial_gap_mm": 0.2,
+      "overlap_mm3": 0.0
+    },
+    {
+      "name": "Insert (102.5,250.0) clearance",
+      "pass": true,
+      "radial_gap_mm": 0.2,
+      "overlap_mm3": 0.0
+    },
+    {
+      "name": "Insert (250.0,102.5) clearance",
+      "pass": true,
+      "radial_gap_mm": 0.2,
+      "overlap_mm3": 0.0
+    },
+    {
+      "name": "Insert (250.0,250.0) clearance",
+      "pass": true,
+      "radial_gap_mm": 0.2,
+      "overlap_mm3": 0.0
+    },
+    {
+      "name": "Original exterior envelope retained",
+      "pass": true,
+      "exterior_mm": [
+        347.5,
+        347.5,
+        450.0
+      ]
+    },
+    {
+      "name": "Q01_wall_fit coupon solid and closed outline",
+      "pass": true
+    },
+    {
+      "name": "Q02_floor_fit coupon solid and closed outline",
+      "pass": true
+    },
+    {
+      "name": "Q03_wall_tab coupon solid and closed outline",
+      "pass": true
+    },
+    {
+      "name": "Q04_floor_tab coupon solid and closed outline",
+      "pass": true
+    },
+    {
+      "name": "Q08_floor_wall_tab coupon solid and closed outline",
+      "pass": true
+    },
+    {
+      "name": "Q07_insert_fit coupon solid and closed outline",
+      "pass": true
+    },
+    {
+      "name": "Curve joint sample one solid",
+      "pass": true
+    },
+    {
+      "name": "W03_front continuous insertion sweep",
+      "pass": true,
+      "overlap_mm3": 0,
+      "travel_mm": 12
+    },
+    {
+      "name": "W04_left continuous insertion sweep",
+      "pass": true,
+      "overlap_mm3": 0,
+      "travel_mm": 12
+    },
+    {
+      "name": "W01_rear continuous insertion sweep",
+      "pass": true,
+      "overlap_mm3": 0,
+      "travel_mm": 12
+    },
+    {
+      "name": "W02_right continuous insertion sweep",
+      "pass": true,
+      "overlap_mm3": 0,
+      "travel_mm": 12
+    },
+    {
+      "name": "Floor continuous upward insertion sweep",
+      "pass": true,
+      "overlap_mm3": 0.0,
+      "travel_mm": 12
+    },
+    {
+      "name": "W01_rear closed nonduplicated cutting contours",
+      "pass": true,
+      "contours": 1,
+      "entities": 68
+    },
+    {
+      "name": "W02_right closed nonduplicated cutting contours",
+      "pass": true,
+      "contours": 1,
+      "entities": 68
+    },
+    {
+      "name": "W03_front closed nonduplicated cutting contours",
+      "pass": true,
+      "contours": 4,
+      "entities": 71
+    },
+    {
+      "name": "W04_left closed nonduplicated cutting contours",
+      "pass": true,
+      "contours": 4,
+      "entities": 71
+    },
+    {
+      "name": "F01_floor closed nonduplicated cutting contours",
+      "pass": true,
+      "contours": 8,
+      "entities": 113
+    },
+    {
+      "name": "Q01_wall_fit closed nonduplicated cutting contours",
+      "pass": true,
+      "contours": 16,
+      "entities": 64
+    },
+    {
+      "name": "Q02_floor_fit closed nonduplicated cutting contours",
+      "pass": true,
+      "contours": 10,
+      "entities": 228
+    },
+    {
+      "name": "Q03_wall_tab closed nonduplicated cutting contours",
+      "pass": true,
+      "contours": 1,
+      "entities": 8
+    },
+    {
+      "name": "Q04_floor_tab closed nonduplicated cutting contours",
+      "pass": true,
+      "contours": 1,
+      "entities": 8
+    },
+    {
+      "name": "Q08_floor_wall_tab closed nonduplicated cutting contours",
+      "pass": true,
+      "contours": 1,
+      "entities": 8
+    },
+    {
+      "name": "Q07_insert_fit closed nonduplicated cutting contours",
+      "pass": true,
+      "contours": 4,
+      "entities": 868
+    },
+    {
+      "name": "Q06_curve_wall_sample closed nonduplicated cutting contours",
+      "pass": true,
+      "contours": 2,
+      "entities": 108
+    },
+    {
+      "name": "W01_rear DWG round-trip",
+      "pass": true,
+      "entities": 69,
+      "dwg_version": "R2000",
+      "units": "mm",
+      "writer": "ODA 27.10",
+      "independent_reader": "LibreDWG 0.14",
+      "independent_reader_ok": true
+    },
+    {
+      "name": "W02_right DWG round-trip",
+      "pass": true,
+      "entities": 69,
+      "dwg_version": "R2000",
+      "units": "mm",
+      "writer": "ODA 27.10",
+      "independent_reader": "LibreDWG 0.14",
+      "independent_reader_ok": true
+    },
+    {
+      "name": "W03_front DWG round-trip",
+      "pass": true,
+      "entities": 72,
+      "dwg_version": "R2000",
+      "units": "mm",
+      "writer": "ODA 27.10",
+      "independent_reader": "LibreDWG 0.14",
+      "independent_reader_ok": true
+    },
+    {
+      "name": "W04_left DWG round-trip",
+      "pass": true,
+      "entities": 72,
+      "dwg_version": "R2000",
+      "units": "mm",
+      "writer": "ODA 27.10",
+      "independent_reader": "LibreDWG 0.14",
+      "independent_reader_ok": true
+    },
+    {
+      "name": "F01_floor DWG round-trip",
+      "pass": true,
+      "entities": 114,
+      "dwg_version": "R2000",
+      "units": "mm",
+      "writer": "ODA 27.10",
+      "independent_reader": "LibreDWG 0.14",
+      "independent_reader_ok": true
+    },
+    {
+      "name": "Q01_wall_fit DWG round-trip",
+      "pass": true,
+      "entities": 79,
+      "dwg_version": "R2000",
+      "units": "mm",
+      "writer": "ODA 27.10",
+      "independent_reader": "LibreDWG 0.14",
+      "independent_reader_ok": true
+    },
+    {
+      "name": "Q02_floor_fit DWG round-trip",
+      "pass": true,
+      "entities": 236,
+      "dwg_version": "R2000",
+      "units": "mm",
+      "writer": "ODA 27.10",
+      "independent_reader": "LibreDWG 0.14",
+      "independent_reader_ok": true
+    },
+    {
+      "name": "Q03_wall_tab DWG round-trip",
+      "pass": true,
+      "entities": 9,
+      "dwg_version": "R2000",
+      "units": "mm",
+      "writer": "ODA 27.10",
+      "independent_reader": "LibreDWG 0.14",
+      "independent_reader_ok": true
+    },
+    {
+      "name": "Q04_floor_tab DWG round-trip",
+      "pass": true,
+      "entities": 9,
+      "dwg_version": "R2000",
+      "units": "mm",
+      "writer": "ODA 27.10",
+      "independent_reader": "LibreDWG 0.14",
+      "independent_reader_ok": true
+    },
+    {
+      "name": "Q08_floor_wall_tab DWG round-trip",
+      "pass": true,
+      "entities": 9,
+      "dwg_version": "R2000",
+      "units": "mm",
+      "writer": "ODA 27.10",
+      "independent_reader": "LibreDWG 0.14",
+      "independent_reader_ok": true
+    },
+    {
+      "name": "Q07_insert_fit DWG round-trip",
+      "pass": true,
+      "entities": 872,
+      "dwg_version": "R2000",
+      "units": "mm",
+      "writer": "ODA 27.10",
+      "independent_reader": "LibreDWG 0.14",
+      "independent_reader_ok": true
+    },
+    {
+      "name": "Q06_curve_wall_sample DWG round-trip",
+      "pass": true,
+      "entities": 109,
+      "dwg_version": "R2000",
+      "units": "mm",
+      "writer": "ODA 27.10",
+      "independent_reader": "LibreDWG 0.14",
+      "independent_reader_ok": true
+    },
+    {
+      "name": "C01_curved_corner_REFERENCE DWG round-trip",
+      "pass": true,
+      "entities": 1070,
+      "dwg_version": "R2000",
+      "units": "mm",
+      "writer": "ODA 27.10",
+      "independent_reader": "LibreDWG 0.14",
+      "independent_reader_ok": true
+    },
+    {
+      "name": "M01_magnet_insert_REFERENCE DWG round-trip",
+      "pass": true,
+      "entities": 7,
+      "dwg_version": "R2000",
+      "units": "mm",
+      "writer": "ODA 27.10",
+      "independent_reader": "LibreDWG 0.14",
+      "independent_reader_ok": true
+    },
+    {
+      "name": "W03_front isolated hole 1 ligament",
+      "pass": true,
+      "remaining_wood_mm": 19.787859944629194
+    },
+    {
+      "name": "W03_front isolated hole 2 ligament",
+      "pass": true,
+      "remaining_wood_mm": 19.787859944629208
+    },
+    {
+      "name": "W03_front isolated hole 3 ligament",
+      "pass": true,
+      "remaining_wood_mm": 19.787859944629208
+    },
+    {
+      "name": "W04_left isolated hole 1 ligament",
+      "pass": true,
+      "remaining_wood_mm": 19.787859944629208
+    },
+    {
+      "name": "W04_left isolated hole 2 ligament",
+      "pass": true,
+      "remaining_wood_mm": 19.787859944629208
+    },
+    {
+      "name": "W04_left isolated hole 3 ligament",
+      "pass": true,
+      "remaining_wood_mm": 19.787859944629194
+    },
+    {
+      "name": "F01_floor isolated hole 1 ligament",
+      "pass": true,
+      "remaining_wood_mm": 79.39799626319022
+    },
+    {
+      "name": "F01_floor isolated hole 2 ligament",
+      "pass": true,
+      "remaining_wood_mm": 16.599994520981607
+    },
+    {
+      "name": "F01_floor isolated hole 3 ligament",
+      "pass": true,
+      "remaining_wood_mm": 16.599994520981593
+    },
+    {
+      "name": "F01_floor isolated hole 4 ligament",
+      "pass": true,
+      "remaining_wood_mm": 16.599994520981607
+    },
+    {
+      "name": "F01_floor isolated hole 5 ligament",
+      "pass": true,
+      "remaining_wood_mm": 49.00688466422384
+    },
+    {
+      "name": "F01_floor isolated hole 6 ligament",
+      "pass": true,
+      "remaining_wood_mm": 80.20233915248849
+    },
+    {
+      "name": "F01_floor isolated hole 7 ligament",
+      "pass": true,
+      "remaining_wood_mm": 79.39799626319022
+    },
+    {
+      "name": "W01_rear STL volume fidelity",
+      "pass": true,
+      "relative_volume_error": 5.306201526140604e-09
+    },
+    {
+      "name": "W02_right STL volume fidelity",
+      "pass": true,
+      "relative_volume_error": 4.9819978285785456e-09
+    },
+    {
+      "name": "W03_front STL volume fidelity",
+      "pass": true,
+      "relative_volume_error": 1.377468120780017e-07
+    },
+    {
+      "name": "W04_left STL volume fidelity",
+      "pass": true,
+      "relative_volume_error": 1.3774681189909066e-07
+    },
+    {
+      "name": "C01_curved_corner STL volume fidelity",
+      "pass": true,
+      "relative_volume_error": 0.0001559932385222041
+    },
+    {
+      "name": "F01_floor STL volume fidelity",
+      "pass": true,
+      "relative_volume_error": 1.1663987722496761e-05
+    },
+    {
+      "name": "M01_magnet_insert STL volume fidelity",
+      "pass": true,
+      "relative_volume_error": 0.0002635482365266631
+    },
+    {
+      "name": "Wood vertical finger clearance",
+      "pass": true,
+      "total_gap_mm": 0.2,
+      "male_height_mm": 35.9,
+      "female_height_mm": 36.1
+    },
+    {
+      "name": "Printed vertical finger clearance",
+      "pass": true,
+      "total_gap_mm": 0.3,
+      "male_height_mm": 35.85,
+      "female_height_mm": 36.15
+    },
+    {
+      "name": "Assembly_R06 delivered mesh integrity",
+      "pass": true
+    },
+    {
+      "name": "C01_curved_corner delivered mesh integrity",
+      "pass": true
+    },
+    {
+      "name": "F01_floor delivered mesh integrity",
+      "pass": true
+    },
+    {
+      "name": "M01_magnet_insert delivered mesh integrity",
+      "pass": true
+    },
+    {
+      "name": "Q01_wall_fit delivered mesh integrity",
+      "pass": true
+    },
+    {
+      "name": "Q02_floor_fit delivered mesh integrity",
+      "pass": true
+    },
+    {
+      "name": "Q03_wall_tab delivered mesh integrity",
+      "pass": true
+    },
+    {
+      "name": "Q04_floor_tab delivered mesh integrity",
+      "pass": true
+    },
+    {
+      "name": "Q05_curve_joint_sample delivered mesh integrity",
+      "pass": true
+    },
+    {
+      "name": "Q06_curve_wall_sample delivered mesh integrity",
+      "pass": true
+    },
+    {
+      "name": "Q07_insert_fit delivered mesh integrity",
+      "pass": true
+    },
+    {
+      "name": "Q08_floor_wall_tab delivered mesh integrity",
+      "pass": true
+    },
+    {
+      "name": "W01_rear delivered mesh integrity",
+      "pass": true
+    },
+    {
+      "name": "W02_right delivered mesh integrity",
+      "pass": true
+    },
+    {
+      "name": "W03_front delivered mesh integrity",
+      "pass": true
+    },
+    {
+      "name": "W04_left delivered mesh integrity",
+      "pass": true
+    },
+    {
+      "name": "STEP assembly has ten named-part solids",
+      "pass": true
+    },
+    {
+      "name": "Uploaded source dimensions match CAD datums",
+      "pass": true,
+      "source_sha256": "e68f332bad31188e3e127ef5947f774e65785c363033241fe93a6ebf3e4f44b7"
+    },
+    {
+      "name": "Analytic R75 conforms to uploaded faceted curve",
+      "pass": true,
+      "maximum_sample_deviation_mm": 0.015391948021516555
+    },
+    {
+      "name": "W03_front M3 at Z81 bolt alignment",
+      "pass": true,
+      "overlap_mm3": 0.0
+    },
+    {
+      "name": "W04_left M3 at Z81 bolt alignment",
+      "pass": true,
+      "overlap_mm3": 0.0
+    },
+    {
+      "name": "W03_front M3 at Z225 bolt alignment",
+      "pass": true,
+      "overlap_mm3": 0.0
+    },
+    {
+      "name": "W04_left M3 at Z225 bolt alignment",
+      "pass": true,
+      "overlap_mm3": 0.0
+    },
+    {
+      "name": "W03_front M3 at Z369 bolt alignment",
+      "pass": true,
+      "overlap_mm3": 0.0
+    },
+    {
+      "name": "W04_left M3 at Z369 bolt alignment",
+      "pass": true,
+      "overlap_mm3": 0.0
+    },
+    {
+      "name": "Floor M4 at 22.5 degrees bolt alignment",
+      "pass": true,
+      "overlap_mm3": 0.0
+    },
+    {
+      "name": "Floor M4 at 45 degrees bolt alignment",
+      "pass": true,
+      "overlap_mm3": 0.0
+    },
+    {
+      "name": "Floor M4 at 67.5 degrees bolt alignment",
+      "pass": true,
+      "overlap_mm3": 0.0
+    }
+  ],
+  "physical_tests_performed": false,
+  "floor_screen": [
+    {
+      "payload_kg": 10.0,
+      "deflection_mm": 0.57511252734375,
+      "bending_stress_MPa": 0.73575,
+      "E_assumption_MPa": 3000.0
+    },
+    {
+      "payload_kg": 15.0,
+      "deflection_mm": 0.862668791015625,
+      "bending_stress_MPa": 1.103625,
+      "E_assumption_MPa": 3000.0
+    }
+  ],
+  "load_status": "10 kg target, pending physical validation; no certified load rating",
+  "source_reference": {
+    "envelope": [
+      347.5,
+      347.5,
+      450.0
+    ],
+    "wall": 6.0,
+    "original_uploaded_floor": 9.0,
+    "manufacturing_floor": 10.0,
+    "curve_radii": [
+      75.0,
+      81.0
+    ],
+    "magnet_pockets": {
+      "diameter": 25.2,
+      "depth": 5.0,
+      "centers": [
+        [
+          102.5,
+          102.5
+        ],
+        [
+          102.5,
+          250.0
+        ],
+        [
+          250.0,
+          102.5
+        ],
+        [
+          250.0,
+          250.0
+        ]
+      ]
+    }
+  },
+  "dwg_writer": "ODA 27.10; LibreDWG independently reads final DWGs",
+  "secondary_operations": [
+    "M3 exterior countersinks diameter 6.3 x 90 degrees",
+    "M4 floor underside countersinks diameter 8 x 90 degrees"
+  ],
+  "calibration_gaps_mm": [
+    0.1,
+    0.15,
+    0.2,
+    0.25,
+    0.3,
+    0.35,
+    0.4
+  ],
+  "assembly_order": [
+    "curve",
+    "front +X to -X",
+    "left +Y to -Y",
+    "rear +Y to -Y",
+    "right +X to -X",
+    "floor upward",
+    "magnet inserts and fasteners"
+  ]
+}

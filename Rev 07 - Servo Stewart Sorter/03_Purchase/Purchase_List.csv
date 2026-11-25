@@ -1,0 +1,47 @@
+﻿item,required_quantity,specification,supplier_quote_CNY,quote_status
+HTD-85H servo,6,"Hiwonder HTD-85H, 9-14.8V,240deg legacy UART115200. Manufacturer stall85 kg.cm at11.1V; continuous torque unpublished. One actual sample first.",,NOT QUOTED
+Matched metal servo horn,6,Hiwonder HTD-85H metal horn option. Confirm centre screw/spline and hole pattern on sample; M07 is match drilled.,,NOT QUOTED
+USB half-duplex adapter,1,Hiwonder BusLinker V3.0 or legacy-compatible transparent UART USB interface; verify HTD 0x55 protocol and readback on one servo. Signal/GND only; separate motor power.,,NOT QUOTED
+"12V supply, prewired enclosed",1,"Mean Well LRS-350-12,12V29A, or enclosed equivalent continuous>=29A with overload protection. Purchase enclosed, earthed, fused mains assembly; do not route power through USB adapter.",,NOT QUOTED
+DC emergency disconnect,1,12VDC >=30A contactor/disconnect with NC mushroom stop and deliberate manual restart. It must not re-energize automatically when stop is reset.,,NOT QUOTED
+Fused star distribution,1,"30A main fuse, six individually fused5A branches. Connector/harness rating>=6A per motor. MainAWG12, branchesAWG18; retain only short factory servo tails.",,NOT QUOTED
+608ZZ bearing,34,8x22x7 mm;30 installed plus4 spares. Align bores with dummy shaft before tightening. Supplier actual OD checked with Q01 and first metal cheek.,,NOT QUOTED
+36T timing pulley,6,"HTD5M,15 mm belt face,8H7 bore with2 mm keyway; pitch diameter57.296, verify flange envelope<=60.",,NOT QUOTED
+20T timing pulley,6,"HTD5M,15 mm belt face,8H7 bore with2 mm keyway; pitch diameter31.831, verify flange envelope<=36.",,NOT QUOTED
+Timing belt,6,"360-5M-15,72 teeth. Verify tensioner range on ONE cell before six sets. Do not substitute GT2 tooth profile.",,NOT QUOTED
+20T toothed inside idler,6,"HTD5M20T,15 mm belt face,flangeOD<=36,bearing-supported8 mm bore. TOOTHED face contact, no reverse belt bending. M8 shoulder spindle and spacer. Supplier drawing and first-cell tooth engagement/tension approval required.",,NOT QUOTED
+8mm shaft collar,24,"Split clamp type,8 bore,OD<=16,length5.0. Axial retention only; keys carry torque. Confirm installed axial stack before ordering.",,NOT QUOTED
+Main lower joint shoulder screw,6,"ISO7379 type, smooth shoulder4x40, M3 threaded end; 38 mm outer crank span; two5 mm spacers between cross and crank inner faces; compact washers and M3 nyloc, nyloc nut.",,NOT QUOTED
+Hard-stop shoulder screw,12,"Smooth shoulder6x60, M5 threaded end, grade10.9 or equivalent. Two4 mm spacers and M5 nyloc per pin. Supported at both cheek ends.",,NOT QUOTED
+M5 resting threaded rod,3,"Cut to actual pad height from M5 steel stock, 335.6 mm nominal fromZ510 to845.6; trim to actual pad/nut engagement before loading; supplier captiveM5 nuts welded under TOP post cap before core is closed.",,NOT QUOTED
+2020 extrusion820,4,"20x20 structural aluminium,820 mm, outer frame posts. End tapM5 where indicated; verify4.2 mm core hole.",,NOT QUOTED
+2020 extrusion710,8,"Outer rails,710 mm; four atZ500 and four atZ800. Reinforced corner brackets both ends.",,NOT QUOTED
+2020 extrusion320,8,"Backstop uprights,320 mm, fromZ490 to810. End tapsM5 >=15 mm.",,NOT QUOTED
+2020 extrusion290,4,"Backstop middle rails,290 mm; centresZ640, between uprights.",,NOT QUOTED
+2020 extrusion92,8,"Guide posts,92 mm, fromfixed deckZ526 to618. TapM5 both ends >=15 mm.",,NOT QUOTED
+Reinforced2020 angle bracket,56,"Two-hole reinforced metal type,32 for outer rails,16 for backstop middle rails,8 for outer post feet. Holes match M5T-nuts. Supplier sample required.",,NOT QUOTED
+M5 2020T-nut,168,Required allocation152 plus16 spares; match actual extrusion slot profile. Includes panel and bridge connections.,,NOT QUOTED
+M5x10/M5x12 screws,160,"Frame brackets, panels and short bridges; check actual bracket thickness, use washers and adequate thread engagement.",,NOT QUOTED
+M5x20 screws/studs,40,"Long bridge stack and guide connections. Guide: eightM5x20 studs, ten mm into profile +2 mm cap roof +8 mm brass insert.",,NOT QUOTED
+M5 removable thumb screw,8,Two under-deck fasteners per guide module. Length deck6 plus10 mm profile engagement; do not bottom in extrusion.,,NOT QUOTED
+M6 post mounting set,12,"SixM6x30 bottom, sixM6x25 top, washers/nyloc. Confirm installed stack; torque against steel backing surfaces without crushing wood.",,NOT QUOTED
+M6x35 flat-head set,16,"Four per outer frame outrigger, flush at base upper surface. Matching nyloc and washers below steel plate. Rubber foot nut reliefs required.",,NOT QUOTED
+M4 cradle screws/nuts,24,"M4x20 starting length;6 mm deck +6 mm tab +compact washer/nyloc. Right holes8/15 are7 mm apart: use heads and washersOD<=7, not wide washers; confirm sample stack. No protruding tips in servo housing.",,NOT QUOTED
+M3 crank hub screws,48,"M3x10 with1 mm washer. Four at each side of each hub. >=3 mm steel engagement, torque and threadlocker as guide.",,NOT QUOTED
+M3x35 guard screws,12,"Two per guard, into tapped rear cheek. Check that screw ends do not reach a bearing.",,NOT QUOTED
+M3x30 socket screws,12,Trim to drawing/actual tilted socket stack; thread into angled carrier M3 taps >=4 mm; tips below carrier upper face.,,NOT QUOTED
+M3 tray fasteners,28,"EightM3x16 roots; twentyM3x10 for outer braces/perimeter; low flush heads, washers/nyloc. Countersink assembled metal stack.",,NOT QUOTED
+M3 tube retaining pins,12,"M3x20 with washers/nyloc. Static pins, not rotary pivots; smooth portion across tube preferred.",,NOT QUOTED
+Heat-set inserts,26,12xM3x4x4.6OD;6xM4x8x6OD;8xM5x8x7OD. Buy spares. Fit samples govern pilot bores before printing full sets.,,NOT QUOTED
+M5 cell foot bolts,72,"M5x20/25 for36 cheek-to-angle connections and36 foot-to-deck connections. Washers/nyloc, verify actual stack, no contact with moving crank. Add12M5 tensioner pivot/clamp sets with washers; clamp hole match-drilled on first cell.",,NOT QUOTED
+8mm shaft spacers,1,"Machine/select axial shims to actual sample stack: typical3.5 mm at crank/bearing gaps and5.5 mm pulley/bearing gap, ID8.2 OD<=11.5. Record measured gaps; collars5 mm wide. Do not preload bearing outer rings through shaft spacers.",,NOT QUOTED
+Bearing retaining compound,1,"Removable retaining compound suitable22H7 aluminium/steel seats, e.g. a supplier-approved removable retaining grade according to its cure/cleaning instructions. Confirm200 N axial sample retention and service temperature; no glue in bearing.",,NOT QUOTED
+Cable anchor hardware,1,"Three captiveM3 nuts under TOP cap, threeM3x16 lower anchor screws, threeM3x8 carrier anchors with DIN439 thinM3 nuts1.8 mm thick and threadlocker; keep bolt tips at/below jointZ20 to clear brace undersides20.5. Verify actual eye/washer stack. Use suitable rated flat eye terminals and broad washers. Carrier anchor screws enter from below and finish below tray. Verify all450 mm cables stay slack but cannot enter links. Restrained catch test required.",,NOT QUOTED
+Lower joint spacers,12,"4.2ID x8OD x5 long, one each side of each P02 cross; smooth4x40 shoulder pin spans38 mm crank outer faces. Measure washer/thread lengths on first joint.",,NOT QUOTED
+Jam nuts / assorted washers,1,"12M3 pivot jam nuts,6thinM4 stud jam nuts,12M5 pad/captive nuts,24 hard-stop4 mm spacers;3.5 mm tray root spacers x8; blue medium threadlocker.",,NOT QUOTED
+Safety retention cables,3,"2 mm stainless cable with rated swaged eyes, each working load>=500N; nominal450 mm eye-to-eye, physical slack routing check required. Central anchors only; no cables across dump paths.",,NOT QUOTED
+EVA impact liner,4,"20 mm thick,358x298, bonded onto bin-facing backstops; resilient/damped, replace if cut or permanently compressed. Physical impact trial required.",,NOT QUOTED
+Chute sliding liner,4,"0.3 mm PET/PP sheet, smooth edges, bonded flush without lips. Measure actual chute after printing.",,NOT QUOTED
+Rubber support blocks,4,"40x40x20, rated>=250N each, one18x18x10 nut relief at local(-10,-10), plus three10x10x7 head reliefs at(15,15),(0,15),(15,0), relative to block centre; rotate with outrigger. See Rubber_Foot_Finishing.csv. Keep bottom below central nuts/backplate; installed under outriggers.",,NOT QUOTED
+Bin-bottom impact liner samples,4,"Begin with150 mm supplier-selected energy-absorbing cushioning and a thin HDPE load spreader, trimmed to actual R06 interior. Request drop/energy data. Grade/thickness are NOT qualified; progressive2 kg routing and empty/part-filled bin tests must show no bottoming, floor/joint damage or escape before any full purchase.",,NOT QUOTED
+Calibration tools,1,"Caliper,0.1deg inclinometer,0-100N spring scale, multimeter, torque tools; borrowed tools excluded from mechanism budget.",,NOT QUOTED

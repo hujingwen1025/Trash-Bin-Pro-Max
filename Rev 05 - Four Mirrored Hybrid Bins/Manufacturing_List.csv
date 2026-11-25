@@ -1,0 +1,26 @@
+Bin,Part,Process,Material,Thickness_mm,Quantity_set,Manufacturing_file
+B1,W01,Laser cut,Birch plywood,6,1,DWG/B1_W01.dwg
+B1,W02,Laser cut,Birch plywood,6,1,DWG/B1_W02.dwg
+B1,W03,Laser cut,Birch plywood,6,1,DWG/B1_W03.dwg
+B1,W04,Laser cut,Birch plywood,6,1,DWG/B1_W04.dwg
+B1,F01,Laser cut,Birch plywood,9,1,DWG/B1_F01.dwg
+B1,C01,3D print,PETG,,1,STL/B1_C01.stl
+B2,W01,Laser cut,Birch plywood,6,1,DWG/B2_W01.dwg
+B2,W02,Laser cut,Birch plywood,6,1,DWG/B2_W02.dwg
+B2,W03,Laser cut,Birch plywood,6,1,DWG/B2_W03.dwg
+B2,W04,Laser cut,Birch plywood,6,1,DWG/B2_W04.dwg
+B2,F01,Laser cut,Birch plywood,9,1,DWG/B2_F01.dwg
+B2,C01,3D print,PETG,,1,STL/B2_C01.stl
+B3,W01,Laser cut,Birch plywood,6,1,DWG/B3_W01.dwg
+B3,W02,Laser cut,Birch plywood,6,1,DWG/B3_W02.dwg
+B3,W03,Laser cut,Birch plywood,6,1,DWG/B3_W03.dwg
+B3,W04,Laser cut,Birch plywood,6,1,DWG/B3_W04.dwg
+B3,F01,Laser cut,Birch plywood,9,1,DWG/B3_F01.dwg
+B3,C01,3D print,PETG,,1,STL/B3_C01.stl
+B4,W01,Laser cut,Birch plywood,6,1,DWG/B4_W01.dwg
+B4,W02,Laser cut,Birch plywood,6,1,DWG/B4_W02.dwg
+B4,W03,Laser cut,Birch plywood,6,1,DWG/B4_W03.dwg
+B4,W04,Laser cut,Birch plywood,6,1,DWG/B4_W04.dwg
+B4,F01,Laser cut,Birch plywood,9,1,DWG/B4_F01.dwg
+B4,C01,3D print,PETG,,1,STL/B4_C01.stl
+ALL,M01,3D print,PETG,,16,STL/M01_magnet_insert.stl

@@ -1,0 +1,597 @@
+{
+  "revision": "R06",
+  "all_pass": true,
+  "nominal_geometry_export_sample_checks": 235,
+  "thickness_tolerance_checks": 51,
+  "repeat_identity_checks": 24,
+  "fresh_master_checks": 134,
+  "physical_tests_performed": false,
+  "material_grade_verified": false,
+  "wall_stock_range_checked_mm": [
+    5.8,
+    6.2
+  ],
+  "floor_stock_range_checked_mm": [
+    9.8,
+    10.2
+  ],
+  "assembly_datums_required": "Inside-wall faces and floor top. See tolerance report.",
+  "counts": {
+    "STL": 40,
+    "STEP": 40,
+    "DWG": 33,
+    "DXF": 33,
+    "PDF": 4
+  },
+  "pdf_pages": 77,
+  "checks": [
+    {
+      "name": "Verification.json all recorded checks pass",
+      "pass": true,
+      "checks": 235
+    },
+    {
+      "name": "Tolerance_Verification_R06.json all recorded checks pass",
+      "pass": true,
+      "checks": 51
+    },
+    {
+      "name": "Source/Master_Verification_R06.json all recorded checks pass",
+      "pass": true,
+      "checks": 134
+    },
+    {
+      "name": "All 24 structural copies match intended finished solids",
+      "pass": true
+    },
+    {
+      "name": "Delivered file counts",
+      "pass": true,
+      "counts": {
+        "STL": 40,
+        "STEP": 40,
+        "DWG": 33,
+        "DXF": 33,
+        "PDF": 4
+      }
+    },
+    {
+      "name": "B1_Assembly.stl final positive watertight mesh",
+      "pass": true
+    },
+    {
+      "name": "B1_C01.stl final positive watertight mesh",
+      "pass": true
+    },
+    {
+      "name": "B1_F01.stl final positive watertight mesh",
+      "pass": true
+    },
+    {
+      "name": "B1_W01.stl final positive watertight mesh",
+      "pass": true
+    },
+    {
+      "name": "B1_W02.stl final positive watertight mesh",
+      "pass": true
+    },
+    {
+      "name": "B1_W03.stl final positive watertight mesh",
+      "pass": true
+    },
+    {
+      "name": "B1_W04.stl final positive watertight mesh",
+      "pass": true
+    },
+    {
+      "name": "B2_Assembly.stl final positive watertight mesh",
+      "pass": true
+    },
+    {
+      "name": "B2_C01.stl final positive watertight mesh",
+      "pass": true
+    },
+    {
+      "name": "B2_F01.stl final positive watertight mesh",
+      "pass": true
+    },
+    {
+      "name": "B2_W01.stl final positive watertight mesh",
+      "pass": true
+    },
+    {
+      "name": "B2_W02.stl final positive watertight mesh",
+      "pass": true
+    },
+    {
+      "name": "B2_W03.stl final positive watertight mesh",
+      "pass": true
+    },
+    {
+      "name": "B2_W04.stl final positive watertight mesh",
+      "pass": true
+    },
+    {
+      "name": "B3_Assembly.stl final positive watertight mesh",
+      "pass": true
+    },
+    {
+      "name": "B3_C01.stl final positive watertight mesh",
+      "pass": true
+    },
+    {
+      "name": "B3_F01.stl final positive watertight mesh",
+      "pass": true
+    },
+    {
+      "name": "B3_W01.stl final positive watertight mesh",
+      "pass": true
+    },
+    {
+      "name": "B3_W02.stl final positive watertight mesh",
+      "pass": true
+    },
+    {
+      "name": "B3_W03.stl final positive watertight mesh",
+      "pass": true
+    },
+    {
+      "name": "B3_W04.stl final positive watertight mesh",
+      "pass": true
+    },
+    {
+      "name": "B4_Assembly.stl final positive watertight mesh",
+      "pass": true
+    },
+    {
+      "name": "B4_C01.stl final positive watertight mesh",
+      "pass": true
+    },
+    {
+      "name": "B4_F01.stl final positive watertight mesh",
+      "pass": true
+    },
+    {
+      "name": "B4_W01.stl final positive watertight mesh",
+      "pass": true
+    },
+    {
+      "name": "B4_W02.stl final positive watertight mesh",
+      "pass": true
+    },
+    {
+      "name": "B4_W03.stl final positive watertight mesh",
+      "pass": true
+    },
+    {
+      "name": "B4_W04.stl final positive watertight mesh",
+      "pass": true
+    },
+    {
+      "name": "Four_Bin_Layout_R06.stl final positive watertight mesh",
+      "pass": true
+    },
+    {
+      "name": "M01_magnet_insert.stl final positive watertight mesh",
+      "pass": true
+    },
+    {
+      "name": "Q01_wall_fit.stl final positive watertight mesh",
+      "pass": true
+    },
+    {
+      "name": "Q02_floor_fit.stl final positive watertight mesh",
+      "pass": true
+    },
+    {
+      "name": "Q03_wall_tab.stl final positive watertight mesh",
+      "pass": true
+    },
+    {
+      "name": "Q04_floor_tab.stl final positive watertight mesh",
+      "pass": true
+    },
+    {
+      "name": "Q05_curve_joint_sample.stl final positive watertight mesh",
+      "pass": true
+    },
+    {
+      "name": "Q06_curve_wall_sample.stl final positive watertight mesh",
+      "pass": true
+    },
+    {
+      "name": "Q07_insert_fit.stl final positive watertight mesh",
+      "pass": true
+    },
+    {
+      "name": "Q08_floor_wall_tab.stl final positive watertight mesh",
+      "pass": true
+    },
+    {
+      "name": "Q09_curve_floor_sample.stl final positive watertight mesh",
+      "pass": true
+    },
+    {
+      "name": "Q10_floor_corner_sample.stl final positive watertight mesh",
+      "pass": true
+    },
+    {
+      "name": "B1_F01 has nominal 10 mm thickness",
+      "pass": true
+    },
+    {
+      "name": "B2_F01 has nominal 10 mm thickness",
+      "pass": true
+    },
+    {
+      "name": "B3_F01 has nominal 10 mm thickness",
+      "pass": true
+    },
+    {
+      "name": "B4_F01 has nominal 10 mm thickness",
+      "pass": true
+    },
+    {
+      "name": "M01_magnet_insert has nominal 10 mm thickness",
+      "pass": true
+    },
+    {
+      "name": "Q02_floor_fit has nominal 10 mm thickness",
+      "pass": true
+    },
+    {
+      "name": "Q04_floor_tab has nominal 10 mm thickness",
+      "pass": true
+    },
+    {
+      "name": "Q07_insert_fit has nominal 10 mm thickness",
+      "pass": true
+    },
+    {
+      "name": "Q10_floor_corner_sample has nominal 10 mm thickness",
+      "pass": true
+    },
+    {
+      "name": "B1_W01 remains 6 mm wall",
+      "pass": true
+    },
+    {
+      "name": "B1_W02 remains 6 mm wall",
+      "pass": true
+    },
+    {
+      "name": "B1_W03 remains 6 mm wall",
+      "pass": true
+    },
+    {
+      "name": "B1_W04 remains 6 mm wall",
+      "pass": true
+    },
+    {
+      "name": "B2_W01 remains 6 mm wall",
+      "pass": true
+    },
+    {
+      "name": "B2_W02 remains 6 mm wall",
+      "pass": true
+    },
+    {
+      "name": "B2_W03 remains 6 mm wall",
+      "pass": true
+    },
+    {
+      "name": "B2_W04 remains 6 mm wall",
+      "pass": true
+    },
+    {
+      "name": "B3_W01 remains 6 mm wall",
+      "pass": true
+    },
+    {
+      "name": "B3_W02 remains 6 mm wall",
+      "pass": true
+    },
+    {
+      "name": "B3_W03 remains 6 mm wall",
+      "pass": true
+    },
+    {
+      "name": "B3_W04 remains 6 mm wall",
+      "pass": true
+    },
+    {
+      "name": "B4_W01 remains 6 mm wall",
+      "pass": true
+    },
+    {
+      "name": "B4_W02 remains 6 mm wall",
+      "pass": true
+    },
+    {
+      "name": "B4_W03 remains 6 mm wall",
+      "pass": true
+    },
+    {
+      "name": "B4_W04 remains 6 mm wall",
+      "pass": true
+    },
+    {
+      "name": "Per-instance list uses new floor thickness and actual files",
+      "pass": true
+    },
+    {
+      "name": "Consolidated order totals 40 pieces with 10 mm floors",
+      "pass": true
+    },
+    {
+      "name": "Four blank profiles produce 20 plywood parts",
+      "pass": true
+    },
+    {
+      "name": "01_Laser_Cut/DWG/B1_W02.dwg matches R06 original",
+      "pass": true
+    },
+    {
+      "name": "01_Laser_Cut/DWG/B1_W03.dwg matches R06 original",
+      "pass": true
+    },
+    {
+      "name": "01_Laser_Cut/DWG/B1_W01.dwg matches R06 original",
+      "pass": true
+    },
+    {
+      "name": "01_Laser_Cut/DWG/B1_F01.dwg matches R06 original",
+      "pass": true
+    },
+    {
+      "name": "01_Laser_Cut/Alternative_DXF/B1_F01.dxf matches R06 original",
+      "pass": true
+    },
+    {
+      "name": "01_Laser_Cut/Alternative_DXF/B1_W01.dxf matches R06 original",
+      "pass": true
+    },
+    {
+      "name": "01_Laser_Cut/Alternative_DXF/B1_W03.dxf matches R06 original",
+      "pass": true
+    },
+    {
+      "name": "01_Laser_Cut/Alternative_DXF/B1_W02.dxf matches R06 original",
+      "pass": true
+    },
+    {
+      "name": "02_Finished_STEP/B1_W01.step matches R06 original",
+      "pass": true
+    },
+    {
+      "name": "02_Finished_STEP/B1_C01.step matches R06 original",
+      "pass": true
+    },
+    {
+      "name": "02_Finished_STEP/B1_W04.step matches R06 original",
+      "pass": true
+    },
+    {
+      "name": "02_Finished_STEP/B2_C01.step matches R06 original",
+      "pass": true
+    },
+    {
+      "name": "02_Finished_STEP/M01_magnet_insert.step matches R06 original",
+      "pass": true
+    },
+    {
+      "name": "02_Finished_STEP/B1_W02.step matches R06 original",
+      "pass": true
+    },
+    {
+      "name": "02_Finished_STEP/B1_F01.step matches R06 original",
+      "pass": true
+    },
+    {
+      "name": "02_Finished_STEP/B1_W03.step matches R06 original",
+      "pass": true
+    },
+    {
+      "name": "03_3D_Print_STL/B2_C01.stl matches R06 original",
+      "pass": true
+    },
+    {
+      "name": "03_3D_Print_STL/B1_C01.stl matches R06 original",
+      "pass": true
+    },
+    {
+      "name": "03_3D_Print_STL/M01_magnet_insert.stl matches R06 original",
+      "pass": true
+    },
+    {
+      "name": "04_Calibration/DWG/Q06_curve_wall_sample.dwg matches R06 original",
+      "pass": true
+    },
+    {
+      "name": "04_Calibration/DWG/Q04_floor_tab.dwg matches R06 original",
+      "pass": true
+    },
+    {
+      "name": "04_Calibration/DWG/Q03_wall_tab.dwg matches R06 original",
+      "pass": true
+    },
+    {
+      "name": "04_Calibration/DWG/Q02_floor_fit.dwg matches R06 original",
+      "pass": true
+    },
+    {
+      "name": "04_Calibration/DWG/Q08_floor_wall_tab.dwg matches R06 original",
+      "pass": true
+    },
+    {
+      "name": "04_Calibration/DWG/Q10_floor_corner_sample.dwg matches R06 original",
+      "pass": true
+    },
+    {
+      "name": "04_Calibration/DWG/Q01_wall_fit.dwg matches R06 original",
+      "pass": true
+    },
+    {
+      "name": "04_Calibration/DWG/Q07_insert_fit.dwg matches R06 original",
+      "pass": true
+    },
+    {
+      "name": "04_Calibration/STL/Q05_curve_joint_sample.stl matches R06 original",
+      "pass": true
+    },
+    {
+      "name": "04_Calibration/STL/Q09_curve_floor_sample.stl matches R06 original",
+      "pass": true
+    },
+    {
+      "name": "05_Assembly_Reference/Dimensioned_Parts_and_Layouts_R06.pdf matches R06 original",
+      "pass": true
+    },
+    {
+      "name": "05_Assembly_Reference/Manufacturing_and_Assembly_Guide_R06.pdf matches R06 original",
+      "pass": true
+    },
+    {
+      "name": "Guide all exact file references exist",
+      "pass": true
+    },
+    {
+      "name": "Guide quantities match orders",
+      "pass": true
+    },
+    {
+      "name": "Manufacturing_and_Assembly_Guide_R06.pdf page count and text",
+      "pass": true,
+      "pages": 20
+    },
+    {
+      "name": "Manufacturing_and_Assembly_Guide_R06.pdf no replacement glyphs",
+      "pass": true
+    },
+    {
+      "name": "Dimensioned_Parts_and_Layouts_R06.pdf page count and text",
+      "pass": true,
+      "pages": 26
+    },
+    {
+      "name": "Dimensioned_Parts_and_Layouts_R06.pdf no replacement glyphs",
+      "pass": true
+    },
+    {
+      "name": "Full_Scale_Cutting_Profiles_R06.pdf page count and text",
+      "pass": true,
+      "pages": 28
+    },
+    {
+      "name": "Full_Scale_Cutting_Profiles_R06.pdf no replacement glyphs",
+      "pass": true
+    },
+    {
+      "name": "Repeat_Part_Order_R06.pdf page count and text",
+      "pass": true,
+      "pages": 3
+    },
+    {
+      "name": "Repeat_Part_Order_R06.pdf no replacement glyphs",
+      "pass": true
+    },
+    {
+      "name": "Full-scale Q10 is 10 mm stock",
+      "pass": true
+    },
+    {
+      "name": "B1_F01 1:1 page size",
+      "pass": true
+    },
+    {
+      "name": "B1_W01 1:1 page size",
+      "pass": true
+    },
+    {
+      "name": "B1_W02 1:1 page size",
+      "pass": true
+    },
+    {
+      "name": "B1_W03 1:1 page size",
+      "pass": true
+    },
+    {
+      "name": "B1_W04 1:1 page size",
+      "pass": true
+    },
+    {
+      "name": "B2_F01 1:1 page size",
+      "pass": true
+    },
+    {
+      "name": "B2_W01 1:1 page size",
+      "pass": true
+    },
+    {
+      "name": "B2_W02 1:1 page size",
+      "pass": true
+    },
+    {
+      "name": "B2_W03 1:1 page size",
+      "pass": true
+    },
+    {
+      "name": "B2_W04 1:1 page size",
+      "pass": true
+    },
+    {
+      "name": "B3_F01 1:1 page size",
+      "pass": true
+    },
+    {
+      "name": "B3_W01 1:1 page size",
+      "pass": true
+    },
+    {
+      "name": "B3_W02 1:1 page size",
+      "pass": true
+    },
+    {
+      "name": "B3_W03 1:1 page size",
+      "pass": true
+    },
+    {
+      "name": "B3_W04 1:1 page size",
+      "pass": true
+    },
+    {
+      "name": "B4_F01 1:1 page size",
+      "pass": true
+    },
+    {
+      "name": "B4_W01 1:1 page size",
+      "pass": true
+    },
+    {
+      "name": "B4_W02 1:1 page size",
+      "pass": true
+    },
+    {
+      "name": "B4_W03 1:1 page size",
+      "pass": true
+    },
+    {
+      "name": "B4_W04 1:1 page size",
+      "pass": true
+    },
+    {
+      "name": "Q10_floor_corner_sample 1:1 page size",
+      "pass": true
+    },
+    {
+      "name": "Chinese staged-release instructions present",
+      "pass": true
+    },
+    {
+      "name": "All PDF pages visually reviewed after rendering",
+      "pass": true,
+      "pages": 77,
+      "details": "20 guide +26 drawings +28 full-scale +3 order. Revised page9 header, M01 note and order-page2 underside note re-rendered and inspected."
+    }
+  ]
+}

@@ -1,0 +1,658 @@
+{
+  "writer": "ODA File Converter",
+  "independent_reader": "LibreDWG",
+  "format": "R2000 AC1015",
+  "tests": [
+    {
+      "file": "01_Metal/DWG/BASE_Drill_Template.dwg",
+      "pass": true,
+      "entities": 24,
+      "roundtrip_equal": true,
+      "coordinate_tolerance_mm": 1e-06,
+      "layers_and_closed_flags_verified": true,
+      "units": 4,
+      "independent_reader_returncode": 0
+    },
+    {
+      "file": "01_Metal/DWG/M01_Post_Endcap.dwg",
+      "pass": true,
+      "entities": 14,
+      "roundtrip_equal": true,
+      "coordinate_tolerance_mm": 1e-06,
+      "layers_and_closed_flags_verified": true,
+      "units": 4,
+      "independent_reader_returncode": 0
+    },
+    {
+      "file": "01_Metal/DWG/M02_Post_Core.dwg",
+      "pass": true,
+      "entities": 22,
+      "roundtrip_equal": true,
+      "coordinate_tolerance_mm": 1e-06,
+      "layers_and_closed_flags_verified": true,
+      "units": 4,
+      "independent_reader_returncode": 0
+    },
+    {
+      "file": "01_Metal/DWG/M03_Base_Backplate.dwg",
+      "pass": true,
+      "entities": 8,
+      "roundtrip_equal": true,
+      "coordinate_tolerance_mm": 1e-06,
+      "layers_and_closed_flags_verified": true,
+      "units": 4,
+      "independent_reader_returncode": 0
+    },
+    {
+      "file": "01_Metal/DWG/M04_INSTALLED_REFERENCE.dwg",
+      "pass": true,
+      "entities": 22,
+      "roundtrip_equal": true,
+      "coordinate_tolerance_mm": 1e-06,
+      "layers_and_closed_flags_verified": true,
+      "units": 4,
+      "independent_reader_returncode": 0
+    },
+    {
+      "file": "01_Metal/DWG/M04_Internal_Splice.dwg",
+      "pass": true,
+      "entities": 2,
+      "roundtrip_equal": true,
+      "coordinate_tolerance_mm": 1e-06,
+      "layers_and_closed_flags_verified": true,
+      "units": 4,
+      "independent_reader_returncode": 0
+    },
+    {
+      "file": "01_Metal/DWG/M04_Post_Shroud_Blank.dwg",
+      "pass": true,
+      "entities": 2,
+      "roundtrip_equal": true,
+      "coordinate_tolerance_mm": 1e-06,
+      "layers_and_closed_flags_verified": true,
+      "units": 4,
+      "independent_reader_returncode": 0
+    },
+    {
+      "file": "01_Metal/DWG/M05_Bearing_Cheek.dwg",
+      "pass": true,
+      "entities": 9,
+      "roundtrip_equal": true,
+      "coordinate_tolerance_mm": 1e-06,
+      "layers_and_closed_flags_verified": true,
+      "units": 4,
+      "independent_reader_returncode": 0
+    },
+    {
+      "file": "01_Metal/DWG/M05_Bearing_Cheek_D1_FINISHED.dwg",
+      "pass": true,
+      "entities": 11,
+      "roundtrip_equal": true,
+      "coordinate_tolerance_mm": 1e-06,
+      "layers_and_closed_flags_verified": true,
+      "units": 4,
+      "independent_reader_returncode": 0
+    },
+    {
+      "file": "01_Metal/DWG/M05_Bearing_Cheek_D2_FINISHED.dwg",
+      "pass": true,
+      "entities": 11,
+      "roundtrip_equal": true,
+      "coordinate_tolerance_mm": 1e-06,
+      "layers_and_closed_flags_verified": true,
+      "units": 4,
+      "independent_reader_returncode": 0
+    },
+    {
+      "file": "01_Metal/DWG/M05_Bearing_Cheek_D3_FINISHED.dwg",
+      "pass": true,
+      "entities": 11,
+      "roundtrip_equal": true,
+      "coordinate_tolerance_mm": 1e-06,
+      "layers_and_closed_flags_verified": true,
+      "units": 4,
+      "independent_reader_returncode": 0
+    },
+    {
+      "file": "01_Metal/DWG/M05_Bearing_Cheek_D4_FINISHED.dwg",
+      "pass": true,
+      "entities": 11,
+      "roundtrip_equal": true,
+      "coordinate_tolerance_mm": 1e-06,
+      "layers_and_closed_flags_verified": true,
+      "units": 4,
+      "independent_reader_returncode": 0
+    },
+    {
+      "file": "01_Metal/DWG/M05_Bearing_Cheek_D5_FINISHED.dwg",
+      "pass": true,
+      "entities": 11,
+      "roundtrip_equal": true,
+      "coordinate_tolerance_mm": 1e-06,
+      "layers_and_closed_flags_verified": true,
+      "units": 4,
+      "independent_reader_returncode": 0
+    },
+    {
+      "file": "01_Metal/DWG/M05_Bearing_Cheek_D6_FINISHED.dwg",
+      "pass": true,
+      "entities": 11,
+      "roundtrip_equal": true,
+      "coordinate_tolerance_mm": 1e-06,
+      "layers_and_closed_flags_verified": true,
+      "units": 4,
+      "independent_reader_returncode": 0
+    },
+    {
+      "file": "01_Metal/DWG/M06_Crank_Plate.dwg",
+      "pass": true,
+      "entities": 8,
+      "roundtrip_equal": true,
+      "coordinate_tolerance_mm": 1e-06,
+      "layers_and_closed_flags_verified": true,
+      "units": 4,
+      "independent_reader_returncode": 0
+    },
+    {
+      "file": "01_Metal/DWG/M07_Servo_Horn_Adapter.dwg",
+      "pass": true,
+      "entities": 70,
+      "roundtrip_equal": true,
+      "coordinate_tolerance_mm": 1e-06,
+      "layers_and_closed_flags_verified": true,
+      "units": 4,
+      "independent_reader_returncode": 0
+    },
+    {
+      "file": "01_Metal/DWG/M08_Fixed_Deck.dwg",
+      "pass": true,
+      "entities": 88,
+      "roundtrip_equal": true,
+      "coordinate_tolerance_mm": 1e-06,
+      "layers_and_closed_flags_verified": true,
+      "units": 4,
+      "independent_reader_returncode": 0
+    },
+    {
+      "file": "01_Metal/DWG/M09_Moving_Carrier.dwg",
+      "pass": true,
+      "entities": 37,
+      "roundtrip_equal": true,
+      "coordinate_tolerance_mm": 1e-06,
+      "layers_and_closed_flags_verified": true,
+      "units": 4,
+      "independent_reader_returncode": 0
+    },
+    {
+      "file": "01_Metal/DWG/M10_Tray.dwg",
+      "pass": true,
+      "entities": 30,
+      "roundtrip_equal": true,
+      "coordinate_tolerance_mm": 1e-06,
+      "layers_and_closed_flags_verified": true,
+      "units": 4,
+      "independent_reader_returncode": 0
+    },
+    {
+      "file": "01_Metal/DWG/M11_FLAT_BLANK.dwg",
+      "pass": true,
+      "entities": 6,
+      "roundtrip_equal": true,
+      "coordinate_tolerance_mm": 1e-06,
+      "layers_and_closed_flags_verified": true,
+      "units": 4,
+      "independent_reader_returncode": 0
+    },
+    {
+      "file": "01_Metal/DWG/M11_Tray_Hat_Brace.dwg",
+      "pass": true,
+      "entities": 172,
+      "roundtrip_equal": true,
+      "coordinate_tolerance_mm": 1e-06,
+      "layers_and_closed_flags_verified": true,
+      "units": 4,
+      "independent_reader_returncode": 0
+    },
+    {
+      "file": "01_Metal/DWG/M12_Ball_Stud.dwg",
+      "pass": true,
+      "entities": 16,
+      "roundtrip_equal": true,
+      "coordinate_tolerance_mm": 1e-06,
+      "layers_and_closed_flags_verified": true,
+      "units": 4,
+      "independent_reader_returncode": 0
+    },
+    {
+      "file": "01_Metal/DWG/M13_Link_Tube.dwg",
+      "pass": true,
+      "entities": 82,
+      "roundtrip_equal": true,
+      "coordinate_tolerance_mm": 1e-06,
+      "layers_and_closed_flags_verified": true,
+      "units": 4,
+      "independent_reader_returncode": 0
+    },
+    {
+      "file": "01_Metal/DWG/M14_Angle_Foot.dwg",
+      "pass": true,
+      "entities": 124,
+      "roundtrip_equal": true,
+      "coordinate_tolerance_mm": 1e-06,
+      "layers_and_closed_flags_verified": true,
+      "units": 4,
+      "independent_reader_returncode": 0
+    },
+    {
+      "file": "01_Metal/DWG/M15_Belt_Tensioner.dwg",
+      "pass": true,
+      "entities": 4,
+      "roundtrip_equal": true,
+      "coordinate_tolerance_mm": 1e-06,
+      "layers_and_closed_flags_verified": true,
+      "units": 4,
+      "independent_reader_returncode": 0
+    },
+    {
+      "file": "01_Metal/DWG/M16_Smooth_Tip_Pivot.dwg",
+      "pass": true,
+      "entities": 13,
+      "roundtrip_equal": true,
+      "coordinate_tolerance_mm": 1e-06,
+      "layers_and_closed_flags_verified": true,
+      "units": 4,
+      "independent_reader_returncode": 0
+    },
+    {
+      "file": "01_Metal/DWG/M17_Front_Output_Cheek.dwg",
+      "pass": true,
+      "entities": 5,
+      "roundtrip_equal": true,
+      "coordinate_tolerance_mm": 1e-06,
+      "layers_and_closed_flags_verified": true,
+      "units": 4,
+      "independent_reader_returncode": 0
+    },
+    {
+      "file": "01_Metal/DWG/M17_Front_Output_Cheek_D1_FINISHED.dwg",
+      "pass": true,
+      "entities": 7,
+      "roundtrip_equal": true,
+      "coordinate_tolerance_mm": 1e-06,
+      "layers_and_closed_flags_verified": true,
+      "units": 4,
+      "independent_reader_returncode": 0
+    },
+    {
+      "file": "01_Metal/DWG/M17_Front_Output_Cheek_D2_FINISHED.dwg",
+      "pass": true,
+      "entities": 7,
+      "roundtrip_equal": true,
+      "coordinate_tolerance_mm": 1e-06,
+      "layers_and_closed_flags_verified": true,
+      "units": 4,
+      "independent_reader_returncode": 0
+    },
+    {
+      "file": "01_Metal/DWG/M17_Front_Output_Cheek_D3_FINISHED.dwg",
+      "pass": true,
+      "entities": 7,
+      "roundtrip_equal": true,
+      "coordinate_tolerance_mm": 1e-06,
+      "layers_and_closed_flags_verified": true,
+      "units": 4,
+      "independent_reader_returncode": 0
+    },
+    {
+      "file": "01_Metal/DWG/M17_Front_Output_Cheek_D4_FINISHED.dwg",
+      "pass": true,
+      "entities": 7,
+      "roundtrip_equal": true,
+      "coordinate_tolerance_mm": 1e-06,
+      "layers_and_closed_flags_verified": true,
+      "units": 4,
+      "independent_reader_returncode": 0
+    },
+    {
+      "file": "01_Metal/DWG/M17_Front_Output_Cheek_D5_FINISHED.dwg",
+      "pass": true,
+      "entities": 7,
+      "roundtrip_equal": true,
+      "coordinate_tolerance_mm": 1e-06,
+      "layers_and_closed_flags_verified": true,
+      "units": 4,
+      "independent_reader_returncode": 0
+    },
+    {
+      "file": "01_Metal/DWG/M17_Front_Output_Cheek_D6_FINISHED.dwg",
+      "pass": true,
+      "entities": 7,
+      "roundtrip_equal": true,
+      "coordinate_tolerance_mm": 1e-06,
+      "layers_and_closed_flags_verified": true,
+      "units": 4,
+      "independent_reader_returncode": 0
+    },
+    {
+      "file": "01_Metal/DWG/M18_Tray_Perimeter_Frame.dwg",
+      "pass": true,
+      "entities": 328,
+      "roundtrip_equal": true,
+      "coordinate_tolerance_mm": 1e-06,
+      "layers_and_closed_flags_verified": true,
+      "units": 4,
+      "independent_reader_returncode": 0
+    },
+    {
+      "file": "01_Metal/DWG/M19_Double_Crank_Hub.dwg",
+      "pass": true,
+      "entities": 130,
+      "roundtrip_equal": true,
+      "coordinate_tolerance_mm": 1e-06,
+      "layers_and_closed_flags_verified": true,
+      "units": 4,
+      "independent_reader_returncode": 0
+    },
+    {
+      "file": "01_Metal/DWG/M20_Output_Shaft.dwg",
+      "pass": true,
+      "entities": 49,
+      "roundtrip_equal": true,
+      "coordinate_tolerance_mm": 1e-06,
+      "layers_and_closed_flags_verified": true,
+      "units": 4,
+      "independent_reader_returncode": 0
+    },
+    {
+      "file": "01_Metal/DWG/M21_Input_Shaft.dwg",
+      "pass": true,
+      "entities": 49,
+      "roundtrip_equal": true,
+      "coordinate_tolerance_mm": 1e-06,
+      "layers_and_closed_flags_verified": true,
+      "units": 4,
+      "independent_reader_returncode": 0
+    },
+    {
+      "file": "01_Metal/DWG/M22_Parallel_Key.dwg",
+      "pass": true,
+      "entities": 40,
+      "roundtrip_equal": true,
+      "coordinate_tolerance_mm": 1e-06,
+      "layers_and_closed_flags_verified": true,
+      "units": 4,
+      "independent_reader_returncode": 0
+    },
+    {
+      "file": "01_Metal/DWG/M23_Frame_Outrigger.dwg",
+      "pass": true,
+      "entities": 9,
+      "roundtrip_equal": true,
+      "coordinate_tolerance_mm": 1e-06,
+      "layers_and_closed_flags_verified": true,
+      "units": 4,
+      "independent_reader_returncode": 0
+    },
+    {
+      "file": "01_Metal/DWG/M24_Backstop_Panel.dwg",
+      "pass": true,
+      "entities": 8,
+      "roundtrip_equal": true,
+      "coordinate_tolerance_mm": 1e-06,
+      "layers_and_closed_flags_verified": true,
+      "units": 4,
+      "independent_reader_returncode": 0
+    },
+    {
+      "file": "01_Metal/DWG/M25_Short_Backstop_Bridge.dwg",
+      "pass": true,
+      "entities": 4,
+      "roundtrip_equal": true,
+      "coordinate_tolerance_mm": 1e-06,
+      "layers_and_closed_flags_verified": true,
+      "units": 4,
+      "independent_reader_returncode": 0
+    },
+    {
+      "file": "01_Metal/DWG/M26_Anti_Rack_Bridge.dwg",
+      "pass": true,
+      "entities": 4,
+      "roundtrip_equal": true,
+      "coordinate_tolerance_mm": 1e-06,
+      "layers_and_closed_flags_verified": true,
+      "units": 4,
+      "independent_reader_returncode": 0
+    },
+    {
+      "file": "01_Metal/DWG/M28_Radial_Deck_Rib.dwg",
+      "pass": true,
+      "entities": 2,
+      "roundtrip_equal": true,
+      "coordinate_tolerance_mm": 1e-06,
+      "layers_and_closed_flags_verified": true,
+      "units": 4,
+      "independent_reader_returncode": 0
+    },
+    {
+      "file": "02_Print/DWG/P01_Servo_Cradle.dwg",
+      "pass": true,
+      "entities": 727,
+      "roundtrip_equal": true,
+      "coordinate_tolerance_mm": 1e-06,
+      "layers_and_closed_flags_verified": true,
+      "units": 4,
+      "independent_reader_returncode": 0
+    },
+    {
+      "file": "02_Print/DWG/P02_U_Joint_Cross.dwg",
+      "pass": true,
+      "entities": 58,
+      "roundtrip_equal": true,
+      "coordinate_tolerance_mm": 1e-06,
+      "layers_and_closed_flags_verified": true,
+      "units": 4,
+      "independent_reader_returncode": 0
+    },
+    {
+      "file": "02_Print/DWG/P03_Lower_Rod_Fork.dwg",
+      "pass": true,
+      "entities": 226,
+      "roundtrip_equal": true,
+      "coordinate_tolerance_mm": 1e-06,
+      "layers_and_closed_flags_verified": true,
+      "units": 4,
+      "independent_reader_returncode": 0
+    },
+    {
+      "file": "02_Print/DWG/P04_Ball_Socket_Half.dwg",
+      "pass": true,
+      "entities": 187,
+      "roundtrip_equal": true,
+      "coordinate_tolerance_mm": 1e-06,
+      "layers_and_closed_flags_verified": true,
+      "units": 4,
+      "independent_reader_returncode": 0
+    },
+    {
+      "file": "02_Print/DWG/P05_Upper_Rod_Coupler.dwg",
+      "pass": true,
+      "entities": 61,
+      "roundtrip_equal": true,
+      "coordinate_tolerance_mm": 1e-06,
+      "layers_and_closed_flags_verified": true,
+      "units": 4,
+      "independent_reader_returncode": 0
+    },
+    {
+      "file": "02_Print/DWG/P06_Discharge_Guide.dwg",
+      "pass": true,
+      "entities": 586,
+      "roundtrip_equal": true,
+      "coordinate_tolerance_mm": 1e-06,
+      "layers_and_closed_flags_verified": true,
+      "units": 4,
+      "independent_reader_returncode": 0
+    },
+    {
+      "file": "02_Print/DWG/P07_Guide_Post_Cap.dwg",
+      "pass": true,
+      "entities": 85,
+      "roundtrip_equal": true,
+      "coordinate_tolerance_mm": 1e-06,
+      "layers_and_closed_flags_verified": true,
+      "units": 4,
+      "independent_reader_returncode": 0
+    },
+    {
+      "file": "02_Print/DWG/P08_Rest_Pad.dwg",
+      "pass": true,
+      "entities": 31,
+      "roundtrip_equal": true,
+      "coordinate_tolerance_mm": 1e-06,
+      "layers_and_closed_flags_verified": true,
+      "units": 4,
+      "independent_reader_returncode": 0
+    },
+    {
+      "file": "02_Print/DWG/P09_Socket_Wedge_L1.dwg",
+      "pass": true,
+      "entities": 100,
+      "roundtrip_equal": true,
+      "coordinate_tolerance_mm": 1e-06,
+      "layers_and_closed_flags_verified": true,
+      "units": 4,
+      "independent_reader_returncode": 0
+    },
+    {
+      "file": "02_Print/DWG/P09_Socket_Wedge_L2.dwg",
+      "pass": true,
+      "entities": 100,
+      "roundtrip_equal": true,
+      "coordinate_tolerance_mm": 1e-06,
+      "layers_and_closed_flags_verified": true,
+      "units": 4,
+      "independent_reader_returncode": 0
+    },
+    {
+      "file": "02_Print/DWG/P09_Socket_Wedge_L3.dwg",
+      "pass": true,
+      "entities": 100,
+      "roundtrip_equal": true,
+      "coordinate_tolerance_mm": 1e-06,
+      "layers_and_closed_flags_verified": true,
+      "units": 4,
+      "independent_reader_returncode": 0
+    },
+    {
+      "file": "02_Print/DWG/P09_Socket_Wedge_L4.dwg",
+      "pass": true,
+      "entities": 100,
+      "roundtrip_equal": true,
+      "coordinate_tolerance_mm": 1e-06,
+      "layers_and_closed_flags_verified": true,
+      "units": 4,
+      "independent_reader_returncode": 0
+    },
+    {
+      "file": "02_Print/DWG/P09_Socket_Wedge_L5.dwg",
+      "pass": true,
+      "entities": 100,
+      "roundtrip_equal": true,
+      "coordinate_tolerance_mm": 1e-06,
+      "layers_and_closed_flags_verified": true,
+      "units": 4,
+      "independent_reader_returncode": 0
+    },
+    {
+      "file": "02_Print/DWG/P09_Socket_Wedge_L6.dwg",
+      "pass": true,
+      "entities": 100,
+      "roundtrip_equal": true,
+      "coordinate_tolerance_mm": 1e-06,
+      "layers_and_closed_flags_verified": true,
+      "units": 4,
+      "independent_reader_returncode": 0
+    },
+    {
+      "file": "02_Print/DWG/P10_Belt_Guard.dwg",
+      "pass": true,
+      "entities": 3586,
+      "roundtrip_equal": true,
+      "coordinate_tolerance_mm": 1e-06,
+      "layers_and_closed_flags_verified": true,
+      "units": 4,
+      "independent_reader_returncode": 0
+    },
+    {
+      "file": "02_Print/DWG/Q01_Fit_Ladder.dwg",
+      "pass": true,
+      "entities": 76,
+      "roundtrip_equal": true,
+      "coordinate_tolerance_mm": 1e-06,
+      "layers_and_closed_flags_verified": true,
+      "units": 4,
+      "independent_reader_returncode": 0
+    },
+    {
+      "file": "02_Print/DWG/Q02_Stop_Template_D1.dwg",
+      "pass": true,
+      "entities": 67,
+      "roundtrip_equal": true,
+      "coordinate_tolerance_mm": 1e-06,
+      "layers_and_closed_flags_verified": true,
+      "units": 4,
+      "independent_reader_returncode": 0
+    },
+    {
+      "file": "02_Print/DWG/Q02_Stop_Template_D2.dwg",
+      "pass": true,
+      "entities": 67,
+      "roundtrip_equal": true,
+      "coordinate_tolerance_mm": 1e-06,
+      "layers_and_closed_flags_verified": true,
+      "units": 4,
+      "independent_reader_returncode": 0
+    },
+    {
+      "file": "02_Print/DWG/Q02_Stop_Template_D3.dwg",
+      "pass": true,
+      "entities": 67,
+      "roundtrip_equal": true,
+      "coordinate_tolerance_mm": 1e-06,
+      "layers_and_closed_flags_verified": true,
+      "units": 4,
+      "independent_reader_returncode": 0
+    },
+    {
+      "file": "02_Print/DWG/Q02_Stop_Template_D4.dwg",
+      "pass": true,
+      "entities": 67,
+      "roundtrip_equal": true,
+      "coordinate_tolerance_mm": 1e-06,
+      "layers_and_closed_flags_verified": true,
+      "units": 4,
+      "independent_reader_returncode": 0
+    },
+    {
+      "file": "02_Print/DWG/Q02_Stop_Template_D5.dwg",
+      "pass": true,
+      "entities": 67,
+      "roundtrip_equal": true,
+      "coordinate_tolerance_mm": 1e-06,
+      "layers_and_closed_flags_verified": true,
+      "units": 4,
+      "independent_reader_returncode": 0
+    },
+    {
+      "file": "02_Print/DWG/Q02_Stop_Template_D6.dwg",
+      "pass": true,
+      "entities": 67,
+      "roundtrip_equal": true,
+      "coordinate_tolerance_mm": 1e-06,
+      "layers_and_closed_flags_verified": true,
+      "units": 4,
+      "independent_reader_returncode": 0
+    }
+  ],
+  "all_passed": true
+}

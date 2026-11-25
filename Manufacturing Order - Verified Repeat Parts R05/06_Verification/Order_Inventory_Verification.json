@@ -1,0 +1,16 @@
+{
+  "finished_plywood_pieces": 20,
+  "printed_curves": 4,
+  "printed_inserts": 16,
+  "laser_profile_files": 4,
+  "finished_short_wall_A": 4,
+  "finished_short_wall_B": 4,
+  "structural_instance_checks": 24,
+  "all_pass": true,
+  "physical_tests_performed": false,
+  "native_files_unchanged_from_R05": true,
+  "pdf_pages": 2,
+  "order_pdf_visually_reviewed_pages": 2,
+  "quantity_csv_checks_pass": true,
+  "unique_assembly_labels": 24
+}

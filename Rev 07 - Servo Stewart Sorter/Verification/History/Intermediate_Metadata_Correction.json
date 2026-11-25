@@ -1,0 +1,5 @@
+{
+  "scope": "Carrier machining-axis CSV direction and positive screw length only; no CAD solids or profiles changed",
+  "axis": "from socket head toward carrier top",
+  "CAD_geometry_unchanged": true
+}

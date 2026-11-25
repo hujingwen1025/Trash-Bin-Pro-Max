@@ -1,0 +1,85 @@
+PASS M01_Post_Endcap solid and export
+PASS M02_Post_Core solid and export
+PASS M03_Base_Backplate solid and export
+PASS M04_Post_Shroud_Blank solid and export
+PASS M04_Internal_Splice solid and export
+PASS M04_INSTALLED_REFERENCE solid and export
+PASS M05_Bearing_Cheek solid and export
+PASS M06_Crank_Plate solid and export
+PASS M07_Servo_Horn_Adapter solid and export
+PASS M08_Fixed_Deck solid and export
+PASS M09_Moving_Carrier solid and export
+PASS M10_Tray solid and export
+PASS M11_Tray_Hat_Brace solid and export
+PASS M11_FLAT_BLANK solid and export
+PASS P01_Servo_Cradle solid and export
+PASS P02_U_Joint_Cross solid and export
+PASS P03_Lower_Rod_Fork solid and export
+PASS P04_Ball_Socket_Half solid and export
+PASS M12_Ball_Stud solid and export
+PASS P05_Upper_Rod_Coupler solid and export
+PASS M13_Link_Tube solid and export
+PASS P09_Socket_Wedge_L1 solid and export
+PASS P09_Socket_Wedge_L2 solid and export
+PASS P09_Socket_Wedge_L3 solid and export
+PASS P09_Socket_Wedge_L4 solid and export
+PASS P09_Socket_Wedge_L5 solid and export
+PASS P09_Socket_Wedge_L6 solid and export
+PASS P06_Discharge_Guide solid and export
+PASS P07_Guide_Post_Cap solid and export
+PASS P08_Rest_Pad solid and export
+PASS M14_Angle_Foot solid and export
+PASS M17_Front_Output_Cheek solid and export
+PASS M15_Belt_Tensioner solid and export
+PASS M16_Smooth_Tip_Pivot solid and export
+PASS M18_Tray_Perimeter_Frame solid and export
+PASS P10_Belt_Guard solid and export
+PASS Q02_Stop_Template_D1 solid and export
+PASS M05_Bearing_Cheek_D1_FINISHED solid and export
+PASS M17_Front_Output_Cheek_D1_FINISHED solid and export
+PASS Q02_Stop_Template_D2 solid and export
+PASS M05_Bearing_Cheek_D2_FINISHED solid and export
+PASS M17_Front_Output_Cheek_D2_FINISHED solid and export
+PASS Q02_Stop_Template_D3 solid and export
+PASS M05_Bearing_Cheek_D3_FINISHED solid and export
+PASS M17_Front_Output_Cheek_D3_FINISHED solid and export
+PASS Q02_Stop_Template_D4 solid and export
+PASS M05_Bearing_Cheek_D4_FINISHED solid and export
+PASS M17_Front_Output_Cheek_D4_FINISHED solid and export
+PASS Q02_Stop_Template_D5 solid and export
+PASS M05_Bearing_Cheek_D5_FINISHED solid and export
+PASS M17_Front_Output_Cheek_D5_FINISHED solid and export
+PASS Q02_Stop_Template_D6 solid and export
+PASS M05_Bearing_Cheek_D6_FINISHED solid and export
+PASS M17_Front_Output_Cheek_D6_FINISHED solid and export
+PASS M19_Double_Crank_Hub solid and export
+PASS M20_Output_Shaft solid and export
+PASS M21_Input_Shaft solid and export
+PASS M22_Parallel_Key solid and export
+PASS M23_Frame_Outrigger solid and export
+PASS M24_Backstop_Panel solid and export
+PASS M25_Short_Backstop_Bridge solid and export
+PASS M26_Anti_Rack_Bridge solid and export
+PASS M28_Radial_Deck_Rib solid and export
+PASS Q01_Fit_Ladder solid and export
+PASS Moving hardware mass allowance
+PASS All four complete paths close
+PASS Guarded servo travel
+PASS Normalized Jacobian conditioning
+PASS Crank transmission away from singularity
+PASS Rod tube centre-line envelope
+PASS Neighbouring crank line separation
+PASS Upper socket demanded cone
+PASS Peak torque below stall with factor
+PASS Link Euler buckling screen
+PASS 512 sampled dimensional perturbations
+PASS Keyed shaft torsion screen
+PASS 360 HTD5M belt tension adjustment screen
+Loading parametric solids for collision checks
+COLLISION {'pose': 'B1', 'sample': 0, 'part_a': 'D1 crank14', 'part_b': 'L1 lower fork', 'overlap_mm3': 19.5482}
+COLLISION {'pose': 'B1', 'sample': 0, 'part_a': 'D2 crank-14', 'part_b': 'L2 lower fork', 'overlap_mm3': 19.5482}
+COLLISION {'pose': 'B1', 'sample': 0, 'part_a': 'D3 crank14', 'part_b': 'L3 lower fork', 'overlap_mm3': 19.5482}
+COLLISION {'pose': 'B1', 'sample': 0, 'part_a': 'D4 crank-14', 'part_b': 'L4 lower fork', 'overlap_mm3': 19.5482}
+COLLISION {'pose': 'B1', 'sample': 0, 'part_a': 'D5 crank14', 'part_b': 'L5 lower fork', 'overlap_mm3': 19.5482}
+COLLISION {'pose': 'B1', 'sample': 0, 'part_a': 'D6 crank-14', 'part_b': 'L6 lower fork', 'overlap_mm3': 19.5482}
+FAIL CAD solid interference sweep

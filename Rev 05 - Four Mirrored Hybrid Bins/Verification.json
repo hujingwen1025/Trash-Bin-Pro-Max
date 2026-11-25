@@ -1,0 +1,1126 @@
+{
+  "revision": "R05",
+  "physical_tests_performed": false,
+  "variant_convention": "B1 +X/+Y; B2 -X/+Y; B3 +X/-Y; B4 -X/-Y. Labels assigned by this package, not read from hidden screenshot geometry.",
+  "tests": [
+    {
+      "name": "B1_W01 solid, STEP and mesh",
+      "volume_mm3": 909451.0799999997,
+      "pass": true
+    },
+    {
+      "name": "B1_W01 reflected source identity",
+      "pass": true
+    },
+    {
+      "name": "B1_W02 solid, STEP and mesh",
+      "volume_mm3": 909780.4800000001,
+      "pass": true
+    },
+    {
+      "name": "B1_W02 reflected source identity",
+      "pass": true
+    },
+    {
+      "name": "B1_W03 solid, STEP and mesh",
+      "volume_mm3": 651669.3402996304,
+      "pass": true
+    },
+    {
+      "name": "B1_W03 reflected source identity",
+      "pass": true
+    },
+    {
+      "name": "B1_W04 solid, STEP and mesh",
+      "volume_mm3": 651669.3402996304,
+      "pass": true
+    },
+    {
+      "name": "B1_W04 reflected source identity",
+      "pass": true
+    },
+    {
+      "name": "B1_F01 solid, STEP and mesh",
+      "volume_mm3": 998779.0268604786,
+      "pass": true
+    },
+    {
+      "name": "B1_F01 reflected source identity",
+      "pass": true
+    },
+    {
+      "name": "B1_C01 solid, STEP and mesh",
+      "volume_mm3": 663984.3092099901,
+      "pass": true
+    },
+    {
+      "name": "B1_C01 reflected source identity",
+      "pass": true
+    },
+    {
+      "name": "B1 assembly ten STEP solids and watertight mesh",
+      "pass": true
+    },
+    {
+      "name": "B1 structural final-fit interference",
+      "maximum_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "name": "B1 W03 continuous insertion sweep",
+      "travel_mm": 12,
+      "maximum_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "name": "B1 W04 continuous insertion sweep",
+      "travel_mm": 12,
+      "maximum_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "name": "B1 W01 continuous insertion sweep",
+      "travel_mm": 12,
+      "maximum_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "name": "B1 W02 continuous insertion sweep",
+      "travel_mm": 12,
+      "maximum_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "name": "B1 floor continuous insertion sweep",
+      "travel_mm": 12,
+      "maximum_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "name": "B1 W03 M3 Z81 alignment",
+      "overlap_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "name": "B1 W04 M3 Z81 alignment",
+      "overlap_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "name": "B1 W03 M3 Z225 alignment",
+      "overlap_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "name": "B1 W04 M3 Z225 alignment",
+      "overlap_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "name": "B1 W03 M3 Z369 alignment",
+      "overlap_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "name": "B1 W04 M3 Z369 alignment",
+      "overlap_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "name": "B1 floor M4 22.5 alignment",
+      "overlap_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "name": "B1 floor M4 45 alignment",
+      "overlap_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "name": "B1 floor M4 67.5 alignment",
+      "overlap_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "name": "B1 insert at 102.5,102.5 fit",
+      "radial_gap_mm": 0.2,
+      "pass": true
+    },
+    {
+      "name": "B1 insert at 102.5,250 fit",
+      "radial_gap_mm": 0.2,
+      "pass": true
+    },
+    {
+      "name": "B1 insert at 250,102.5 fit",
+      "radial_gap_mm": 0.2,
+      "pass": true
+    },
+    {
+      "name": "B1 insert at 250,250 fit",
+      "radial_gap_mm": 0.2,
+      "pass": true
+    },
+    {
+      "name": "B2_W01 solid, STEP and mesh",
+      "volume_mm3": 909451.0799999997,
+      "pass": true
+    },
+    {
+      "name": "B2_W01 reflected source identity",
+      "pass": true
+    },
+    {
+      "name": "B2_W02 solid, STEP and mesh",
+      "volume_mm3": 909780.4800000001,
+      "pass": true
+    },
+    {
+      "name": "B2_W02 reflected source identity",
+      "pass": true
+    },
+    {
+      "name": "B2_W03 solid, STEP and mesh",
+      "volume_mm3": 651669.3402996304,
+      "pass": true
+    },
+    {
+      "name": "B2_W03 reflected source identity",
+      "pass": true
+    },
+    {
+      "name": "B2_W04 solid, STEP and mesh",
+      "volume_mm3": 651669.3402996304,
+      "pass": true
+    },
+    {
+      "name": "B2_W04 reflected source identity",
+      "pass": true
+    },
+    {
+      "name": "B2_F01 solid, STEP and mesh",
+      "volume_mm3": 998779.0268604786,
+      "pass": true
+    },
+    {
+      "name": "B2_F01 reflected source identity",
+      "pass": true
+    },
+    {
+      "name": "B2_C01 solid, STEP and mesh",
+      "volume_mm3": 663984.3092099901,
+      "pass": true
+    },
+    {
+      "name": "B2_C01 reflected source identity",
+      "pass": true
+    },
+    {
+      "name": "B2 assembly ten STEP solids and watertight mesh",
+      "pass": true
+    },
+    {
+      "name": "B2 structural final-fit interference",
+      "maximum_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "name": "B2 W03 continuous insertion sweep",
+      "travel_mm": 12,
+      "maximum_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "name": "B2 W04 continuous insertion sweep",
+      "travel_mm": 12,
+      "maximum_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "name": "B2 W01 continuous insertion sweep",
+      "travel_mm": 12,
+      "maximum_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "name": "B2 W02 continuous insertion sweep",
+      "travel_mm": 12,
+      "maximum_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "name": "B2 floor continuous insertion sweep",
+      "travel_mm": 12,
+      "maximum_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "name": "B2 W03 M3 Z81 alignment",
+      "overlap_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "name": "B2 W04 M3 Z81 alignment",
+      "overlap_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "name": "B2 W03 M3 Z225 alignment",
+      "overlap_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "name": "B2 W04 M3 Z225 alignment",
+      "overlap_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "name": "B2 W03 M3 Z369 alignment",
+      "overlap_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "name": "B2 W04 M3 Z369 alignment",
+      "overlap_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "name": "B2 floor M4 22.5 alignment",
+      "overlap_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "name": "B2 floor M4 45 alignment",
+      "overlap_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "name": "B2 floor M4 67.5 alignment",
+      "overlap_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "name": "B2 insert at -102.5,102.5 fit",
+      "radial_gap_mm": 0.2,
+      "pass": true
+    },
+    {
+      "name": "B2 insert at -102.5,250 fit",
+      "radial_gap_mm": 0.2,
+      "pass": true
+    },
+    {
+      "name": "B2 insert at -250,102.5 fit",
+      "radial_gap_mm": 0.2,
+      "pass": true
+    },
+    {
+      "name": "B2 insert at -250,250 fit",
+      "radial_gap_mm": 0.2,
+      "pass": true
+    },
+    {
+      "name": "B3_W01 solid, STEP and mesh",
+      "volume_mm3": 909451.0799999997,
+      "pass": true
+    },
+    {
+      "name": "B3_W01 reflected source identity",
+      "pass": true
+    },
+    {
+      "name": "B3_W02 solid, STEP and mesh",
+      "volume_mm3": 909780.4800000001,
+      "pass": true
+    },
+    {
+      "name": "B3_W02 reflected source identity",
+      "pass": true
+    },
+    {
+      "name": "B3_W03 solid, STEP and mesh",
+      "volume_mm3": 651669.3402996304,
+      "pass": true
+    },
+    {
+      "name": "B3_W03 reflected source identity",
+      "pass": true
+    },
+    {
+      "name": "B3_W04 solid, STEP and mesh",
+      "volume_mm3": 651669.3402996304,
+      "pass": true
+    },
+    {
+      "name": "B3_W04 reflected source identity",
+      "pass": true
+    },
+    {
+      "name": "B3_F01 solid, STEP and mesh",
+      "volume_mm3": 998779.0268604786,
+      "pass": true
+    },
+    {
+      "name": "B3_F01 reflected source identity",
+      "pass": true
+    },
+    {
+      "name": "B3_C01 solid, STEP and mesh",
+      "volume_mm3": 663984.3092099901,
+      "pass": true
+    },
+    {
+      "name": "B3_C01 reflected source identity",
+      "pass": true
+    },
+    {
+      "name": "B3 assembly ten STEP solids and watertight mesh",
+      "pass": true
+    },
+    {
+      "name": "B3 structural final-fit interference",
+      "maximum_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "name": "B3 W03 continuous insertion sweep",
+      "travel_mm": 12,
+      "maximum_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "name": "B3 W04 continuous insertion sweep",
+      "travel_mm": 12,
+      "maximum_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "name": "B3 W01 continuous insertion sweep",
+      "travel_mm": 12,
+      "maximum_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "name": "B3 W02 continuous insertion sweep",
+      "travel_mm": 12,
+      "maximum_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "name": "B3 floor continuous insertion sweep",
+      "travel_mm": 12,
+      "maximum_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "name": "B3 W03 M3 Z81 alignment",
+      "overlap_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "name": "B3 W04 M3 Z81 alignment",
+      "overlap_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "name": "B3 W03 M3 Z225 alignment",
+      "overlap_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "name": "B3 W04 M3 Z225 alignment",
+      "overlap_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "name": "B3 W03 M3 Z369 alignment",
+      "overlap_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "name": "B3 W04 M3 Z369 alignment",
+      "overlap_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "name": "B3 floor M4 22.5 alignment",
+      "overlap_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "name": "B3 floor M4 45 alignment",
+      "overlap_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "name": "B3 floor M4 67.5 alignment",
+      "overlap_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "name": "B3 insert at 102.5,-102.5 fit",
+      "radial_gap_mm": 0.2,
+      "pass": true
+    },
+    {
+      "name": "B3 insert at 102.5,-250 fit",
+      "radial_gap_mm": 0.2,
+      "pass": true
+    },
+    {
+      "name": "B3 insert at 250,-102.5 fit",
+      "radial_gap_mm": 0.2,
+      "pass": true
+    },
+    {
+      "name": "B3 insert at 250,-250 fit",
+      "radial_gap_mm": 0.2,
+      "pass": true
+    },
+    {
+      "name": "B4_W01 solid, STEP and mesh",
+      "volume_mm3": 909451.0799999997,
+      "pass": true
+    },
+    {
+      "name": "B4_W01 reflected source identity",
+      "pass": true
+    },
+    {
+      "name": "B4_W02 solid, STEP and mesh",
+      "volume_mm3": 909780.4800000001,
+      "pass": true
+    },
+    {
+      "name": "B4_W02 reflected source identity",
+      "pass": true
+    },
+    {
+      "name": "B4_W03 solid, STEP and mesh",
+      "volume_mm3": 651669.3402996304,
+      "pass": true
+    },
+    {
+      "name": "B4_W03 reflected source identity",
+      "pass": true
+    },
+    {
+      "name": "B4_W04 solid, STEP and mesh",
+      "volume_mm3": 651669.3402996304,
+      "pass": true
+    },
+    {
+      "name": "B4_W04 reflected source identity",
+      "pass": true
+    },
+    {
+      "name": "B4_F01 solid, STEP and mesh",
+      "volume_mm3": 998779.0268604786,
+      "pass": true
+    },
+    {
+      "name": "B4_F01 reflected source identity",
+      "pass": true
+    },
+    {
+      "name": "B4_C01 solid, STEP and mesh",
+      "volume_mm3": 663984.3092099901,
+      "pass": true
+    },
+    {
+      "name": "B4_C01 reflected source identity",
+      "pass": true
+    },
+    {
+      "name": "B4 assembly ten STEP solids and watertight mesh",
+      "pass": true
+    },
+    {
+      "name": "B4 structural final-fit interference",
+      "maximum_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "name": "B4 W03 continuous insertion sweep",
+      "travel_mm": 12,
+      "maximum_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "name": "B4 W04 continuous insertion sweep",
+      "travel_mm": 12,
+      "maximum_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "name": "B4 W01 continuous insertion sweep",
+      "travel_mm": 12,
+      "maximum_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "name": "B4 W02 continuous insertion sweep",
+      "travel_mm": 12,
+      "maximum_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "name": "B4 floor continuous insertion sweep",
+      "travel_mm": 12,
+      "maximum_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "name": "B4 W03 M3 Z81 alignment",
+      "overlap_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "name": "B4 W04 M3 Z81 alignment",
+      "overlap_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "name": "B4 W03 M3 Z225 alignment",
+      "overlap_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "name": "B4 W04 M3 Z225 alignment",
+      "overlap_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "name": "B4 W03 M3 Z369 alignment",
+      "overlap_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "name": "B4 W04 M3 Z369 alignment",
+      "overlap_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "name": "B4 floor M4 22.5 alignment",
+      "overlap_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "name": "B4 floor M4 45 alignment",
+      "overlap_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "name": "B4 floor M4 67.5 alignment",
+      "overlap_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "name": "B4 insert at -102.5,-102.5 fit",
+      "radial_gap_mm": 0.2,
+      "pass": true
+    },
+    {
+      "name": "B4 insert at -102.5,-250 fit",
+      "radial_gap_mm": 0.2,
+      "pass": true
+    },
+    {
+      "name": "B4 insert at -250,-102.5 fit",
+      "radial_gap_mm": 0.2,
+      "pass": true
+    },
+    {
+      "name": "B4 insert at -250,-250 fit",
+      "radial_gap_mm": 0.2,
+      "pass": true
+    },
+    {
+      "name": "Four-bin layout 700 x 700 x 450 and forty solids",
+      "pass": true
+    },
+    {
+      "name": "Full layout STEP reimport and mesh integrity",
+      "pass": true
+    },
+    {
+      "name": "B1 / B2 separate-bin clearance",
+      "minimum_distance_mm": 5.0,
+      "pass": true
+    },
+    {
+      "name": "B1 / B3 separate-bin clearance",
+      "minimum_distance_mm": 5.0,
+      "pass": true
+    },
+    {
+      "name": "B1 / B4 separate-bin clearance",
+      "minimum_distance_mm": 109.54260914150404,
+      "pass": true
+    },
+    {
+      "name": "B2 / B3 separate-bin clearance",
+      "minimum_distance_mm": 109.54260914150404,
+      "pass": true
+    },
+    {
+      "name": "B2 / B4 separate-bin clearance",
+      "minimum_distance_mm": 5.0,
+      "pass": true
+    },
+    {
+      "name": "B3 / B4 separate-bin clearance",
+      "minimum_distance_mm": 5.0,
+      "pass": true
+    },
+    {
+      "name": "Central R74.9 reference gauge clearance",
+      "overlap_mm3": 0.0,
+      "note": "Reference gauge only. Existing platform dimensions and mounting were not supplied.",
+      "pass": true
+    },
+    {
+      "name": "B1_C01_REFERENCE R2000 DWG roundtrip and independent read",
+      "entities": 1073,
+      "pass": true
+    },
+    {
+      "name": "B1_C01_REFERENCE no duplicate CUT entities",
+      "pass": true
+    },
+    {
+      "name": "B1_F01 R2000 DWG roundtrip and independent read",
+      "entities": 114,
+      "pass": true
+    },
+    {
+      "name": "B1_F01 no duplicate CUT entities",
+      "pass": true
+    },
+    {
+      "name": "B1_W01 R2000 DWG roundtrip and independent read",
+      "entities": 69,
+      "pass": true
+    },
+    {
+      "name": "B1_W01 no duplicate CUT entities",
+      "pass": true
+    },
+    {
+      "name": "B1_W02 R2000 DWG roundtrip and independent read",
+      "entities": 69,
+      "pass": true
+    },
+    {
+      "name": "B1_W02 no duplicate CUT entities",
+      "pass": true
+    },
+    {
+      "name": "B1_W03 R2000 DWG roundtrip and independent read",
+      "entities": 72,
+      "pass": true
+    },
+    {
+      "name": "B1_W03 no duplicate CUT entities",
+      "pass": true
+    },
+    {
+      "name": "B1_W04 R2000 DWG roundtrip and independent read",
+      "entities": 72,
+      "pass": true
+    },
+    {
+      "name": "B1_W04 no duplicate CUT entities",
+      "pass": true
+    },
+    {
+      "name": "B2_C01_REFERENCE R2000 DWG roundtrip and independent read",
+      "entities": 1073,
+      "pass": true
+    },
+    {
+      "name": "B2_C01_REFERENCE no duplicate CUT entities",
+      "pass": true
+    },
+    {
+      "name": "B2_F01 R2000 DWG roundtrip and independent read",
+      "entities": 114,
+      "pass": true
+    },
+    {
+      "name": "B2_F01 no duplicate CUT entities",
+      "pass": true
+    },
+    {
+      "name": "B2_W01 R2000 DWG roundtrip and independent read",
+      "entities": 69,
+      "pass": true
+    },
+    {
+      "name": "B2_W01 no duplicate CUT entities",
+      "pass": true
+    },
+    {
+      "name": "B2_W02 R2000 DWG roundtrip and independent read",
+      "entities": 69,
+      "pass": true
+    },
+    {
+      "name": "B2_W02 no duplicate CUT entities",
+      "pass": true
+    },
+    {
+      "name": "B2_W03 R2000 DWG roundtrip and independent read",
+      "entities": 72,
+      "pass": true
+    },
+    {
+      "name": "B2_W03 no duplicate CUT entities",
+      "pass": true
+    },
+    {
+      "name": "B2_W04 R2000 DWG roundtrip and independent read",
+      "entities": 72,
+      "pass": true
+    },
+    {
+      "name": "B2_W04 no duplicate CUT entities",
+      "pass": true
+    },
+    {
+      "name": "B3_C01_REFERENCE R2000 DWG roundtrip and independent read",
+      "entities": 1073,
+      "pass": true
+    },
+    {
+      "name": "B3_C01_REFERENCE no duplicate CUT entities",
+      "pass": true
+    },
+    {
+      "name": "B3_F01 R2000 DWG roundtrip and independent read",
+      "entities": 114,
+      "pass": true
+    },
+    {
+      "name": "B3_F01 no duplicate CUT entities",
+      "pass": true
+    },
+    {
+      "name": "B3_W01 R2000 DWG roundtrip and independent read",
+      "entities": 69,
+      "pass": true
+    },
+    {
+      "name": "B3_W01 no duplicate CUT entities",
+      "pass": true
+    },
+    {
+      "name": "B3_W02 R2000 DWG roundtrip and independent read",
+      "entities": 69,
+      "pass": true
+    },
+    {
+      "name": "B3_W02 no duplicate CUT entities",
+      "pass": true
+    },
+    {
+      "name": "B3_W03 R2000 DWG roundtrip and independent read",
+      "entities": 72,
+      "pass": true
+    },
+    {
+      "name": "B3_W03 no duplicate CUT entities",
+      "pass": true
+    },
+    {
+      "name": "B3_W04 R2000 DWG roundtrip and independent read",
+      "entities": 72,
+      "pass": true
+    },
+    {
+      "name": "B3_W04 no duplicate CUT entities",
+      "pass": true
+    },
+    {
+      "name": "B4_C01_REFERENCE R2000 DWG roundtrip and independent read",
+      "entities": 1073,
+      "pass": true
+    },
+    {
+      "name": "B4_C01_REFERENCE no duplicate CUT entities",
+      "pass": true
+    },
+    {
+      "name": "B4_F01 R2000 DWG roundtrip and independent read",
+      "entities": 114,
+      "pass": true
+    },
+    {
+      "name": "B4_F01 no duplicate CUT entities",
+      "pass": true
+    },
+    {
+      "name": "B4_W01 R2000 DWG roundtrip and independent read",
+      "entities": 69,
+      "pass": true
+    },
+    {
+      "name": "B4_W01 no duplicate CUT entities",
+      "pass": true
+    },
+    {
+      "name": "B4_W02 R2000 DWG roundtrip and independent read",
+      "entities": 69,
+      "pass": true
+    },
+    {
+      "name": "B4_W02 no duplicate CUT entities",
+      "pass": true
+    },
+    {
+      "name": "B4_W03 R2000 DWG roundtrip and independent read",
+      "entities": 72,
+      "pass": true
+    },
+    {
+      "name": "B4_W03 no duplicate CUT entities",
+      "pass": true
+    },
+    {
+      "name": "B4_W04 R2000 DWG roundtrip and independent read",
+      "entities": 72,
+      "pass": true
+    },
+    {
+      "name": "B4_W04 no duplicate CUT entities",
+      "pass": true
+    },
+    {
+      "name": "M01_magnet_insert_REFERENCE R2000 DWG roundtrip and independent read",
+      "entities": 7,
+      "pass": true
+    },
+    {
+      "name": "M01_magnet_insert_REFERENCE no duplicate CUT entities",
+      "pass": true
+    },
+    {
+      "name": "Q01_wall_fit R2000 DWG roundtrip and independent read",
+      "entities": 79,
+      "pass": true
+    },
+    {
+      "name": "Q01_wall_fit no duplicate CUT entities",
+      "pass": true
+    },
+    {
+      "name": "Q02_floor_fit R2000 DWG roundtrip and independent read",
+      "entities": 236,
+      "pass": true
+    },
+    {
+      "name": "Q02_floor_fit no duplicate CUT entities",
+      "pass": true
+    },
+    {
+      "name": "Q03_wall_tab R2000 DWG roundtrip and independent read",
+      "entities": 9,
+      "pass": true
+    },
+    {
+      "name": "Q03_wall_tab no duplicate CUT entities",
+      "pass": true
+    },
+    {
+      "name": "Q04_floor_tab R2000 DWG roundtrip and independent read",
+      "entities": 9,
+      "pass": true
+    },
+    {
+      "name": "Q04_floor_tab no duplicate CUT entities",
+      "pass": true
+    },
+    {
+      "name": "Q06_curve_wall_sample R2000 DWG roundtrip and independent read",
+      "entities": 109,
+      "pass": true
+    },
+    {
+      "name": "Q06_curve_wall_sample no duplicate CUT entities",
+      "pass": true
+    },
+    {
+      "name": "Q07_insert_fit R2000 DWG roundtrip and independent read",
+      "entities": 872,
+      "pass": true
+    },
+    {
+      "name": "Q07_insert_fit no duplicate CUT entities",
+      "pass": true
+    },
+    {
+      "name": "Q08_floor_wall_tab R2000 DWG roundtrip and independent read",
+      "entities": 9,
+      "pass": true
+    },
+    {
+      "name": "Q08_floor_wall_tab no duplicate CUT entities",
+      "pass": true
+    },
+    {
+      "name": "B1_F01 closed cutter contours match solid panel face",
+      "area_error_mm2": 0.04710424141376279,
+      "loops": 8,
+      "pass": true
+    },
+    {
+      "name": "B1_W01 closed cutter contours match solid panel face",
+      "area_error_mm2": 2.9103830456733704e-11,
+      "loops": 1,
+      "pass": true
+    },
+    {
+      "name": "B1_W02 closed cutter contours match solid panel face",
+      "area_error_mm2": 0.0,
+      "loops": 1,
+      "pass": true
+    },
+    {
+      "name": "B1_W03 closed cutter contours match solid panel face",
+      "area_error_mm2": 4.272851219866425e-05,
+      "loops": 4,
+      "pass": true
+    },
+    {
+      "name": "B1_W04 closed cutter contours match solid panel face",
+      "area_error_mm2": 4.272858495824039e-05,
+      "loops": 4,
+      "pass": true
+    },
+    {
+      "name": "B2_F01 closed cutter contours match solid panel face",
+      "area_error_mm2": 0.04710424332006369,
+      "loops": 8,
+      "pass": true
+    },
+    {
+      "name": "B2_W01 closed cutter contours match solid panel face",
+      "area_error_mm2": 5.820766091346741e-11,
+      "loops": 1,
+      "pass": true
+    },
+    {
+      "name": "B2_W02 closed cutter contours match solid panel face",
+      "area_error_mm2": 0.0,
+      "loops": 1,
+      "pass": true
+    },
+    {
+      "name": "B2_W03 closed cutter contours match solid panel face",
+      "area_error_mm2": 4.272851219866425e-05,
+      "loops": 4,
+      "pass": true
+    },
+    {
+      "name": "B2_W04 closed cutter contours match solid panel face",
+      "area_error_mm2": 4.272857040632516e-05,
+      "loops": 4,
+      "pass": true
+    },
+    {
+      "name": "B3_F01 closed cutter contours match solid panel face",
+      "area_error_mm2": 0.04710424343647901,
+      "loops": 8,
+      "pass": true
+    },
+    {
+      "name": "B3_W01 closed cutter contours match solid panel face",
+      "area_error_mm2": 2.9103830456733704e-11,
+      "loops": 1,
+      "pass": true
+    },
+    {
+      "name": "B3_W02 closed cutter contours match solid panel face",
+      "area_error_mm2": 2.9103830456733704e-11,
+      "loops": 1,
+      "pass": true
+    },
+    {
+      "name": "B3_W03 closed cutter contours match solid panel face",
+      "area_error_mm2": 4.2728526750579476e-05,
+      "loops": 4,
+      "pass": true
+    },
+    {
+      "name": "B3_W04 closed cutter contours match solid panel face",
+      "area_error_mm2": 4.272846854291856e-05,
+      "loops": 4,
+      "pass": true
+    },
+    {
+      "name": "B4_F01 closed cutter contours match solid panel face",
+      "area_error_mm2": 0.04710423926007934,
+      "loops": 8,
+      "pass": true
+    },
+    {
+      "name": "B4_W01 closed cutter contours match solid panel face",
+      "area_error_mm2": 0.0,
+      "loops": 1,
+      "pass": true
+    },
+    {
+      "name": "B4_W02 closed cutter contours match solid panel face",
+      "area_error_mm2": 2.9103830456733704e-11,
+      "loops": 1,
+      "pass": true
+    },
+    {
+      "name": "B4_W03 closed cutter contours match solid panel face",
+      "area_error_mm2": 4.272849764674902e-05,
+      "loops": 4,
+      "pass": true
+    },
+    {
+      "name": "B4_W04 closed cutter contours match solid panel face",
+      "area_error_mm2": 4.272848309483379e-05,
+      "loops": 4,
+      "pass": true
+    },
+    {
+      "name": "B1 confirmed diameter 147.5 central post clearance",
+      "pass": true,
+      "post_diameter_mm": 147.5,
+      "nominal_radial_gap_mm": 1.25,
+      "minimum_solid_distance_mm": 1.247260590859468,
+      "overlap_mm3": 0.0
+    },
+    {
+      "name": "B2 confirmed diameter 147.5 central post clearance",
+      "pass": true,
+      "post_diameter_mm": 147.5,
+      "nominal_radial_gap_mm": 1.25,
+      "minimum_solid_distance_mm": 1.2472605908542744,
+      "overlap_mm3": 0.0
+    },
+    {
+      "name": "B3 confirmed diameter 147.5 central post clearance",
+      "pass": true,
+      "post_diameter_mm": 147.5,
+      "nominal_radial_gap_mm": 1.25,
+      "minimum_solid_distance_mm": 1.2472605908541547,
+      "overlap_mm3": 0.0
+    },
+    {
+      "name": "B4 confirmed diameter 147.5 central post clearance",
+      "pass": true,
+      "post_diameter_mm": 147.5,
+      "nominal_radial_gap_mm": 1.25,
+      "minimum_solid_distance_mm": 1.2472605908517016,
+      "overlap_mm3": 0.0
+    }
+  ],
+  "inherited_R04_checks": 134,
+  "confirmed_post_diameter_mm": 147.5,
+  "nominal_post_radial_gap_mm": 1.25
+}

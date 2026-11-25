@@ -1,0 +1,672 @@
+[
+  {
+    "image": "Complete_System.png",
+    "labels": [
+      {
+        "label": 1,
+        "instance": "tray",
+        "part": "M10_Tray",
+        "text": "M10 loading tray"
+      },
+      {
+        "label": 2,
+        "instance": "L1 tube",
+        "part": "M13_Link_Tube",
+        "text": "Colour-coded links\nL1-L6"
+      },
+      {
+        "label": 3,
+        "instance": "D1 crank16",
+        "part": "M06_Crank_Plate",
+        "text": "Amber crank plates\nM06"
+      },
+      {
+        "label": 4,
+        "instance": "B1 guide",
+        "part": "P06_Discharge_Guide",
+        "text": "P06 discharge guides"
+      },
+      {
+        "label": 5,
+        "instance": "fixed deck",
+        "part": "M08_Fixed_Deck",
+        "text": "M08 fixed deck"
+      },
+      {
+        "label": 6,
+        "instance": "frame post1/1",
+        "part": "Outer_Post_820",
+        "text": "Neutral support frame"
+      }
+    ],
+    "geometry_source": "existing verified STEP, read only"
+  },
+  {
+    "image": "Exploded_Assembly.png",
+    "labels": [
+      {
+        "label": 1,
+        "instance": "tray",
+        "part": "M10_Tray",
+        "text": "M10 loading sheet"
+      },
+      {
+        "label": 2,
+        "instance": "perimeter frame",
+        "part": "M18_Tray_Perimeter_Frame",
+        "text": "M18 perimeter frame\n+ four M11 braces"
+      },
+      {
+        "label": 3,
+        "instance": "carrier",
+        "part": "M09_Moving_Carrier",
+        "text": "M09 moving carrier"
+      },
+      {
+        "label": 4,
+        "instance": "L1 tube",
+        "part": "M13_Link_Tube",
+        "text": "Six L1-L6 links"
+      },
+      {
+        "label": 5,
+        "instance": "D1 crank16",
+        "part": "M06_Crank_Plate",
+        "text": "Six D1-D6 drive cells"
+      },
+      {
+        "label": 6,
+        "instance": "fixed deck",
+        "part": "M08_Fixed_Deck",
+        "text": "M08 fixed deck"
+      }
+    ],
+    "geometry_source": "existing verified STEP, read only"
+  },
+  {
+    "image": "Front_View.png",
+    "labels": [
+      {
+        "label": 1,
+        "instance": "D1 cradle",
+        "part": "P01_Servo_Cradle",
+        "text": "P01 servo cradle"
+      },
+      {
+        "label": 2,
+        "instance": "D1 crank16",
+        "part": "M06_Crank_Plate",
+        "text": "M06 crank"
+      },
+      {
+        "label": 3,
+        "instance": "L1 tube",
+        "part": "M13_Link_Tube",
+        "text": "L1 link"
+      },
+      {
+        "label": 4,
+        "instance": "carrier",
+        "part": "M09_Moving_Carrier",
+        "text": "M09 carrier"
+      }
+    ],
+    "geometry_source": "existing verified STEP, read only"
+  },
+  {
+    "image": "Right_View.png",
+    "labels": [
+      {
+        "label": 1,
+        "instance": "D1 cradle",
+        "part": "P01_Servo_Cradle",
+        "text": "P01 servo cradle"
+      },
+      {
+        "label": 2,
+        "instance": "D1 crank16",
+        "part": "M06_Crank_Plate",
+        "text": "M06 crank"
+      },
+      {
+        "label": 3,
+        "instance": "L1 tube",
+        "part": "M13_Link_Tube",
+        "text": "L1 link"
+      },
+      {
+        "label": 4,
+        "instance": "carrier",
+        "part": "M09_Moving_Carrier",
+        "text": "M09 carrier"
+      }
+    ],
+    "geometry_source": "existing verified STEP, read only"
+  },
+  {
+    "image": "Rear_View.png",
+    "labels": [
+      {
+        "label": 1,
+        "instance": "D1 cradle",
+        "part": "P01_Servo_Cradle",
+        "text": "P01 servo cradle"
+      },
+      {
+        "label": 2,
+        "instance": "D1 crank16",
+        "part": "M06_Crank_Plate",
+        "text": "M06 crank"
+      },
+      {
+        "label": 3,
+        "instance": "L1 tube",
+        "part": "M13_Link_Tube",
+        "text": "L1 link"
+      },
+      {
+        "label": 4,
+        "instance": "carrier",
+        "part": "M09_Moving_Carrier",
+        "text": "M09 carrier"
+      }
+    ],
+    "geometry_source": "existing verified STEP, read only"
+  },
+  {
+    "image": "Left_View.png",
+    "labels": [
+      {
+        "label": 1,
+        "instance": "D1 cradle",
+        "part": "P01_Servo_Cradle",
+        "text": "P01 servo cradle"
+      },
+      {
+        "label": 2,
+        "instance": "D1 crank16",
+        "part": "M06_Crank_Plate",
+        "text": "M06 crank"
+      },
+      {
+        "label": 3,
+        "instance": "L1 tube",
+        "part": "M13_Link_Tube",
+        "text": "L1 link"
+      },
+      {
+        "label": 4,
+        "instance": "carrier",
+        "part": "M09_Moving_Carrier",
+        "text": "M09 carrier"
+      }
+    ],
+    "geometry_source": "existing verified STEP, read only"
+  },
+  {
+    "image": "Top_View.png",
+    "labels": [
+      {
+        "label": 1,
+        "instance": "D1 cradle",
+        "part": "P01_Servo_Cradle",
+        "text": "P01 servo cradle"
+      },
+      {
+        "label": 2,
+        "instance": "D1 crank16",
+        "part": "M06_Crank_Plate",
+        "text": "M06 crank"
+      },
+      {
+        "label": 3,
+        "instance": "L1 tube",
+        "part": "M13_Link_Tube",
+        "text": "L1 link"
+      },
+      {
+        "label": 4,
+        "instance": "carrier",
+        "part": "M09_Moving_Carrier",
+        "text": "M09 carrier"
+      }
+    ],
+    "geometry_source": "existing verified STEP, read only"
+  },
+  {
+    "image": "Mechanism_View.png",
+    "labels": [
+      {
+        "label": 1,
+        "instance": "D1 cradle",
+        "part": "P01_Servo_Cradle",
+        "text": "P01 servo cradle"
+      },
+      {
+        "label": 2,
+        "instance": "D1 crank16",
+        "part": "M06_Crank_Plate",
+        "text": "M06 crank"
+      },
+      {
+        "label": 3,
+        "instance": "L1 tube",
+        "part": "M13_Link_Tube",
+        "text": "L1 link"
+      },
+      {
+        "label": 4,
+        "instance": "carrier",
+        "part": "M09_Moving_Carrier",
+        "text": "M09 carrier"
+      }
+    ],
+    "geometry_source": "existing verified STEP, read only"
+  },
+  {
+    "image": "Assembly_01_Support.png",
+    "labels": [
+      {
+        "label": 1,
+        "instance": "base backplate",
+        "part": "M03_Base_Backplate",
+        "text": "M03 underside backplate"
+      },
+      {
+        "label": 2,
+        "instance": "post bottom",
+        "part": "M01_Post_Endcap",
+        "text": "M01 bottom endcap"
+      },
+      {
+        "label": 3,
+        "instance": "post core",
+        "part": "M02_Post_Core",
+        "text": "M02 steel core"
+      },
+      {
+        "label": 4,
+        "instance": "post top",
+        "part": "M01_Post_Endcap",
+        "text": "M01 top endcap"
+      },
+      {
+        "label": 5,
+        "instance": "fixed deck",
+        "part": "M08_Fixed_Deck",
+        "text": "M08 deck + six M28 ribs"
+      }
+    ],
+    "geometry_source": "existing verified STEP, read only"
+  },
+  {
+    "image": "Assembly_05_Pedestal.png",
+    "labels": [
+      {
+        "label": 1,
+        "instance": "D1 cheek-44",
+        "part": "M05_Bearing_Cheek",
+        "text": "M05 common rear cheek"
+      },
+      {
+        "label": 2,
+        "instance": "D1 cheek-22",
+        "part": "M05_Bearing_Cheek_D1_FINISHED",
+        "text": "M05 D1 finished cheek"
+      },
+      {
+        "label": 3,
+        "instance": "D1 front cheek",
+        "part": "M17_Front_Output_Cheek_D1_FINISHED",
+        "text": "M17 D1 auxiliary cheek"
+      },
+      {
+        "label": 4,
+        "instance": "D1 foot-44",
+        "part": "M14_Angle_Foot",
+        "text": "Three M14 angle feet"
+      },
+      {
+        "label": 5,
+        "instance": "D1 output bearing -29.5",
+        "part": "608_Bearing",
+        "text": "608 bearings - align\nwith a dummy shaft"
+      }
+    ],
+    "geometry_source": "existing verified STEP, read only"
+  },
+  {
+    "image": "Assembly_06_Cranks.png",
+    "labels": [
+      {
+        "label": 1,
+        "instance": "D1 output shaft",
+        "part": "M20_Output_Shaft",
+        "text": "M20 output shaft"
+      },
+      {
+        "label": 2,
+        "instance": "D1 crank hub",
+        "part": "M19_Double_Crank_Hub",
+        "text": "M19 keyed double hub"
+      },
+      {
+        "label": 3,
+        "instance": "D1 crank16",
+        "part": "M06_Crank_Plate",
+        "text": "Two M06 crank plates"
+      },
+      {
+        "label": 4,
+        "instance": "D1 input shaft",
+        "part": "M21_Input_Shaft",
+        "text": "M21 input shaft"
+      },
+      {
+        "label": 5,
+        "instance": "D1 output key0",
+        "part": "M22_Parallel_Key",
+        "text": "M22 keys carry torque"
+      }
+    ],
+    "geometry_source": "existing verified STEP, read only"
+  },
+  {
+    "image": "Assembly_07_Belt.png",
+    "labels": [],
+    "geometry_source": "pitch-line schematic from current drive dimensions; not a cut pattern"
+  },
+  {
+    "image": "Assembly_09_Motor_Guard.png",
+    "labels": [
+      {
+        "label": 1,
+        "instance": "D1 servo",
+        "part": "Servo_Envelope",
+        "text": "HTD-85H body envelope"
+      },
+      {
+        "label": 2,
+        "instance": "D1 cradle",
+        "part": "P01_Servo_Cradle",
+        "text": "P01 cradle + two straps\n(straps not modelled)"
+      },
+      {
+        "label": 3,
+        "instance": "D1 horn adapter",
+        "part": "M07_Servo_Horn_Adapter",
+        "text": "M07 adapter: match-drill\nthe real metal horn"
+      },
+      {
+        "label": 4,
+        "instance": "D1 stop0",
+        "part": "Stop_Pin",
+        "text": "Two supported stop pins"
+      },
+      {
+        "label": 5,
+        "instance": "D1 belt guard",
+        "part": "P10_Belt_Guard",
+        "text": "P10 guard moved outward\nfor visibility"
+      }
+    ],
+    "geometry_source": "existing verified STEP, read only"
+  },
+  {
+    "image": "Assembly_10_Lower_Joint.png",
+    "labels": [
+      {
+        "label": 1,
+        "instance": "L1 cross",
+        "part": "P02_U_Joint_Cross",
+        "text": "P02 cross: primary\n4.2 mm through bore"
+      },
+      {
+        "label": 2,
+        "instance": "L1 lower fork",
+        "part": "P03_Lower_Rod_Fork",
+        "text": "P03 fork + M3 inserts"
+      },
+      {
+        "label": 3,
+        "instance": "L1 pivot-1",
+        "part": "M16_Smooth_Tip_Pivot",
+        "text": "Two M16 smooth-tip\npivots; lock jam nuts"
+      },
+      {
+        "label": 4,
+        "instance": "L1 tube",
+        "part": "M13_Link_Tube",
+        "text": "M13 tube shown cropped"
+      }
+    ],
+    "geometry_source": "existing verified STEP, read only"
+  },
+  {
+    "image": "Assembly_11_Tube.png",
+    "labels": [],
+    "geometry_source": "dimensioned assembly schematic from current verified link lengths"
+  },
+  {
+    "image": "Assembly_12_Upper_Joint.png",
+    "labels": [
+      {
+        "label": 1,
+        "instance": "L1 ball stud",
+        "part": "M12_Ball_Stud",
+        "text": "M12 part ID: 16 mm ball\nwith M4 threaded stem"
+      },
+      {
+        "label": 2,
+        "instance": "L1 upper coupler",
+        "part": "P05_Upper_Rod_Coupler",
+        "text": "P05 coupler + M4 insert"
+      },
+      {
+        "label": 3,
+        "instance": "L1 socket a",
+        "part": "P04_Ball_Socket_Half",
+        "text": "P04 lower half"
+      },
+      {
+        "label": 4,
+        "instance": "L1 socket b",
+        "part": "P04_Ball_Socket_Half",
+        "text": "Identical P04 half, flipped"
+      }
+    ],
+    "geometry_source": "existing verified STEP, read only"
+  },
+  {
+    "image": "Assembly_14_Carrier.png",
+    "labels": [
+      {
+        "label": 1,
+        "instance": "carrier",
+        "part": "M09_Moving_Carrier",
+        "text": "M09 carrier - inclined\nM3 taps after cutting"
+      },
+      {
+        "label": 2,
+        "instance": "L1 wedge",
+        "part": "P09_Socket_Wedge_L1",
+        "text": "P09 L1 wedge"
+      },
+      {
+        "label": 3,
+        "instance": "L2 wedge",
+        "part": "P09_Socket_Wedge_L2",
+        "text": "P09 L2 wedge"
+      },
+      {
+        "label": 4,
+        "instance": "L3 wedge",
+        "part": "P09_Socket_Wedge_L3",
+        "text": "P09 L3 wedge"
+      },
+      {
+        "label": 5,
+        "instance": "L4 wedge",
+        "part": "P09_Socket_Wedge_L4",
+        "text": "P09 L4 wedge"
+      },
+      {
+        "label": 6,
+        "instance": "L5 wedge",
+        "part": "P09_Socket_Wedge_L5",
+        "text": "P09 L5 wedge"
+      },
+      {
+        "label": 7,
+        "instance": "L6 wedge",
+        "part": "P09_Socket_Wedge_L6",
+        "text": "P09 L6 wedge"
+      }
+    ],
+    "geometry_source": "existing verified STEP, read only"
+  },
+  {
+    "image": "Assembly_15_Tray.png",
+    "labels": [
+      {
+        "label": 1,
+        "instance": "tray",
+        "part": "M10_Tray",
+        "text": "M10 - 1 mm loading sheet"
+      },
+      {
+        "label": 2,
+        "instance": "perimeter frame",
+        "part": "M18_Tray_Perimeter_Frame",
+        "text": "M18 perimeter angle ring"
+      },
+      {
+        "label": 3,
+        "instance": "brace0.7853981633974483",
+        "part": "M11_Tray_Hat_Brace",
+        "text": "Four M11 formed\nU-channel braces"
+      },
+      {
+        "label": 4,
+        "instance": "carrier",
+        "part": "M09_Moving_Carrier",
+        "text": "M09 - 4 mm carrier"
+      }
+    ],
+    "geometry_source": "existing verified STEP, read only"
+  },
+  {
+    "image": "Assembly_16_Links.png",
+    "labels": [
+      {
+        "label": 1,
+        "instance": "L1 tube",
+        "part": "M13_Link_Tube",
+        "text": "L1 connects to drive D1"
+      },
+      {
+        "label": 2,
+        "instance": "L2 tube",
+        "part": "M13_Link_Tube",
+        "text": "L2 connects to drive D2"
+      },
+      {
+        "label": 3,
+        "instance": "L3 tube",
+        "part": "M13_Link_Tube",
+        "text": "L3 connects to drive D3"
+      },
+      {
+        "label": 4,
+        "instance": "L4 tube",
+        "part": "M13_Link_Tube",
+        "text": "L4 connects to drive D4"
+      },
+      {
+        "label": 5,
+        "instance": "L5 tube",
+        "part": "M13_Link_Tube",
+        "text": "L5 connects to drive D5"
+      },
+      {
+        "label": 6,
+        "instance": "L6 tube",
+        "part": "M13_Link_Tube",
+        "text": "L6 connects to drive D6"
+      }
+    ],
+    "geometry_source": "existing verified STEP, read only"
+  },
+  {
+    "image": "Assembly_18_Frame.png",
+    "labels": [
+      {
+        "label": 1,
+        "instance": "corner outrigger1/1",
+        "part": "M23_Frame_Outrigger",
+        "text": "Four M23 outriggers"
+      },
+      {
+        "label": 2,
+        "instance": "frame post1/1",
+        "part": "Outer_Post_820",
+        "text": "Four 820 mm posts"
+      },
+      {
+        "label": 3,
+        "instance": "frame X rail1/500",
+        "part": "Outer_Rail_710",
+        "text": "710 mm rails at\nZ500 and Z800"
+      },
+      {
+        "label": 4,
+        "instance": "B1 short bridge1/487",
+        "part": "M25_Short_Backstop_Bridge",
+        "text": "M25 short bridges"
+      },
+      {
+        "label": 5,
+        "instance": "B1 long bridge484",
+        "part": "M26_Anti_Rack_Bridge",
+        "text": "M26 anti-rack bridge"
+      },
+      {
+        "label": 6,
+        "instance": "B1 backstop",
+        "part": "M24_Backstop_Panel",
+        "text": "M24 panel + foam"
+      }
+    ],
+    "geometry_source": "existing verified STEP, read only"
+  },
+  {
+    "image": "Assembly_20_Guide.png",
+    "labels": [
+      {
+        "label": 1,
+        "instance": "B1 guide",
+        "part": "P06_Discharge_Guide",
+        "text": "P06 printed guide +\nsmooth sliding liner"
+      },
+      {
+        "label": 2,
+        "instance": "B1 guide cap-150",
+        "part": "P07_Guide_Post_Cap",
+        "text": "Two P07 caps"
+      },
+      {
+        "label": 3,
+        "instance": "B1 guide post-150",
+        "part": "2020_Extrusion",
+        "text": "Two 92 mm 2020 posts"
+      },
+      {
+        "label": 4,
+        "instance": "B1 guide cap150",
+        "part": "P07_Guide_Post_Cap",
+        "text": "M5 studs pass through\ncaps into blind inserts"
+      }
+    ],
+    "geometry_source": "existing verified STEP, read only"
+  }
+]

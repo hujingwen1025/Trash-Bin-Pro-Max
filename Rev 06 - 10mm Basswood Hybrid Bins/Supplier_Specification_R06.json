@@ -1,0 +1,17 @@
+{
+  "product_title_user_supplied": "木板建筑模型材料手工diy椴木板三合板薄木板片激光切割定制木板",
+  "material_interpretation": "Basswood plywood (椴木三合板); actual veneer construction, grade and modulus not established by this title.",
+  "supplier_reply": "会有0.2mm左右的误差哦",
+  "tolerance_interpretation": "Conservatively tested as +/-0.2 mm on nominal floor stock; same range also tested for nominal 6 mm walls. Actual batch measurements and kerf not supplied.",
+  "nominal_wall_mm": 6,
+  "nominal_floor_mm": 10,
+  "floor_range_checked_mm": [
+    9.8,
+    10.2
+  ],
+  "wall_range_checked_mm": [
+    5.8,
+    6.2
+  ],
+  "production_release": "Approve physical coupons and the revised floor-pad sample, then one complete prototype, before making the other three."
+}

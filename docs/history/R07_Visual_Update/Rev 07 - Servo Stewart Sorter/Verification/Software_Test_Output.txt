@@ -1,0 +1,28 @@
+test_bridged_item_blocks_return (test_system.ControlTests.test_bridged_item_blocks_return) ... ok
+test_commissioning_bypass_only_qualification (test_system.ControlTests.test_commissioning_bypass_only_qualification) ... ok
+test_cooling_interval (test_system.ControlTests.test_cooling_interval) ... ok
+test_excess_usb_latency_latches (test_system.ControlTests.test_excess_usb_latency_latches) ... ok
+test_full_cycle (test_system.ControlTests.test_full_cycle) ... ok
+test_health_faults_latch (test_system.ControlTests.test_health_faults_latch) ... ok
+test_home_blocks_bridged_item (test_system.ControlTests.test_home_blocks_bridged_item) ... ok
+test_known_dump_can_home (test_system.ControlTests.test_known_dump_can_home) ... ok
+test_missing_arm_and_calibration (test_system.ControlTests.test_missing_arm_and_calibration) ... ok
+test_qualification_gate (test_system.ControlTests.test_qualification_gate) ... ok
+test_staging_failure_latches (test_system.ControlTests.test_staging_failure_latches) ... ok
+test_tracking_latches (test_system.ControlTests.test_tracking_latches) ... ok
+test_unknown_startup_blocks_motion (test_system.ControlTests.test_unknown_startup_blocks_motion) ... ok
+test_usb_feedback_latency_budget (test_system.ControlTests.test_usb_feedback_latency_budget) ... ok
+test_all_paths_close (test_system.KinematicsTests.test_all_paths_close) ... ok
+test_four_bin_mapping (test_system.KinematicsTests.test_four_bin_mapping) ... ok
+test_statics_balance (test_system.KinematicsTests.test_statics_balance) ... ok
+test_unreachable_and_invalid (test_system.KinematicsTests.test_unreachable_and_invalid) ... ok
+test_checksum (test_system.ProtocolTests.test_checksum) ... ok
+test_known_frame (test_system.ProtocolTests.test_known_frame) ... ok
+test_no_partial_invalid_move (test_system.ProtocolTests.test_no_partial_invalid_move) ... ok
+test_no_start_after_staging_failure (test_system.ProtocolTests.test_no_start_after_staging_failure) ... ok
+test_selected_status_fields_only (test_system.ProtocolTests.test_selected_status_fields_only) ... ok
+
+----------------------------------------------------------------------
+Ran 23 tests in 0.196s
+
+OK

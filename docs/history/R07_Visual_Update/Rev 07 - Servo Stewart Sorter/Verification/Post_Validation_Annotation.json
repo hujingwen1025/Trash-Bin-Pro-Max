@@ -1,0 +1,7 @@
+{
+  "change": "Withdraw unqualified30 mm placement-drop note; require gentle loading. No CAD shape, dimension, material, quantity, geometry or motion code changed.",
+  "previous_build_source_sha256": "8113e3a9493d8077ff04d15ca0b8be304596ff374dfd81b6fcad9253f4ffbeb5",
+  "current_build_source_sha256": "47b2a381807343528c729fc41cae54de3d616c8de70a0fa5a59727e954937fb9",
+  "digital_geometry_results_remain_applicable": true,
+  "STEP_STL_geometry_unchanged": true
+}

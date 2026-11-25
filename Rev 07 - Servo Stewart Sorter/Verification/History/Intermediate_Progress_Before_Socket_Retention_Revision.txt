@@ -1,0 +1,123 @@
+PASS M01_Post_Endcap solid and export
+PASS M02_Post_Core solid and export
+PASS M03_Base_Backplate solid and export
+PASS M04_Post_Shroud_Blank solid and export
+PASS M04_Internal_Splice solid and export
+PASS M04_INSTALLED_REFERENCE solid and export
+PASS M05_Bearing_Cheek solid and export
+PASS M06_Crank_Plate solid and export
+PASS M07_Servo_Horn_Adapter solid and export
+PASS M08_Fixed_Deck solid and export
+PASS M09_Moving_Carrier solid and export
+PASS M10_Tray solid and export
+PASS M11_Tray_Hat_Brace solid and export
+PASS M11_FLAT_BLANK solid and export
+PASS P01_Servo_Cradle solid and export
+PASS P02_U_Joint_Cross solid and export
+PASS P03_Lower_Rod_Fork solid and export
+PASS P04_Ball_Socket_Half solid and export
+PASS M12_Ball_Stud solid and export
+PASS P05_Upper_Rod_Coupler solid and export
+PASS M13_Link_Tube solid and export
+PASS P09_Socket_Wedge_L1 solid and export
+PASS P09_Socket_Wedge_L2 solid and export
+PASS P09_Socket_Wedge_L3 solid and export
+PASS P09_Socket_Wedge_L4 solid and export
+PASS P09_Socket_Wedge_L5 solid and export
+PASS P09_Socket_Wedge_L6 solid and export
+PASS P06_Discharge_Guide solid and export
+PASS P07_Guide_Post_Cap solid and export
+PASS P08_Rest_Pad solid and export
+PASS M14_Angle_Foot solid and export
+PASS M17_Front_Output_Cheek solid and export
+PASS M15_Belt_Tensioner solid and export
+PASS M16_Smooth_Tip_Pivot solid and export
+PASS M18_Tray_Perimeter_Frame solid and export
+PASS P10_Belt_Guard solid and export
+PASS Q02_Stop_Template_D1 solid and export
+PASS M05_Bearing_Cheek_D1_FINISHED solid and export
+PASS M17_Front_Output_Cheek_D1_FINISHED solid and export
+PASS Q02_Stop_Template_D2 solid and export
+PASS M05_Bearing_Cheek_D2_FINISHED solid and export
+PASS M17_Front_Output_Cheek_D2_FINISHED solid and export
+PASS Q02_Stop_Template_D3 solid and export
+PASS M05_Bearing_Cheek_D3_FINISHED solid and export
+PASS M17_Front_Output_Cheek_D3_FINISHED solid and export
+PASS Q02_Stop_Template_D4 solid and export
+PASS M05_Bearing_Cheek_D4_FINISHED solid and export
+PASS M17_Front_Output_Cheek_D4_FINISHED solid and export
+PASS Q02_Stop_Template_D5 solid and export
+PASS M05_Bearing_Cheek_D5_FINISHED solid and export
+PASS M17_Front_Output_Cheek_D5_FINISHED solid and export
+PASS Q02_Stop_Template_D6 solid and export
+PASS M05_Bearing_Cheek_D6_FINISHED solid and export
+PASS M17_Front_Output_Cheek_D6_FINISHED solid and export
+PASS M19_Double_Crank_Hub solid and export
+PASS M20_Output_Shaft solid and export
+PASS M21_Input_Shaft solid and export
+PASS M22_Parallel_Key solid and export
+PASS M23_Frame_Outrigger solid and export
+PASS M24_Backstop_Panel solid and export
+PASS M25_Short_Backstop_Bridge solid and export
+PASS M26_Anti_Rack_Bridge solid and export
+PASS M28_Radial_Deck_Rib solid and export
+PASS Q01_Fit_Ladder solid and export
+PASS Moving hardware mass allowance
+PASS All four complete paths close
+PASS Guarded servo travel
+PASS Normalized Jacobian conditioning
+PASS Crank transmission away from singularity
+PASS Rod tube centre-line envelope
+PASS Neighbouring crank line separation
+PASS Upper socket demanded cone
+PASS Peak torque below stall with factor
+PASS Link Euler buckling screen
+PASS 512 sampled dimensional perturbations
+PASS Keyed shaft torsion screen
+PASS 360 HTD5M belt tension adjustment screen
+PASS Steel post cantilever screen
+PASS Deck rib fastener access screen
+Loading parametric solids for collision checks
+Collision pose 1 / 301 pairs 776
+Collision pose 6 / 301 pairs 1360
+Collision pose 11 / 301 pairs 1929
+Collision pose 16 / 301 pairs 2450
+Collision pose 21 / 301 pairs 2967
+Collision pose 26 / 301 pairs 3490
+Collision pose 31 / 301 pairs 4019
+Collision pose 36 / 301 pairs 4550
+Collision pose 41 / 301 pairs 5058
+Collision pose 46 / 301 pairs 5558
+Collision pose 51 / 301 pairs 6061
+Collision pose 56 / 301 pairs 6566
+Collision pose 61 / 301 pairs 7073
+Collision pose 66 / 301 pairs 7673
+Collision pose 71 / 301 pairs 8273
+Collision pose 76 / 301 pairs 8871
+Collision pose 81 / 301 pairs 9471
+Collision pose 86 / 301 pairs 10072
+Collision pose 91 / 301 pairs 10664
+Collision pose 96 / 301 pairs 11251
+Collision pose 101 / 301 pairs 11840
+Collision pose 106 / 301 pairs 12432
+Collision pose 111 / 301 pairs 13032
+Collision pose 116 / 301 pairs 13640
+Collision pose 121 / 301 pairs 14257
+Collision pose 126 / 301 pairs 14852
+Collision pose 131 / 301 pairs 15446
+Collision pose 136 / 301 pairs 16036
+Collision pose 141 / 301 pairs 16625
+Collision pose 146 / 301 pairs 17210
+Collision pose 151 / 301 pairs 17795
+Collision pose 156 / 301 pairs 18381
+Traceback (most recent call last):
+  File "/Users/jingwen.hu/Files/GitHub/Trash Bin Pro Max/Rev 07 - Servo Stewart Sorter/Source/verify_geometry.py", line 192, in <module>
+    if __name__=='__main__':main()
+                            ^^^^^^
+  File "/Users/jingwen.hu/Files/GitHub/Trash Bin Pro Max/Rev 07 - Servo Stewart Sorter/Source/verify_geometry.py", line 154, in main
+    Ta=np.array(objects[i][3]);Tb=np.array(objects[j][3]);relative=np.c_[Ta[:3,:3].T@Tb[:3,:3],Ta[:3,:3].T@(Tb[:3,3]-Ta[:3,3])]
+                                                                   ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/private/tmp/trash-bin-hybrid-cad-env/lib/python3.11/site-packages/numpy/lib/_index_tricks_impl.py", line 419, in __getitem__
+    newobj = newobj.transpose(axes)
+             ^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt

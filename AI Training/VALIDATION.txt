@@ -1,0 +1,41 @@
+HGI-30 Mac trainer — validation record
+Date: 2026-11-20 (Asia/Shanghai)
+
+Environment
+  macOS 27.2.1, native arm64
+  Python 3.11.18
+  PyTorch 2.15.0
+  torchvision 0.29.2
+  Pillow 13.0.0
+  numpy 2.4.6
+
+Automated suite: PASS, 9 tests in 42.086 seconds
+  - Cached and uncached training/evaluation input tensors match exactly.
+  - Decoded-pixel duplicates are removed even across different file encodings.
+  - Conflicting labels and corrupt images stop training with an audit report.
+  - Optional skip-corrupt behavior retains the valid images.
+  - User-defined physical-item groups cannot cross train/val/test splits.
+  - Exact duplicate images cannot be assigned to different group IDs.
+  - Splits are repeatable with the same seed.
+  - Precision/recall/F1 and confusion matrix match a known example.
+  - Padding preserves the full image and produces finite normalized tensors.
+  - Real CPU training executes both classifier and full fine-tuning stages.
+  - macOS spawn data-loader workers run successfully outside the app sandbox.
+  - Checkpoints load with weights_only=True and contain CPU-portable tensors.
+  - New-image prediction works after loading the selected best checkpoint.
+  - Interrupted training resumes at the next complete epoch.
+  - Resuming a completed run preserves the best weights and test predictions.
+
+Metal GPU smoke test: PASS
+  Explicit MPS selection, ImageNet-pretrained EfficientNet-B0, 224x224 inputs,
+  float32, 2 spawn workers, 27 synthetic images in 3 classes, 2 total epochs
+  (1 classifier warm-up + 1 full fine-tuning epoch), followed by test evaluation.
+  Reloading the saved best checkpoint and predicting on MPS also succeeded.
+  This checked actual forward/backward computation, not only MPS availability.
+
+Scope
+  These are functional tests on synthetic images. The user's downloaded HGI-30
+  data was not accessed and no full HGI-30 training run was performed. Synthetic
+  test scores are not evidence of waste-recognition accuracy or training speed
+  on HGI-30. Mac performance and quality must be measured on the actual dataset.
+  Seeds do not guarantee bitwise-identical training across devices or resumes.

@@ -1,0 +1,483 @@
+{
+  "date": "2026-11-25",
+  "units": "mm; STL assumed millimetres, supported by matching known envelope",
+  "input_file": "/Users/jingwen.hu/.codex/attachments/744f3622-8c43-43e5-996d-7adc734101a4/Bin Studio - Bin (3).stl",
+  "input_sha256": "c452d0375a0c02c11b28c5ee07e32fef5f45eb4944629ee5cd9ec087e5026649",
+  "preserved_input": "Reference Inputs/744f3622--Bin Studio - Bin (3).stl",
+  "uploaded_coordinate_variant": "B1 (+X,+Y); the filename suffix (3) is not a bin-variant designation",
+  "R06_C01_variant_mesh_checks": {
+    "B1": {
+      "watertight": true,
+      "winding_consistent": true,
+      "bounds_after_reflection_to_B1_mm": [
+        [
+          2.5,
+          2.5,
+          0.0
+        ],
+        [
+          132.5,
+          132.5,
+          450.0
+        ]
+      ],
+      "B1_envelope_match": true
+    },
+    "B2": {
+      "watertight": true,
+      "winding_consistent": true,
+      "bounds_after_reflection_to_B1_mm": [
+        [
+          2.5,
+          2.5,
+          0.0
+        ],
+        [
+          132.5,
+          132.5,
+          450.0
+        ]
+      ],
+      "B1_envelope_match": true
+    },
+    "B3": {
+      "watertight": true,
+      "winding_consistent": true,
+      "bounds_after_reflection_to_B1_mm": [
+        [
+          2.5,
+          2.5,
+          0.0
+        ],
+        [
+          132.5,
+          132.5,
+          450.0
+        ]
+      ],
+      "B1_envelope_match": true
+    },
+    "B4": {
+      "watertight": true,
+      "winding_consistent": true,
+      "bounds_after_reflection_to_B1_mm": [
+        [
+          2.5,
+          2.5,
+          0.0
+        ],
+        [
+          132.5,
+          132.5,
+          450.0
+        ]
+      ],
+      "B1_envelope_match": true
+    }
+  },
+  "method": "Fresh mesh topology, planar-face measurements, fitted cylindrical patches, horizontal cross-sections, exact nominal hole-axis ray probes. No BRep conversion or physical trial. No geometry modified.",
+  "uploaded_mesh": {
+    "faces": 67462,
+    "vertices": 33733,
+    "watertight": true,
+    "winding_consistent": true,
+    "bounds_mm": [
+      [
+        2.5,
+        2.5,
+        0.0
+      ],
+      [
+        350.0,
+        350.0,
+        450.0
+      ]
+    ],
+    "envelope_mm": [
+      347.5,
+      347.5,
+      450.0
+    ],
+    "volume_mm3": 4097255.5900120735,
+    "principal_planes": {
+      "0": [
+        {
+          "position_mm": 350.0,
+          "area_mm2": 153991.5
+        },
+        {
+          "position_mm": 345.0,
+          "area_mm2": 146176.5
+        },
+        {
+          "position_mm": 2.5,
+          "area_mm2": 121630.77621459961
+        },
+        {
+          "position_mm": 7.5,
+          "area_mm2": 114711.82652282715
+        }
+      ],
+      "1": [
+        {
+          "position_mm": 350.0,
+          "area_mm2": 153991.5
+        },
+        {
+          "position_mm": 345.0,
+          "area_mm2": 146176.5
+        },
+        {
+          "position_mm": 2.5,
+          "area_mm2": 121630.77621459961
+        },
+        {
+          "position_mm": 7.5,
+          "area_mm2": 114711.82652282715
+        }
+      ],
+      "2": [
+        {
+          "position_mm": 0.0,
+          "area_mm2": 112686.54966882296
+        },
+        {
+          "position_mm": 10.0,
+          "area_mm2": 108057.8674091066
+        },
+        {
+          "position_mm": 450.0,
+          "area_mm2": 2682.985480023246
+        },
+        {
+          "position_mm": 5.0,
+          "area_mm2": 1994.4044597432949
+        }
+      ]
+    },
+    "cylinder_fits": [
+      {
+        "surface": "post-facing",
+        "radius_mm": 75.00808271327482,
+        "centre_XY_mm": [
+          0.00034869070027595487,
+          0.00034869064371877416
+        ],
+        "max_radial_residual_mm": 0.014278830234161433,
+        "vertices_used": 125
+      },
+      {
+        "surface": "trash-facing",
+        "radius_mm": 79.99093627160248,
+        "centre_XY_mm": [
+          0.00037931702097237775,
+          0.0003793169808937167
+        ],
+        "max_radial_residual_mm": 0.014260004794479642,
+        "vertices_used": 120
+      }
+    ],
+    "underside_magnet_pockets": [
+      {
+        "center_mm": [
+          250.00000230384376,
+          102.50000015849211
+        ],
+        "diameter_mm_approx": 25.196994035258804,
+        "area_mm2": 498.60111531834974
+      },
+      {
+        "center_mm": [
+          250.00000230384882,
+          250.0000023038489
+        ],
+        "diameter_mm_approx": 25.196996969606104,
+        "area_mm2": 498.6012318190384
+      },
+      {
+        "center_mm": [
+          102.50000015849226,
+          250.00000230384427
+        ],
+        "diameter_mm_approx": 25.196993994947785,
+        "area_mm2": 498.6011153183495
+      },
+      {
+        "center_mm": [
+          102.50000015849342,
+          102.50000015849338
+        ],
+        "diameter_mm_approx": 25.19699106060066,
+        "area_mm2": 498.60099881741894
+      }
+    ]
+  },
+  "R06_requirements": {
+    "wall_thickness_mm": 6,
+    "floor_thickness_mm": 10,
+    "height_mm": 450,
+    "outside_curve_radius_mm": 75,
+    "inside_curve_radius_mm": 81,
+    "curve_split_station_mm": 102.5,
+    "wall_M3_axes_z_mm": [
+      81,
+      225,
+      369
+    ],
+    "floor_M4_axes_radius_mm": 100,
+    "floor_M4_axes_angles_deg": [
+      22.5,
+      45,
+      67.5
+    ],
+    "C01_floor_pad_underside_mm": 10,
+    "C01_floor_pad_top_mm": 18,
+    "C01_models": {
+      "B1_C01": {
+        "sha256": "64611d92abaa7b0d16bb60bf765a3e5ec685570a6b429743f586dd61efe181e1"
+      },
+      "B2_C01": {
+        "sha256": "3eb476bd6cdeab3200ad3e8c60f35d3812124c83fe019f7a95e8d1bfec100e56"
+      },
+      "B3_C01": {
+        "sha256": "85ef44bdd69fbf716fe56431769158c357b05c3b793458f25f3d7fb1fbdc65be"
+      },
+      "B4_C01": {
+        "sha256": "d1649cfbe8be6bb6cb4b70d063b94003f277c283f1d5dd0edede68a28af28e14"
+      }
+    }
+  },
+  "hole_axis_probes": [
+    {
+      "wall": "front",
+      "Z_mm": 81.0,
+      "upload_ray_material_boundaries_mm": [
+        2.5,
+        7.5,
+        345.0,
+        350.0
+      ],
+      "R06_wood_wall_boundaries_mm": []
+    },
+    {
+      "wall": "left",
+      "Z_mm": 81.0,
+      "upload_ray_material_boundaries_mm": [
+        2.5,
+        7.5,
+        345.0,
+        350.0
+      ],
+      "R06_wood_wall_boundaries_mm": []
+    },
+    {
+      "wall": "front",
+      "Z_mm": 225.0,
+      "upload_ray_material_boundaries_mm": [
+        2.5,
+        7.5,
+        345.0,
+        350.0
+      ],
+      "R06_wood_wall_boundaries_mm": []
+    },
+    {
+      "wall": "left",
+      "Z_mm": 225.0,
+      "upload_ray_material_boundaries_mm": [
+        2.5,
+        7.5,
+        345.0,
+        350.0
+      ],
+      "R06_wood_wall_boundaries_mm": []
+    },
+    {
+      "wall": "front",
+      "Z_mm": 369.0,
+      "upload_ray_material_boundaries_mm": [
+        2.5,
+        7.5,
+        345.0,
+        350.0
+      ],
+      "R06_wood_wall_boundaries_mm": []
+    },
+    {
+      "wall": "left",
+      "Z_mm": 369.0,
+      "upload_ray_material_boundaries_mm": [
+        2.5,
+        7.5,
+        345.0,
+        350.0
+      ],
+      "R06_wood_wall_boundaries_mm": []
+    },
+    {
+      "floor_M4_angle_deg": 22.5,
+      "XY_mm": [
+        92.38795325112868,
+        38.268343236508976
+      ],
+      "upload_vertical_ray_boundaries_mm": [
+        1.0,
+        11.0
+      ],
+      "R06_floor_vertical_ray_boundaries_mm": [],
+      "ray_origin_Z_mm": -1
+    },
+    {
+      "floor_M4_angle_deg": 45,
+      "XY_mm": [
+        70.71067811865476,
+        70.71067811865474
+      ],
+      "upload_vertical_ray_boundaries_mm": [
+        1.0,
+        11.0
+      ],
+      "R06_floor_vertical_ray_boundaries_mm": [],
+      "ray_origin_Z_mm": -1
+    },
+    {
+      "floor_M4_angle_deg": 67.5,
+      "XY_mm": [
+        38.26834323650898,
+        92.38795325112868
+      ],
+      "upload_vertical_ray_boundaries_mm": [
+        1.0,
+        11.0
+      ],
+      "R06_floor_vertical_ray_boundaries_mm": [],
+      "ray_origin_Z_mm": -1
+    }
+  ],
+  "sections": {
+    "5.5": {
+      "upload_area_mm2": 116706.02630280501,
+      "C01_area_mm2": 287.98597240139594,
+      "C01_overlap_upload_mm2": 287.98319125607026,
+      "C01_overlap_uploaded_floor_zone_mm2": 287.98319125607037,
+      "C01_bounds_XY_mm": [
+        21.4561176,
+        21.4561176,
+        77.614624,
+        77.614624
+      ],
+      "upload_corner_bounds_mm": [
+        2.5,
+        2.5,
+        140.0,
+        140.0
+      ]
+    },
+    "15.0": {
+      "upload_area_mm2": 6685.174073675284,
+      "C01_area_mm2": 2634.1721900161538,
+      "C01_overlap_upload_mm2": 747.684859378167,
+      "C01_overlap_uploaded_floor_zone_mm2": 0,
+      "C01_bounds_XY_mm": [
+        2.5,
+        2.5,
+        132.5,
+        132.5
+      ],
+      "upload_corner_bounds_mm": [
+        2.5,
+        2.5,
+        140.0,
+        140.0
+      ]
+    },
+    "45.0": {
+      "upload_area_mm2": 6685.174094214832,
+      "C01_area_mm2": 1552.415798790352,
+      "C01_overlap_upload_mm2": 869.179719085308,
+      "C01_overlap_uploaded_floor_zone_mm2": 0,
+      "C01_bounds_XY_mm": [
+        2.5,
+        2.5,
+        132.5,
+        132.5
+      ],
+      "upload_corner_bounds_mm": [
+        2.5,
+        2.5,
+        140.0,
+        140.0
+      ]
+    },
+    "180.0": {
+      "upload_area_mm2": 6685.174187989527,
+      "C01_area_mm2": 1552.486877795043,
+      "C01_overlap_upload_mm2": 869.20058497614,
+      "C01_overlap_uploaded_floor_zone_mm2": 0,
+      "C01_bounds_XY_mm": [
+        2.5,
+        2.5,
+        132.5,
+        132.5
+      ],
+      "upload_corner_bounds_mm": [
+        2.5,
+        2.5,
+        140.0,
+        140.0
+      ]
+    },
+    "225.0": {
+      "upload_area_mm2": 6685.174219763576,
+      "C01_area_mm2": 1355.5613112832798,
+      "C01_overlap_upload_mm2": 747.721834850118,
+      "C01_overlap_uploaded_floor_zone_mm2": 0,
+      "C01_bounds_XY_mm": [
+        2.5,
+        2.5,
+        132.5,
+        132.5
+      ],
+      "upload_corner_bounds_mm": [
+        2.5,
+        2.5,
+        140.0,
+        140.0
+      ]
+    },
+    "405.0": {
+      "upload_area_mm2": 6685.174343022358,
+      "C01_area_mm2": 1552.552162106848,
+      "C01_overlap_upload_mm2": 869.3767952378358,
+      "C01_overlap_uploaded_floor_zone_mm2": 0,
+      "C01_bounds_XY_mm": [
+        2.5,
+        2.5,
+        132.5,
+        132.5
+      ],
+      "upload_corner_bounds_mm": [
+        2.5,
+        2.5,
+        140.0,
+        140.0
+      ]
+    }
+  },
+  "verdict": "NOT A DIRECT FIT to the supplied 5 mm-wall monolithic bin. R06 C01 is a replacement corner for the complete R06 6 mm-wall / 10 mm-floor hybrid panel system, not an add-on liner for an intact bin.",
+  "compatible_features": [
+    "Overall envelope 347.5 x 347.5 x 450",
+    "Nominal floor top Z10",
+    "Post-facing R75 curve"
+  ],
+  "mismatches": [
+    "5 mm uploaded walls versus 6 mm R06 walls",
+    "Uploaded trash-facing curve R80 versus R81 released C01; C01 also has internal fastening flanges/pads",
+    "No released C01 alternating wall fingers/slots in the monolithic upload",
+    "Released side M3 and floor M4 openings absent at their nominal axes",
+    "Uploaded underside magnet pockets are not released floor through-holes for separate M01 inserts"
+  ],
+  "physical_tests_performed": false,
+  "R06_files_unchanged": true,
+  "existing_R06_file_count_checked": 239
+}

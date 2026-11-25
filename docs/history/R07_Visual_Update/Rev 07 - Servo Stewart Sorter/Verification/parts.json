@@ -1,0 +1,1026 @@
+{
+  "M01_Post_Endcap": {
+    "quantity": 2,
+    "material": "S235 steel",
+    "kind": "metal",
+    "notes": "Weld concentrically to M02; top/bottom faces remain flat. Six M6 clearance holes PCD100. TOP cap: weld three captive M5 rest-rod nuts and three captive M3 cable-anchor nuts underneath before closing core. Leave bottom cap auxiliary bores unused.",
+    "bounds": [
+      -72.5,
+      -72.5,
+      0.0,
+      72.50000000000036,
+      72.50000000000036,
+      6.0
+    ],
+    "volume_mm3": 97210.0082669875,
+    "folder": "01_Metal"
+  },
+  "M02_Post_Core": {
+    "quantity": 1,
+    "material": "S235 steel tube",
+    "kind": "metal",
+    "notes": "60 OD x 3 wall x 500.5 long. Weld to two M01 caps. Weld strength inspection required.",
+    "bounds": [
+      -30.0,
+      -30.0,
+      0.0,
+      30.0,
+      30.0,
+      500.5
+    ],
+    "volume_mm3": 268874.7780538092,
+    "folder": "01_Metal"
+  },
+  "M03_Base_Backplate": {
+    "quantity": 1,
+    "material": "S235 steel",
+    "kind": "metal",
+    "notes": "Six M6 through bolts with washers/nyloc nuts. Maintain flat base support.",
+    "bounds": [
+      -72.5,
+      -72.5,
+      0.0,
+      72.50000000000036,
+      72.50000000000036,
+      3.0
+    ],
+    "volume_mm3": 48900.54160839857,
+    "folder": "01_Metal"
+  },
+  "M04_Post_Shroud_Blank": {
+    "quantity": 1,
+    "material": "5052-H32 aluminium",
+    "kind": "metal",
+    "notes": "ROLL to OD147.5 with BUTT seam, not overlap. Bond internal15 mm splice strip, clear of endcaps. No external seam thickness in147.7 pocket. Sample roundness/seat before finishing.",
+    "bounds": [
+      0.0,
+      0.0,
+      0.0,
+      460.87164228162,
+      512.5,
+      0.8
+    ],
+    "volume_mm3": 188957.3733354653,
+    "folder": "01_Metal"
+  },
+  "M04_Internal_Splice": {
+    "quantity": 1,
+    "material": "5052-H32 aluminium",
+    "kind": "metal",
+    "notes": "Internal shroud BUTT-seam splice. Bond centred over seam, clear of endcaps. Not structural. Roll and trim on actual jig before coating.",
+    "bounds": [
+      0.0,
+      0.0,
+      0.0,
+      15.0,
+      490.0,
+      0.8
+    ],
+    "volume_mm3": 5880.0,
+    "folder": "01_Metal"
+  },
+  "M04_INSTALLED_REFERENCE": {
+    "quantity": 0,
+    "material": "REFERENCE ONLY",
+    "kind": "metal",
+    "notes": "Rolled shape reference; cut M04_Post_Shroud_Blank instead.",
+    "bounds": [
+      -73.75,
+      -73.75,
+      0.0,
+      73.75,
+      73.75,
+      512.5
+    ],
+    "volume_mm3": 188957.37333546672,
+    "folder": "01_Metal"
+  },
+  "M05_Bearing_Cheek": {
+    "quantity": 6,
+    "material": "6061-T6 aluminium",
+    "kind": "metal",
+    "notes": "Output bearing0/0; input bearing40/-96. Both22 H7. Tall feet keep cranks clear of fixed deck. Guard pilots2.5 tappedM3 in rear cheek only. Common blank; drive-specific STOP holes drilled with template. Order6 rear blanks plus six separately labelled finished FRONT versions, not12+6.",
+    "bounds": [
+      -18.0,
+      -114.0,
+      0.0,
+      58.00000000004259,
+      42.0,
+      8.0
+    ],
+    "volume_mm3": 63460.70401321518,
+    "folder": "01_Metal"
+  },
+  "M06_Crank_Plate": {
+    "quantity": 12,
+    "material": "6061-T6 aluminium",
+    "kind": "metal",
+    "notes": "8 H7 shaft bore; clamp with8 mm M19 double hub OD24x26/PCD16/fourM3 holes per face. M4 shoulder pin through joint at100.5 mm centre distance. Require supplier drawing confirmingPCD16 before ordering hubs; sample first. No grub-screw-only torque joint.",
+    "bounds": [
+      -14.0,
+      -14.0,
+      0.0,
+      104.5,
+      14.0,
+      6.0
+    ],
+    "volume_mm3": 12839.377732647004,
+    "folder": "01_Metal"
+  },
+  "M07_Servo_Horn_Adapter": {
+    "quantity": 6,
+    "material": "6061-T6 aluminium",
+    "kind": "metal",
+    "notes": "8 H7 bore,2 mm keyed collar16 long; shaft key transmits torque. MATCH DRILL actual metal servo horn and retain original centre screw. No spline invented. Prototype one before six. Axial shaft retention by collars. Threaded holes need actual horn pattern.",
+    "bounds": [
+      -17.0,
+      -17.0,
+      0.0,
+      17.0,
+      17.0,
+      16.0
+    ],
+    "volume_mm3": 5212.933365126428,
+    "folder": "01_Metal"
+  },
+  "M08_Fixed_Deck": {
+    "quantity": 1,
+    "material": "6061-T6 aluminium",
+    "kind": "metal",
+    "notes": "6 mm,540 maximum OD clipped at diagonal planes230 from centre. Pedestals stand on top. Installed undersideZ520 directly on post cap; no post spacers. Clearance ports for belt guards added after fixed-cell geometry is checked.",
+    "bounds": [
+      -270.0,
+      -270.0,
+      0.0,
+      270.0,
+      270.0,
+      6.0
+    ],
+    "volume_mm3": 1128771.9057521848,
+    "folder": "01_Metal"
+  },
+  "M09_Moving_Carrier": {
+    "quantity": 1,
+    "material": "6061-T6 aluminium",
+    "kind": "metal",
+    "notes": "4 mm; installed underside13 above joint plane. Drill2.5 and tapM3 along supplied joint axes AFTER laser cutting. P09 wedges guide the drilling; do not laser the REFERENCE circles. Use4 mm thread engagement and trim screw tips flush below carrier top; tighten0.3 Nm with threadlocker.",
+    "bounds": [
+      -94.0,
+      -94.0,
+      -5.995291967325231e-12,
+      94.00000000000023,
+      94.00000000000023,
+      4.000000000007964
+    ],
+    "volume_mm3": 67414.56792700119,
+    "folder": "01_Metal"
+  },
+  "M10_Tray": {
+    "quantity": 1,
+    "material": "5052-H32 aluminium",
+    "kind": "metal",
+    "notes": "360 square, corners chamfer15; rotate45deg in cabinet. MUST install M18 perimeter frame plus four M11 braces. Countersink through assembled sheet/support stack for flushM3 heads, not unsupported1 mm sheet. Set items down gently. Free-drop and impact loading are not qualified.",
+    "bounds": [
+      -243.95183950932105,
+      -243.95183950930002,
+      0.0,
+      243.95183950935,
+      243.95183950935,
+      1.0
+    ],
+    "volume_mm3": 128895.78232247158,
+    "folder": "01_Metal"
+  },
+  "M11_Tray_Hat_Brace": {
+    "quantity": 4,
+    "material": "5052-H32 aluminium",
+    "kind": "metal",
+    "notes": "FORM1.5 mm sheet, finished width24 and height9. Root begins at fileX18, total142 length. Webs notched4 mm high up to fileX94. Top flange against tray underside. Use3.5 mm spacers at carrier screws. Open bottom. STEP governs finished shape; shop develops blank after bend sample.",
+    "bounds": [
+      18.0,
+      -12.0,
+      0.0,
+      160.0,
+      12.0,
+      9.0
+    ],
+    "volume_mm3": 7340.524783386751,
+    "folder": "01_Metal"
+  },
+  "M11_FLAT_BLANK": {
+    "quantity": 0,
+    "material": "REFERENCE ONLY",
+    "kind": "metal",
+    "notes": "Bend allowance trial: finished profile M11 governs; neutral K-factor0.4 / inside radius1.5. Shop must develop blank and make one forming sample before four; this blank is reference only.",
+    "bounds": [
+      0.0,
+      0.0,
+      0.0,
+      160.0,
+      38.0,
+      1.5
+    ],
+    "volume_mm3": 9065.52478338675,
+    "folder": "01_Metal"
+  },
+  "P01_Servo_Cradle": {
+    "quantity": 6,
+    "material": "PETG",
+    "kind": "print",
+    "notes": "0.5 mm nominal body clearance per side, thin rubber lining. Mount with four M4 bolts. Two stainless band straps retain body; slide servo to align actual horn, then drill strap anchors on sample. Purchase body/horn sample first.",
+    "bounds": [
+      -17.0,
+      3.0,
+      -114.0,
+      74.0,
+      64.0,
+      -78.0
+    ],
+    "volume_mm3": 31972.117705501994,
+    "folder": "02_Print"
+  },
+  "P02_U_Joint_Cross": {
+    "quantity": 6,
+    "material": "PETG",
+    "kind": "print",
+    "notes": "Print solid; main pivot 4.2 through Y; two 3.2 x3 blind dog-point seats along X. Ream to pins. No intersecting full pins. Grease lightly; use smooth shoulder surfaces, not screw threads as bearings.",
+    "bounds": [
+      -8.0,
+      -8.0,
+      -8.0,
+      8.0,
+      8.0,
+      8.0
+    ],
+    "volume_mm3": 2620.339598686715,
+    "folder": "02_Print"
+  },
+  "P03_Lower_Rod_Fork": {
+    "quantity": 6,
+    "material": "PETG",
+    "kind": "print",
+    "notes": "Tube end22 from joint centre; socket8.2 x24. Pin M3 at40 from joint centre. Fit M3 heat-set inserts to fork outer arms for opposing dog-point pivots; adjust to rotate freely with <0.2 axial play. Q01 proves fits before production.",
+    "bounds": [
+      -12.2,
+      -7.0000001,
+      -6.0,
+      12.2,
+      7.0000001,
+      46.0000001
+    ],
+    "volume_mm3": 5460.80079268874,
+    "folder": "02_Print"
+  },
+  "P04_Ball_Socket_Half": {
+    "quantity": 12,
+    "material": "PETG",
+    "kind": "print",
+    "notes": "Two halves enclose one M12 ball stud (ball diameter16, not M12 thread). Ball cavity16.3; neck flare55deg. Three-axis swivel required. Print solid; fit coupon and pull test before use. Identical halves, second flipped.",
+    "bounds": [
+      -18.0,
+      -11.0,
+      0.0,
+      18.0,
+      11.0,
+      6.000000000001307
+    ],
+    "volume_mm3": 1791.666037314436,
+    "folder": "02_Print"
+  },
+  "M12_Ball_Stud": {
+    "quantity": 6,
+    "material": "304 stainless steel",
+    "kind": "metal",
+    "notes": "TURN ball16 +/-0.02, neck4, external M4 thread from axial10 to34; root blend radius0.5 minimum. All six identical. STEP thread represented by major diameter only. Deburr/polish sphere. Do not substitute gas-spring studs with thicker neck.",
+    "bounds": [
+      -8.0,
+      -8.0,
+      -8.0,
+      8.0,
+      8.0,
+      34.0
+    ],
+    "volume_mm3": 2472.9737755472024,
+    "folder": "01_Metal"
+  },
+  "P05_Upper_Rod_Coupler": {
+    "quantity": 6,
+    "material": "PETG",
+    "kind": "print",
+    "notes": "M4x8x6 brass heat-set insert18..26 in5.6 pilot bore; tube socket8.2 from26..50; M3 through pin at44. Q01 must verify actual insert. Tube cross holes18 from each end. M4 thin jam nut against face18. Do not rely on adhesive alone.",
+    "bounds": [
+      -7.0000001,
+      -7.0000001,
+      17.9999999,
+      7.0000001,
+      7.0000001,
+      50.0000001
+    ],
+    "volume_mm3": 3414.347244580304,
+    "folder": "02_Print"
+  },
+  "M13_Link_Tube": {
+    "quantity": 6,
+    "material": "6061-T6 aluminium tube",
+    "kind": "metal",
+    "notes": "8 OD x1 wall x249.080 +/-0.10. Cross-drill3.2 at18 from each end, deburr ID. Finished joint-centre length297.080 +/-0.20, with8 mm minimum thread engagement. Same six blanks.",
+    "bounds": [
+      -4.000000100074337,
+      -4.0000001,
+      -1e-07,
+      4.0000001,
+      4.0000001,
+      249.0800001
+    ],
+    "volume_mm3": 5444.445880650258,
+    "folder": "01_Metal"
+  },
+  "P09_Socket_Wedge_L1": {
+    "quantity": 1,
+    "material": "PETG",
+    "kind": "print",
+    "notes": "Keep labelL1; flat face mounts under carrier at jointZ+13. Other face matches P04 socket. Do not interchange wedges without verifying pose. Use actual ball-stud sample and articulation test.",
+    "bounds": [
+      -16.20846741076046,
+      -18.472225828560003,
+      -0.163787976047,
+      10.349332805892999,
+      16.54752376795874,
+      13.000000100000005
+    ],
+    "volume_mm3": 2162.606426558494,
+    "folder": "02_Print"
+  },
+  "P09_Socket_Wedge_L2": {
+    "quantity": 1,
+    "material": "PETG",
+    "kind": "print",
+    "notes": "Keep labelL2; flat face mounts under carrier at jointZ+13. Other face matches P04 socket. Do not interchange wedges without verifying pose. Use actual ball-stud sample and articulation test.",
+    "bounds": [
+      -11.732544672120548,
+      -18.71561613187,
+      -0.17013382384800418,
+      5.565878198341,
+      18.626552329372,
+      13.000000100000006
+    ],
+    "volume_mm3": 2162.6178152065418,
+    "folder": "02_Print"
+  },
+  "P09_Socket_Wedge_L3": {
+    "quantity": 1,
+    "material": "PETG",
+    "kind": "print",
+    "notes": "Keep labelL3; flat face mounts under carrier at jointZ+13. Other face matches P04 socket. Do not interchange wedges without verifying pose. Use actual ball-stud sample and articulation test.",
+    "bounds": [
+      -9.611428753683999,
+      -19.56527484491508,
+      -0.1697034279095756,
+      14.222427670733,
+      15.448806131464472,
+      13.0000001
+    ],
+    "volume_mm3": 2162.1057833298046,
+    "folder": "02_Print"
+  },
+  "P09_Socket_Wedge_L4": {
+    "quantity": 1,
+    "material": "PETG",
+    "kind": "print",
+    "notes": "Keep labelL4; flat face mounts under carrier at jointZ+13. Other face matches P04 socket. Do not interchange wedges without verifying pose. Use actual ball-stud sample and articulation test.",
+    "bounds": [
+      -16.32532347683,
+      -11.601583394388348,
+      -0.17348113732654866,
+      19.48575536094348,
+      6.289411575533126,
+      13.0000001
+    ],
+    "volume_mm3": 2162.1127757722925,
+    "folder": "02_Print"
+  },
+  "P09_Socket_Wedge_L5": {
+    "quantity": 1,
+    "material": "PETG",
+    "kind": "print",
+    "notes": "Keep labelL5; flat face mounts under carrier at jointZ+13. Other face matches P04 socket. Do not interchange wedges without verifying pose. Use actual ball-stud sample and articulation test.",
+    "bounds": [
+      -17.77827394769965,
+      -2.462861653514483,
+      -0.17378006667009782,
+      19.04590483788281,
+      8.504019223709154,
+      13.0000001
+    ],
+    "volume_mm3": 2162.4282649899365,
+    "folder": "02_Print"
+  },
+  "P09_Socket_Wedge_L6": {
+    "quantity": 1,
+    "material": "PETG",
+    "kind": "print",
+    "notes": "Keep labelL6; flat face mounts under carrier at jointZ+13. Other face matches P04 socket. Do not interchange wedges without verifying pose. Use actual ball-stud sample and articulation test.",
+    "bounds": [
+      -14.4337657945,
+      -12.640498113645888,
+      -0.163662221312,
+      17.450805186616,
+      18.025413608196,
+      13.00000010000031
+    ],
+    "volume_mm3": 2162.4075907857014,
+    "folder": "02_Print"
+  },
+  "P06_Discharge_Guide": {
+    "quantity": 4,
+    "material": "PETG",
+    "kind": "print",
+    "notes": "True3 mm floor thickness NORMAL to slope; three12 mm underside ribs. One piece. Bosses extend2 mm inward from inlet. Use0.3 PET/PP smooth liner. M5x8x7 inserts in6.3 blind pilots, M5x20 studs into2020 posts. Remove whole guide/post module via twoM5 thumb bolts beneath fixed deck. InletR200/Z750; kneeR240/Z630; outletR254/Z480; boss footZ620.",
+    "bounds": [
+      -2.8460498941520087,
+      -182.0,
+      -14.61734532162,
+      54.000000000005976,
+      182.0,
+      273.00000000000057
+    ],
+    "volume_mm3": 425882.2423433792,
+    "folder": "02_Print"
+  },
+  "P07_Guide_Post_Cap": {
+    "quantity": 8,
+    "material": "PETG",
+    "kind": "print",
+    "notes": "Fits2020 profile20.0 nominal,0.2 per side. Centre5.5 clearance forM5 stud; profile4.2 bore tappedM5. Fit actual extrusion sample first.",
+    "bounds": [
+      -15.0,
+      -15.0,
+      -6.0,
+      15.0,
+      15.0,
+      6.0
+    ],
+    "volume_mm3": 6590.883411114456,
+    "folder": "02_Print"
+  },
+  "P08_Rest_Pad": {
+    "quantity": 3,
+    "material": "TPU95A",
+    "kind": "print",
+    "notes": "M5 adjustable support pad, resting contact only; not structural fastener. Three pads on independent support tower at radius20.",
+    "bounds": [
+      -10.0,
+      -10.0,
+      0.0,
+      10.0,
+      10.0,
+      12.0
+    ],
+    "volume_mm3": 2982.156826420111,
+    "folder": "02_Print"
+  },
+  "M14_Angle_Foot": {
+    "quantity": 18,
+    "material": "6061-T6 aluminium angle",
+    "kind": "metal",
+    "notes": "40 length,20 vertical x12 horizontal x3 angle, cut down20x20 stock. Two5.5 holes in each leg. One foot per cheek. Purchase angle stock then drill, or machine from STEP. Keep inside corner radius clear of cheek.",
+    "bounds": [
+      -20.0,
+      0.0,
+      -114.0,
+      20.0,
+      12.0,
+      -94.0
+    ],
+    "volume_mm3": 3194.900466686726,
+    "folder": "01_Metal"
+  },
+  "M17_Front_Output_Cheek": {
+    "quantity": 0,
+    "material": "6061-T6 aluminium",
+    "kind": "metal",
+    "notes": "Tall front bearing/hard-stop pedestal.22 H7 bore. FinishedD1-D6 versions govern stop holes. Blank reference only; order six finishedD1-D6 versions instead.",
+    "bounds": [
+      -64.0,
+      -114.0,
+      0.0,
+      18.0,
+      42.0,
+      8.0
+    ],
+    "volume_mm3": 74722.8056002407,
+    "folder": "01_Metal"
+  },
+  "M15_Belt_Tensioner": {
+    "quantity": 6,
+    "material": "6061-T6 aluminium",
+    "kind": "metal",
+    "notes": "4 mm plate. Pivot5.5 at40/-74, idler8.5 at50.3/-44. Match drill clamp hole against actual sample cheek after setting360-5M-15 belt tension; no automatic fabrication release for that finishing operation.",
+    "bounds": [
+      13.0,
+      -81.0,
+      0.0,
+      63.0,
+      -30.0,
+      4.0
+    ],
+    "volume_mm3": 9061.986753007046,
+    "folder": "01_Metal"
+  },
+  "M16_Smooth_Tip_Pivot": {
+    "quantity": 12,
+    "material": "304 stainless steel",
+    "kind": "metal",
+    "notes": "M3 external thread first9 mm, final3 mm smooth diameter3.0 -0.03. Slot head or wrench flats at outer end. Adjust tip2.5 mm into P02 blind seat, secure M3 jam nut; never clamp cross solid.",
+    "bounds": [
+      0.0,
+      -1.5,
+      -1.5,
+      12.0,
+      1.5,
+      1.5
+    ],
+    "volume_mm3": 84.82300164692441,
+    "folder": "01_Metal"
+  },
+  "M18_Tray_Perimeter_Frame": {
+    "quantity": 1,
+    "material": "6063-T5 aluminium",
+    "kind": "metal",
+    "notes": "Eight mitred15x15x1 angle segments, jig to STEP and weld/join into one ring. Four long and four short segments;22.5deg end mitres. Test one frame before tray batch. Finished top face15 above local underside, installed7 above joint plane. Top holes match tray. Do not print this frame.",
+    "bounds": [
+      -242.95183950930004,
+      -242.95183950932255,
+      0.0,
+      242.95183950935007,
+      242.95183950935,
+      15.0
+    ],
+    "volume_mm3": 39647.609741104156,
+    "folder": "01_Metal"
+  },
+  "P10_Belt_Guard": {
+    "quantity": 6,
+    "material": "PETG",
+    "kind": "print",
+    "notes": "Two M3x35 screws into tapped rear cheek;27 mm spacers are integral. Guard before powered tests. Ventilation open toward cheek. Use20T TOOTHED inside idler, never small smooth backside idler. Inspect belt/idler clearances with power disconnected.",
+    "bounds": [
+      -34.0,
+      -119.0,
+      0.0,
+      74.3,
+      41.00000000000001,
+      27.0
+    ],
+    "volume_mm3": 50938.931351899904,
+    "folder": "02_Print"
+  },
+  "Q02_Stop_Template_D1": {
+    "quantity": 1,
+    "material": "PETG",
+    "kind": "print",
+    "notes": "DriveD1 only. Locate on8 mm output shaft; clamp/template zero to cheek vertical. Drill6.2 through FRONT M05 and M17 pair. Two diameter6 shoulder stops supported at both ends; test without power. Template not a working stop.",
+    "bounds": [
+      -18.0,
+      -42.0,
+      0.0,
+      18.0,
+      42.0,
+      2.0
+    ],
+    "volume_mm3": 5821.616833382318,
+    "folder": "02_Print"
+  },
+  "M05_Bearing_Cheek_D1_FINISHED": {
+    "quantity": 1,
+    "material": "6061-T6 aluminium",
+    "kind": "metal",
+    "notes": "DriveD1 finished stop bores. Same outline as common blank; finishing holes make this handed/label-specific. Do not order extra blank on top of this finished part.",
+    "bounds": [
+      -18.0,
+      -114.0,
+      0.0,
+      58.00000000004259,
+      42.0,
+      8.0
+    ],
+    "volume_mm3": 62977.65272679924,
+    "folder": "01_Metal"
+  },
+  "M17_Front_Output_Cheek_D1_FINISHED": {
+    "quantity": 1,
+    "material": "6061-T6 aluminium",
+    "kind": "metal",
+    "notes": "DriveD1 finished stop bores. Same outline as common blank; finishing holes make this handed/label-specific. Do not order extra blank on top of this finished part.",
+    "bounds": [
+      -64.0,
+      -114.0,
+      0.0,
+      18.0,
+      42.0,
+      8.0
+    ],
+    "volume_mm3": 73993.85841958488,
+    "folder": "01_Metal"
+  },
+  "Q02_Stop_Template_D2": {
+    "quantity": 1,
+    "material": "PETG",
+    "kind": "print",
+    "notes": "DriveD2 only. Locate on8 mm output shaft; clamp/template zero to cheek vertical. Drill6.2 through FRONT M05 and M17 pair. Two diameter6 shoulder stops supported at both ends; test without power. Template not a working stop.",
+    "bounds": [
+      -18.0,
+      -42.0,
+      0.0,
+      18.0,
+      42.0,
+      2.0
+    ],
+    "volume_mm3": 5821.616833382318,
+    "folder": "02_Print"
+  },
+  "M05_Bearing_Cheek_D2_FINISHED": {
+    "quantity": 1,
+    "material": "6061-T6 aluminium",
+    "kind": "metal",
+    "notes": "DriveD2 finished stop bores. Same outline as common blank; finishing holes make this handed/label-specific. Do not order extra blank on top of this finished part.",
+    "bounds": [
+      -18.0,
+      -114.0,
+      0.0,
+      58.00000000004259,
+      42.0,
+      8.0
+    ],
+    "volume_mm3": 62977.65272679924,
+    "folder": "01_Metal"
+  },
+  "M17_Front_Output_Cheek_D2_FINISHED": {
+    "quantity": 1,
+    "material": "6061-T6 aluminium",
+    "kind": "metal",
+    "notes": "DriveD2 finished stop bores. Same outline as common blank; finishing holes make this handed/label-specific. Do not order extra blank on top of this finished part.",
+    "bounds": [
+      -64.0,
+      -114.0,
+      0.0,
+      18.0,
+      42.00000000000015,
+      8.0
+    ],
+    "volume_mm3": 65188.406630311816,
+    "folder": "01_Metal"
+  },
+  "Q02_Stop_Template_D3": {
+    "quantity": 1,
+    "material": "PETG",
+    "kind": "print",
+    "notes": "DriveD3 only. Locate on8 mm output shaft; clamp/template zero to cheek vertical. Drill6.2 through FRONT M05 and M17 pair. Two diameter6 shoulder stops supported at both ends; test without power. Template not a working stop.",
+    "bounds": [
+      -18.0,
+      -42.0,
+      0.0,
+      18.0,
+      42.0,
+      2.0
+    ],
+    "volume_mm3": 5821.61683338232,
+    "folder": "02_Print"
+  },
+  "M05_Bearing_Cheek_D3_FINISHED": {
+    "quantity": 1,
+    "material": "6061-T6 aluminium",
+    "kind": "metal",
+    "notes": "DriveD3 finished stop bores. Same outline as common blank; finishing holes make this handed/label-specific. Do not order extra blank on top of this finished part.",
+    "bounds": [
+      -18.0,
+      -114.0,
+      0.0,
+      58.00000000004259,
+      42.0,
+      8.0
+    ],
+    "volume_mm3": 62977.65272679924,
+    "folder": "01_Metal"
+  },
+  "M17_Front_Output_Cheek_D3_FINISHED": {
+    "quantity": 1,
+    "material": "6061-T6 aluminium",
+    "kind": "metal",
+    "notes": "DriveD3 finished stop bores. Same outline as common blank; finishing holes make this handed/label-specific. Do not order extra blank on top of this finished part.",
+    "bounds": [
+      -64.0,
+      -114.0,
+      0.0,
+      18.0,
+      42.0,
+      8.0
+    ],
+    "volume_mm3": 73993.85841958488,
+    "folder": "01_Metal"
+  },
+  "Q02_Stop_Template_D4": {
+    "quantity": 1,
+    "material": "PETG",
+    "kind": "print",
+    "notes": "DriveD4 only. Locate on8 mm output shaft; clamp/template zero to cheek vertical. Drill6.2 through FRONT M05 and M17 pair. Two diameter6 shoulder stops supported at both ends; test without power. Template not a working stop.",
+    "bounds": [
+      -18.0,
+      -42.0,
+      0.0,
+      18.0,
+      42.0,
+      2.0
+    ],
+    "volume_mm3": 5821.61683338232,
+    "folder": "02_Print"
+  },
+  "M05_Bearing_Cheek_D4_FINISHED": {
+    "quantity": 1,
+    "material": "6061-T6 aluminium",
+    "kind": "metal",
+    "notes": "DriveD4 finished stop bores. Same outline as common blank; finishing holes make this handed/label-specific. Do not order extra blank on top of this finished part.",
+    "bounds": [
+      -18.0,
+      -114.0,
+      0.0,
+      58.00000000004259,
+      42.0,
+      8.0
+    ],
+    "volume_mm3": 62977.65272679924,
+    "folder": "01_Metal"
+  },
+  "M17_Front_Output_Cheek_D4_FINISHED": {
+    "quantity": 1,
+    "material": "6061-T6 aluminium",
+    "kind": "metal",
+    "notes": "DriveD4 finished stop bores. Same outline as common blank; finishing holes make this handed/label-specific. Do not order extra blank on top of this finished part.",
+    "bounds": [
+      -64.0,
+      -114.0,
+      0.0,
+      18.0,
+      42.00000000000015,
+      8.0
+    ],
+    "volume_mm3": 65188.4066303119,
+    "folder": "01_Metal"
+  },
+  "Q02_Stop_Template_D5": {
+    "quantity": 1,
+    "material": "PETG",
+    "kind": "print",
+    "notes": "DriveD5 only. Locate on8 mm output shaft; clamp/template zero to cheek vertical. Drill6.2 through FRONT M05 and M17 pair. Two diameter6 shoulder stops supported at both ends; test without power. Template not a working stop.",
+    "bounds": [
+      -18.0,
+      -42.0,
+      0.0,
+      18.0,
+      42.0,
+      2.0
+    ],
+    "volume_mm3": 5821.616833382318,
+    "folder": "02_Print"
+  },
+  "M05_Bearing_Cheek_D5_FINISHED": {
+    "quantity": 1,
+    "material": "6061-T6 aluminium",
+    "kind": "metal",
+    "notes": "DriveD5 finished stop bores. Same outline as common blank; finishing holes make this handed/label-specific. Do not order extra blank on top of this finished part.",
+    "bounds": [
+      -18.0,
+      -114.0,
+      0.0,
+      58.00000000004259,
+      42.0,
+      8.0
+    ],
+    "volume_mm3": 62977.65272679926,
+    "folder": "01_Metal"
+  },
+  "M17_Front_Output_Cheek_D5_FINISHED": {
+    "quantity": 1,
+    "material": "6061-T6 aluminium",
+    "kind": "metal",
+    "notes": "DriveD5 finished stop bores. Same outline as common blank; finishing holes make this handed/label-specific. Do not order extra blank on top of this finished part.",
+    "bounds": [
+      -64.0,
+      -114.0,
+      0.0,
+      18.0,
+      42.0,
+      8.0
+    ],
+    "volume_mm3": 73993.85841958488,
+    "folder": "01_Metal"
+  },
+  "Q02_Stop_Template_D6": {
+    "quantity": 1,
+    "material": "PETG",
+    "kind": "print",
+    "notes": "DriveD6 only. Locate on8 mm output shaft; clamp/template zero to cheek vertical. Drill6.2 through FRONT M05 and M17 pair. Two diameter6 shoulder stops supported at both ends; test without power. Template not a working stop.",
+    "bounds": [
+      -18.0,
+      -42.0,
+      0.0,
+      18.0,
+      42.0,
+      2.0
+    ],
+    "volume_mm3": 5821.616833382319,
+    "folder": "02_Print"
+  },
+  "M05_Bearing_Cheek_D6_FINISHED": {
+    "quantity": 1,
+    "material": "6061-T6 aluminium",
+    "kind": "metal",
+    "notes": "DriveD6 finished stop bores. Same outline as common blank; finishing holes make this handed/label-specific. Do not order extra blank on top of this finished part.",
+    "bounds": [
+      -18.0,
+      -114.0,
+      0.0,
+      58.00000000004259,
+      42.0,
+      8.0
+    ],
+    "volume_mm3": 62977.65272679924,
+    "folder": "01_Metal"
+  },
+  "M17_Front_Output_Cheek_D6_FINISHED": {
+    "quantity": 1,
+    "material": "6061-T6 aluminium",
+    "kind": "metal",
+    "notes": "DriveD6 finished stop bores. Same outline as common blank; finishing holes make this handed/label-specific. Do not order extra blank on top of this finished part.",
+    "bounds": [
+      -64.0,
+      -114.0,
+      0.0,
+      18.0,
+      42.00000000000015,
+      8.0
+    ],
+    "volume_mm3": 65188.40663031183,
+    "folder": "01_Metal"
+  },
+  "M19_Double_Crank_Hub": {
+    "quantity": 6,
+    "material": "C45 quenched/tempered steel",
+    "kind": "metal",
+    "notes": "Yield>=500 MPa with supplier certificate. OD24 x26; bore8 H7,2 H9 keyway0.8 deep. FourM3 blind taps6 deep PCD16 at EACH end, pilot2.5 shown. Two crank plates share one hub. M3x10 screws with1 mm washers engage3 mm minimum; blue threadlocker.",
+    "bounds": [
+      -12.0,
+      -12.0,
+      -13.0,
+      12.0,
+      12.0,
+      13.0
+    ],
+    "volume_mm3": 10175.330732902905,
+    "folder": "01_Metal"
+  },
+  "M20_Output_Shaft": {
+    "quantity": 6,
+    "material": "C45 quenched/tempered steel",
+    "kind": "metal",
+    "notes": "Yield>=500 MPa. OD8 h6 x124, keyseat2 P9 width x1.2 deep, full length as STEP. Deburr slot lips, polish bearing seats. Axial collars both ends. Keys transmit torque; no set-screw-only drive.",
+    "bounds": [
+      -4.0,
+      -4.0,
+      0.0,
+      4.0,
+      3.872983346207391,
+      124.0
+    ],
+    "volume_mm3": 5945.752263590546,
+    "folder": "01_Metal"
+  },
+  "M21_Input_Shaft": {
+    "quantity": 6,
+    "material": "C45 quenched/tempered steel",
+    "kind": "metal",
+    "notes": "Yield>=500 MPa. OD8 h6 x82, keyseat2 P9 width x1.2 deep, full length as STEP. Deburr slot lips, polish bearing seats. Axial collars both ends. Keys transmit torque; no set-screw-only drive.",
+    "bounds": [
+      -4.0,
+      -4.0,
+      0.0,
+      4.0,
+      3.872983346207391,
+      82.0
+    ],
+    "volume_mm3": 3931.868432374393,
+    "folder": "01_Metal"
+  },
+  "M22_Parallel_Key": {
+    "quantity": 24,
+    "material": "C45 steel",
+    "kind": "metal",
+    "notes": "2 h9 x2 x14 standard parallel key. Prototype actual2 mm key/keyway fit. Four per drive: two output shaft seats, two input shaft seats. Same24 parts; buy stock keys rather than print.",
+    "bounds": [
+      -1.0,
+      2.8,
+      -7.0,
+      1.0,
+      4.8,
+      7.0
+    ],
+    "volume_mm3": 56.00000000000001,
+    "folder": "01_Metal"
+  },
+  "M23_Frame_Outrigger": {
+    "quantity": 4,
+    "material": "S235 steel",
+    "kind": "metal",
+    "notes": "Four identical corner plates. Installed under original base at corner; fourM6 flush-head through bolts into base plus post centreM5 and two reinforced feet. Mirror plate placement by rotating aboutZ; hole pattern symmetric underX/Y exchange.",
+    "bounds": [
+      0.0,
+      0.0,
+      0.0,
+      70.0,
+      70.0,
+      6.0
+    ],
+    "volume_mm3": 28151.26404408785,
+    "folder": "01_Metal"
+  },
+  "M24_Backstop_Panel": {
+    "quantity": 4,
+    "material": "5052-H32 aluminium",
+    "kind": "metal",
+    "notes": "Same four360x300 panels. Installed radial planeR300, bottomZ500, topZ800. Bond20 mmEVA foam on bin-facing surface; trim foam around screws and radius all edges. Four instrumented physical impact trials before service.",
+    "bounds": [
+      -180.0,
+      0.0,
+      0.0,
+      180.0,
+      300.0,
+      2.0
+    ],
+    "volume_mm3": 215714.90046668687,
+    "folder": "01_Metal"
+  },
+  "M25_Short_Backstop_Bridge": {
+    "quantity": 16,
+    "material": "S235 steel",
+    "kind": "metal",
+    "notes": "Upper/lower bridges bolt to2020 end taps and outer railT-nuts. Long bridge stacks with short bridge at one upright per panel; use3 mm spacers at its outer rail end. This triangle prevents free racking; do not omit long bridge.",
+    "bounds": [
+      -12.0,
+      -15.0,
+      0.0,
+      44.781133185882,
+      15.0,
+      3.0
+    ],
+    "volume_mm3": 4967.752220072772,
+    "folder": "01_Metal"
+  },
+  "M26_Anti_Rack_Bridge": {
+    "quantity": 8,
+    "material": "S235 steel",
+    "kind": "metal",
+    "notes": "Upper/lower bridges bolt to2020 end taps and outer railT-nuts. Long bridge stacks with short bridge at one upright per panel; use3 mm spacers at its outer rail end. This triangle prevents free racking; do not omit long bridge.",
+    "bounds": [
+      -12.0,
+      -15.0,
+      0.0,
+      263.98423535371,
+      15.0,
+      3.0
+    ],
+    "volume_mm3": 24696.031415177447,
+    "folder": "01_Metal"
+  },
+  "M28_Radial_Deck_Rib": {
+    "quantity": 6,
+    "material": "6061-T6 aluminium",
+    "kind": "metal",
+    "notes": "Six140x20x3 ribs beneath M08, radius75..215, upper edgeZ520. Shop weld3 mm fillets both sides, stagger30 mm welds/15 mm gaps; jig deck flat, inspect welds and final anchor planes. Weld before final precision holes/reaming. As-welded aluminium strength governs; verify deck deflection physically. Do not omit ribs.",
+    "bounds": [
+      0.0,
+      0.0,
+      0.0,
+      140.0,
+      20.0,
+      3.0
+    ],
+    "volume_mm3": 8400.0,
+    "folder": "01_Metal"
+  },
+  "Q01_Fit_Ladder": {
+    "quantity": 1,
+    "material": "PETG",
+    "kind": "print",
+    "notes": "Extra sample: bores8.0,8.2,22.0,4.2 left to right. Also print2xP04 and1xP02/P03/P05 before six sets. Heat-set insert bores must be sized to actual insert datasheet, sample first.",
+    "bounds": [
+      0.0,
+      -14.0,
+      0.0,
+      90.0,
+      14.0,
+      8.0
+    ],
+    "volume_mm3": 16183.497682792182,
+    "folder": "02_Print"
+  }
+}

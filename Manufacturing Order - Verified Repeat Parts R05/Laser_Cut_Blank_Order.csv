@@ -1,0 +1,5 @@
+DWG_file,Material,Thickness_mm,Blank_quantity,Secondary_operations
+01_Laser_Cut/DWG/B1_W01.dwg,Birch plywood,6,4,No countersinks
+01_Laser_Cut/DWG/B1_W02.dwg,Birch plywood,6,4,No countersinks
+01_Laser_Cut/DWG/B1_W03.dwg,Birch plywood,6,8,Finish 4 as B1_W03.step; finish 4 as B1_W04.step (opposite countersink faces)
+01_Laser_Cut/DWG/B1_F01.dwg,Birch plywood,9,4,Three diameter 8 x 90-degree countersinks from underside; see finished STEP

@@ -1,0 +1,6 @@
+{
+  "box_pairs": 80,
+  "false_rejections": [],
+  "pass": true,
+  "method": "random oriented boxes checked against independent BRep common volumes"
+}

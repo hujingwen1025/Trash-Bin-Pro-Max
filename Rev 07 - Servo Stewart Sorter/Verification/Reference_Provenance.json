@@ -1,0 +1,44 @@
+{
+  "input_files": [
+    {
+      "file": "Reference Inputs/Base Parts Assembly - Base Plate.stl",
+      "sha256": "4d475395b912fa493044a9ca602ca7f0fe75baeb997148a74d9afe4fdb597cf7"
+    },
+    {
+      "file": "Reference Inputs/Base Parts Assembly - Bin.stl",
+      "sha256": "4f804b79db5ed36dcdf6a2fb6c13c214946091fdc80cd188b3258d43b3d0ef17"
+    },
+    {
+      "file": "Reference Inputs/Base Parts Assembly - Platform.stl",
+      "sha256": "a702aa4833e1ace1dcbb4df71c51d9bd77dfed5f5fb6a0d9baf3ecc515049585"
+    },
+    {
+      "file": "Reference Inputs/HTD85H_manufacturer_dimensions.jpg",
+      "sha256": "3bd0de81e8c5acebaf0ea4a0da52e5a1f417176bc248ea07e37ea5f2999d1689"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hiwonder.com/products/htd-85h",
+      "use": "Servo dimensions,85kg.cm stall at11.1V,115200UART; not continuous rating"
+    },
+    {
+      "url": "https://www.hiwonder.com/products/buslinker",
+      "use": "USB/UART adapter; verify legacy HTD protocol on sample"
+    },
+    {
+      "url": "https://display.meanwell.com/Upload/PDF/LRS-350/LRS-350-SPEC.PDF",
+      "use": "12V29A supply specification; purchase prewired enclosed mains assembly"
+    },
+    {
+      "url": "https://raw.org/research/inverse-kinematics-of-a-stewart-platform/",
+      "use": "Rotary crank Stewart inverse-kinematics derivation"
+    },
+    {
+      "url": "https://www.gates.com/content/dam/gates/home/knowledge-center/resource-library/operating-manuals/preventive-maintenance-manual-en.pdf",
+      "use": "Toothed inside idler selection; no small smooth backside idler"
+    }
+  ],
+  "physical_tests_performed": false,
+  "supplier_quotes_accepted": 0
+}

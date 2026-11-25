@@ -1,0 +1,27 @@
+{
+  "revision": "R07",
+  "release": "PROTOTYPE REVIEW / SAMPLE QUOTING ONLY",
+  "manufacturing_release": false,
+  "procurement_release": false,
+  "physical_tests_performed": false,
+  "budget_cap_CNY": 3000,
+  "accepted_quotes": 0,
+  "payload_target_kg": 2,
+  "moving_hardware_model_kg": 1.3,
+  "CAD_engineering_checks": 86,
+  "sampled_distinct_solid_poses": 301,
+  "individual_part_export_checks": 64,
+  "DWG_checks": 65,
+  "cut_reference_checks": 65,
+  "software_tests": 23,
+  "PDF_pages": 94,
+  "unresolved": [
+    "Actual servo/horn/bearing/belt/key/insert and fastener sample interfaces",
+    "Printed strength/creep, full loads, thermal duty and wire/cable routing",
+    "Bin impact cushioning, real-item routing, restrained power-loss and removal tests",
+    "Accepted all-in quotations within hard CNY3000 cap"
+  ],
+  "post_validation_metadata": "Annotation and exact envelope corrections only; unchanged solids and conservative original collision bounds are evidenced in Verification.",
+  "visual_update": "A: 13 labelled assembly illustrations, component colours and colour key; unchanged engineering files/software",
+  "visual_update_evidence": "Verification/Visual_Update_Verification.json"
+}

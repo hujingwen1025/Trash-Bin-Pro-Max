@@ -1,0 +1,9 @@
+Representative_finished_STEP,Quantity_total,Material,Thickness_mm,Manufacturing_process,Assign_copies_to
+02_Finished_STEP/B1_W01.step,4,Birch plywood,6,Laser cut + specified countersinking,B1_W01; B2_W01; B3_W01; B4_W01
+02_Finished_STEP/B1_W02.step,4,Birch plywood,6,Laser cut + specified countersinking,B1_W02; B2_W02; B3_W02; B4_W02
+02_Finished_STEP/B1_W03.step,4,Birch plywood,6,Laser cut + specified countersinking,B1_W03; B2_W04; B3_W04; B4_W03
+02_Finished_STEP/B1_W04.step,4,Birch plywood,6,Laser cut + specified countersinking,B1_W04; B2_W03; B3_W03; B4_W04
+02_Finished_STEP/B1_F01.step,4,Birch plywood,9,Laser cut + specified countersinking,B1_F01; B2_F01; B3_F01; B4_F01
+02_Finished_STEP/B1_C01.step,2,PETG,,3D print,B1_C01; B4_C01
+02_Finished_STEP/B2_C01.step,2,PETG,,3D print,B2_C01; B3_C01
+02_Finished_STEP/M01_magnet_insert.step,16,PETG,,3D print,4 inserts per bin; all interchangeable

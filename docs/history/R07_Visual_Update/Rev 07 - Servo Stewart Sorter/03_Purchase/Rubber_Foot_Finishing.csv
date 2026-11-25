@@ -1,0 +1,5 @@
+feature,centre_X_mm,centre_Y_mm,width_mm,length_mm,depth_from_top_mm,note
+M6 nut recess,-10,-10,18,18,10,Pattern relative to40x40 foot centre; rotate complete pattern with outrigger
+M5 head notch,15,15,10,10,7,"Additional finishing, not fully modelled in purchased-envelope STEP; verify actual stack"
+M5 head notch,0,15,10,10,7,"Additional finishing, not fully modelled in purchased-envelope STEP; verify actual stack"
+M5 head notch,15,0,10,10,7,"Additional finishing, not fully modelled in purchased-envelope STEP; verify actual stack"

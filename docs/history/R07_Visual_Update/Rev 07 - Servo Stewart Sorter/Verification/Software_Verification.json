@@ -1,0 +1,16 @@
+{
+  "tests_run": 23,
+  "failures": 0,
+  "errors": 0,
+  "hardware_used": false,
+  "method": "unittest with fake serial bus/clock plus numerical kinematics",
+  "source_sha256": {
+    "Software/bus.py": "8919ed5367853ad81edc52f9f8090d211cec06d7196a407b94801cca5649d047",
+    "Software/calibrate.py": "72368b47d0616bd71928a7ee27b7561454d5682dd5f611d1bdd787f30f4bbabe",
+    "Software/controller.py": "e8db238a15f4229bf397bd4e94fc18514df850ff63c33f8293d64c12fc329390",
+    "Software/geometry.py": "8ecaa815ba12c5fd4b0d64938a3e753bdcd7503754580534905b5dc5acf767fa",
+    "Software/sorter.py": "b6b2c0ecb32eb590f3f58bf17216e37653a10ff098bef5f7031c0974b776e10a",
+    "Software/tests/test_system.py": "53333d01808638c101b6446c702f028a46aa8f37164e2ad41b7dfb21669d1ccc"
+  },
+  "configuration_sha256": "cc4691f54e28e5fca81cbdb74a465ff876f8aa0b15d2f9b633fa206c8517afa5"
+}

@@ -1,0 +1,524 @@
+{
+  "all_passed": true,
+  "tests": [
+    {
+      "file": "01_Metal/DXF/M01_Post_Endcap.dxf",
+      "pass": true,
+      "units": 4,
+      "CUT_entities": 13,
+      "quantity": 2,
+      "role": "production rough cut"
+    },
+    {
+      "file": "01_Metal/DXF/M02_Post_Core.dxf",
+      "pass": true,
+      "units": 4,
+      "CUT_entities": 0,
+      "quantity": 1,
+      "role": "reference only"
+    },
+    {
+      "file": "01_Metal/DXF/M03_Base_Backplate.dxf",
+      "pass": true,
+      "units": 4,
+      "CUT_entities": 7,
+      "quantity": 1,
+      "role": "production rough cut"
+    },
+    {
+      "file": "01_Metal/DXF/M04_Post_Shroud_Blank.dxf",
+      "pass": true,
+      "units": 4,
+      "CUT_entities": 1,
+      "quantity": 1,
+      "role": "production rough cut"
+    },
+    {
+      "file": "01_Metal/DXF/M04_Internal_Splice.dxf",
+      "pass": true,
+      "units": 4,
+      "CUT_entities": 1,
+      "quantity": 1,
+      "role": "production rough cut"
+    },
+    {
+      "file": "01_Metal/DXF/M04_INSTALLED_REFERENCE.dxf",
+      "pass": true,
+      "units": 4,
+      "CUT_entities": 0,
+      "quantity": 0,
+      "role": "reference only"
+    },
+    {
+      "file": "01_Metal/DXF/M05_Bearing_Cheek.dxf",
+      "pass": true,
+      "units": 4,
+      "CUT_entities": 8,
+      "quantity": 6,
+      "role": "production rough cut"
+    },
+    {
+      "file": "01_Metal/DXF/M06_Crank_Plate.dxf",
+      "pass": true,
+      "units": 4,
+      "CUT_entities": 7,
+      "quantity": 12,
+      "role": "production rough cut"
+    },
+    {
+      "file": "01_Metal/DXF/M07_Servo_Horn_Adapter.dxf",
+      "pass": true,
+      "units": 4,
+      "CUT_entities": 0,
+      "quantity": 6,
+      "role": "reference only"
+    },
+    {
+      "file": "01_Metal/DXF/M08_Fixed_Deck.dxf",
+      "pass": true,
+      "units": 4,
+      "CUT_entities": 87,
+      "quantity": 1,
+      "role": "production rough cut"
+    },
+    {
+      "file": "01_Metal/DXF/M09_Moving_Carrier.dxf",
+      "pass": true,
+      "units": 4,
+      "CUT_entities": 24,
+      "quantity": 1,
+      "role": "production rough cut"
+    },
+    {
+      "file": "01_Metal/DXF/M10_Tray.dxf",
+      "pass": true,
+      "units": 4,
+      "CUT_entities": 29,
+      "quantity": 1,
+      "role": "production rough cut"
+    },
+    {
+      "file": "01_Metal/DXF/M11_Tray_Hat_Brace.dxf",
+      "pass": true,
+      "units": 4,
+      "CUT_entities": 0,
+      "quantity": 4,
+      "role": "reference only"
+    },
+    {
+      "file": "01_Metal/DXF/M11_FLAT_BLANK.dxf",
+      "pass": true,
+      "units": 4,
+      "CUT_entities": 0,
+      "quantity": 0,
+      "role": "reference only"
+    },
+    {
+      "file": "02_Print/DXF/P01_Servo_Cradle.dxf",
+      "pass": true,
+      "units": 4,
+      "CUT_entities": 0,
+      "quantity": 6,
+      "role": "reference only"
+    },
+    {
+      "file": "02_Print/DXF/P02_U_Joint_Cross.dxf",
+      "pass": true,
+      "units": 4,
+      "CUT_entities": 0,
+      "quantity": 6,
+      "role": "reference only"
+    },
+    {
+      "file": "02_Print/DXF/P03_Lower_Rod_Fork.dxf",
+      "pass": true,
+      "units": 4,
+      "CUT_entities": 0,
+      "quantity": 6,
+      "role": "reference only"
+    },
+    {
+      "file": "02_Print/DXF/P04_Ball_Socket_Half.dxf",
+      "pass": true,
+      "units": 4,
+      "CUT_entities": 0,
+      "quantity": 12,
+      "role": "reference only"
+    },
+    {
+      "file": "01_Metal/DXF/M12_Ball_Stud.dxf",
+      "pass": true,
+      "units": 4,
+      "CUT_entities": 0,
+      "quantity": 6,
+      "role": "reference only"
+    },
+    {
+      "file": "02_Print/DXF/P05_Upper_Rod_Coupler.dxf",
+      "pass": true,
+      "units": 4,
+      "CUT_entities": 0,
+      "quantity": 6,
+      "role": "reference only"
+    },
+    {
+      "file": "01_Metal/DXF/M13_Link_Tube.dxf",
+      "pass": true,
+      "units": 4,
+      "CUT_entities": 0,
+      "quantity": 6,
+      "role": "reference only"
+    },
+    {
+      "file": "02_Print/DXF/P09_Socket_Wedge_L1.dxf",
+      "pass": true,
+      "units": 4,
+      "CUT_entities": 0,
+      "quantity": 1,
+      "role": "reference only"
+    },
+    {
+      "file": "02_Print/DXF/P09_Socket_Wedge_L2.dxf",
+      "pass": true,
+      "units": 4,
+      "CUT_entities": 0,
+      "quantity": 1,
+      "role": "reference only"
+    },
+    {
+      "file": "02_Print/DXF/P09_Socket_Wedge_L3.dxf",
+      "pass": true,
+      "units": 4,
+      "CUT_entities": 0,
+      "quantity": 1,
+      "role": "reference only"
+    },
+    {
+      "file": "02_Print/DXF/P09_Socket_Wedge_L4.dxf",
+      "pass": true,
+      "units": 4,
+      "CUT_entities": 0,
+      "quantity": 1,
+      "role": "reference only"
+    },
+    {
+      "file": "02_Print/DXF/P09_Socket_Wedge_L5.dxf",
+      "pass": true,
+      "units": 4,
+      "CUT_entities": 0,
+      "quantity": 1,
+      "role": "reference only"
+    },
+    {
+      "file": "02_Print/DXF/P09_Socket_Wedge_L6.dxf",
+      "pass": true,
+      "units": 4,
+      "CUT_entities": 0,
+      "quantity": 1,
+      "role": "reference only"
+    },
+    {
+      "file": "02_Print/DXF/P06_Discharge_Guide.dxf",
+      "pass": true,
+      "units": 4,
+      "CUT_entities": 0,
+      "quantity": 4,
+      "role": "reference only"
+    },
+    {
+      "file": "02_Print/DXF/P07_Guide_Post_Cap.dxf",
+      "pass": true,
+      "units": 4,
+      "CUT_entities": 0,
+      "quantity": 8,
+      "role": "reference only"
+    },
+    {
+      "file": "02_Print/DXF/P08_Rest_Pad.dxf",
+      "pass": true,
+      "units": 4,
+      "CUT_entities": 0,
+      "quantity": 3,
+      "role": "reference only"
+    },
+    {
+      "file": "01_Metal/DXF/M14_Angle_Foot.dxf",
+      "pass": true,
+      "units": 4,
+      "CUT_entities": 0,
+      "quantity": 18,
+      "role": "reference only"
+    },
+    {
+      "file": "01_Metal/DXF/M17_Front_Output_Cheek.dxf",
+      "pass": true,
+      "units": 4,
+      "CUT_entities": 0,
+      "quantity": 0,
+      "role": "reference only"
+    },
+    {
+      "file": "01_Metal/DXF/M15_Belt_Tensioner.dxf",
+      "pass": true,
+      "units": 4,
+      "CUT_entities": 3,
+      "quantity": 6,
+      "role": "production rough cut"
+    },
+    {
+      "file": "01_Metal/DXF/M16_Smooth_Tip_Pivot.dxf",
+      "pass": true,
+      "units": 4,
+      "CUT_entities": 0,
+      "quantity": 12,
+      "role": "reference only"
+    },
+    {
+      "file": "01_Metal/DXF/M18_Tray_Perimeter_Frame.dxf",
+      "pass": true,
+      "units": 4,
+      "CUT_entities": 0,
+      "quantity": 1,
+      "role": "reference only"
+    },
+    {
+      "file": "02_Print/DXF/P10_Belt_Guard.dxf",
+      "pass": true,
+      "units": 4,
+      "CUT_entities": 0,
+      "quantity": 6,
+      "role": "reference only"
+    },
+    {
+      "file": "02_Print/DXF/Q02_Stop_Template_D1.dxf",
+      "pass": true,
+      "units": 4,
+      "CUT_entities": 0,
+      "quantity": 1,
+      "role": "reference only"
+    },
+    {
+      "file": "01_Metal/DXF/M05_Bearing_Cheek_D1_FINISHED.dxf",
+      "pass": true,
+      "units": 4,
+      "CUT_entities": 10,
+      "quantity": 1,
+      "role": "production rough cut"
+    },
+    {
+      "file": "01_Metal/DXF/M17_Front_Output_Cheek_D1_FINISHED.dxf",
+      "pass": true,
+      "units": 4,
+      "CUT_entities": 6,
+      "quantity": 1,
+      "role": "production rough cut"
+    },
+    {
+      "file": "02_Print/DXF/Q02_Stop_Template_D2.dxf",
+      "pass": true,
+      "units": 4,
+      "CUT_entities": 0,
+      "quantity": 1,
+      "role": "reference only"
+    },
+    {
+      "file": "01_Metal/DXF/M05_Bearing_Cheek_D2_FINISHED.dxf",
+      "pass": true,
+      "units": 4,
+      "CUT_entities": 10,
+      "quantity": 1,
+      "role": "production rough cut"
+    },
+    {
+      "file": "01_Metal/DXF/M17_Front_Output_Cheek_D2_FINISHED.dxf",
+      "pass": true,
+      "units": 4,
+      "CUT_entities": 6,
+      "quantity": 1,
+      "role": "production rough cut"
+    },
+    {
+      "file": "02_Print/DXF/Q02_Stop_Template_D3.dxf",
+      "pass": true,
+      "units": 4,
+      "CUT_entities": 0,
+      "quantity": 1,
+      "role": "reference only"
+    },
+    {
+      "file": "01_Metal/DXF/M05_Bearing_Cheek_D3_FINISHED.dxf",
+      "pass": true,
+      "units": 4,
+      "CUT_entities": 10,
+      "quantity": 1,
+      "role": "production rough cut"
+    },
+    {
+      "file": "01_Metal/DXF/M17_Front_Output_Cheek_D3_FINISHED.dxf",
+      "pass": true,
+      "units": 4,
+      "CUT_entities": 6,
+      "quantity": 1,
+      "role": "production rough cut"
+    },
+    {
+      "file": "02_Print/DXF/Q02_Stop_Template_D4.dxf",
+      "pass": true,
+      "units": 4,
+      "CUT_entities": 0,
+      "quantity": 1,
+      "role": "reference only"
+    },
+    {
+      "file": "01_Metal/DXF/M05_Bearing_Cheek_D4_FINISHED.dxf",
+      "pass": true,
+      "units": 4,
+      "CUT_entities": 10,
+      "quantity": 1,
+      "role": "production rough cut"
+    },
+    {
+      "file": "01_Metal/DXF/M17_Front_Output_Cheek_D4_FINISHED.dxf",
+      "pass": true,
+      "units": 4,
+      "CUT_entities": 6,
+      "quantity": 1,
+      "role": "production rough cut"
+    },
+    {
+      "file": "02_Print/DXF/Q02_Stop_Template_D5.dxf",
+      "pass": true,
+      "units": 4,
+      "CUT_entities": 0,
+      "quantity": 1,
+      "role": "reference only"
+    },
+    {
+      "file": "01_Metal/DXF/M05_Bearing_Cheek_D5_FINISHED.dxf",
+      "pass": true,
+      "units": 4,
+      "CUT_entities": 10,
+      "quantity": 1,
+      "role": "production rough cut"
+    },
+    {
+      "file": "01_Metal/DXF/M17_Front_Output_Cheek_D5_FINISHED.dxf",
+      "pass": true,
+      "units": 4,
+      "CUT_entities": 6,
+      "quantity": 1,
+      "role": "production rough cut"
+    },
+    {
+      "file": "02_Print/DXF/Q02_Stop_Template_D6.dxf",
+      "pass": true,
+      "units": 4,
+      "CUT_entities": 0,
+      "quantity": 1,
+      "role": "reference only"
+    },
+    {
+      "file": "01_Metal/DXF/M05_Bearing_Cheek_D6_FINISHED.dxf",
+      "pass": true,
+      "units": 4,
+      "CUT_entities": 10,
+      "quantity": 1,
+      "role": "production rough cut"
+    },
+    {
+      "file": "01_Metal/DXF/M17_Front_Output_Cheek_D6_FINISHED.dxf",
+      "pass": true,
+      "units": 4,
+      "CUT_entities": 6,
+      "quantity": 1,
+      "role": "production rough cut"
+    },
+    {
+      "file": "01_Metal/DXF/M19_Double_Crank_Hub.dxf",
+      "pass": true,
+      "units": 4,
+      "CUT_entities": 0,
+      "quantity": 6,
+      "role": "reference only"
+    },
+    {
+      "file": "01_Metal/DXF/M20_Output_Shaft.dxf",
+      "pass": true,
+      "units": 4,
+      "CUT_entities": 0,
+      "quantity": 6,
+      "role": "reference only"
+    },
+    {
+      "file": "01_Metal/DXF/M21_Input_Shaft.dxf",
+      "pass": true,
+      "units": 4,
+      "CUT_entities": 0,
+      "quantity": 6,
+      "role": "reference only"
+    },
+    {
+      "file": "01_Metal/DXF/M22_Parallel_Key.dxf",
+      "pass": true,
+      "units": 4,
+      "CUT_entities": 0,
+      "quantity": 24,
+      "role": "reference only"
+    },
+    {
+      "file": "01_Metal/DXF/M23_Frame_Outrigger.dxf",
+      "pass": true,
+      "units": 4,
+      "CUT_entities": 8,
+      "quantity": 4,
+      "role": "production rough cut"
+    },
+    {
+      "file": "01_Metal/DXF/M24_Backstop_Panel.dxf",
+      "pass": true,
+      "units": 4,
+      "CUT_entities": 7,
+      "quantity": 4,
+      "role": "production rough cut"
+    },
+    {
+      "file": "01_Metal/DXF/M25_Short_Backstop_Bridge.dxf",
+      "pass": true,
+      "units": 4,
+      "CUT_entities": 3,
+      "quantity": 16,
+      "role": "production rough cut"
+    },
+    {
+      "file": "01_Metal/DXF/M26_Anti_Rack_Bridge.dxf",
+      "pass": true,
+      "units": 4,
+      "CUT_entities": 3,
+      "quantity": 8,
+      "role": "production rough cut"
+    },
+    {
+      "file": "01_Metal/DXF/M28_Radial_Deck_Rib.dxf",
+      "pass": true,
+      "units": 4,
+      "CUT_entities": 1,
+      "quantity": 6,
+      "role": "production rough cut"
+    },
+    {
+      "file": "02_Print/DXF/Q01_Fit_Ladder.dxf",
+      "pass": true,
+      "units": 4,
+      "CUT_entities": 0,
+      "quantity": 1,
+      "role": "reference only"
+    },
+    {
+      "file": "01_Metal/DXF/BASE_Drill_Template.dxf",
+      "pass": true,
+      "DRILL_holes": 22
+    }
+  ],
+  "precision_bores": "21.5 rough to22H7;7.5 rough to8H7; STEP finished sizes",
+  "kerf": "apply once at actual machine"
+}
